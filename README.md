@@ -67,8 +67,8 @@ The students will be able to pick any project in any programming language.
 
 ## Some more background
 
-* A [list of higher education institutions]() that published open source code.
-* A [list of corporations]() that published open source code.
+* A [list of higher education institutions](https://github.com/szabgab/open-source-by-higher-education) that published open source code.
+* A [list of corporations](https://github.com/szabgab/open-source-by-corporations) that published open source code.
 
 ## Additional reading material
 
