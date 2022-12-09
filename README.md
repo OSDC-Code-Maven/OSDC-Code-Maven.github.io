@@ -4,7 +4,7 @@ In this course, participants will learn and practice how to build, maintain, and
 
 ## Why this course?
 
-Both in the industry and in Research at Higher Education Institutions people use an ennourmosu amount of open source code.
+Both in the industry and in Research at Higher Education Institutions people use an enormous amount of open source code.
 Many of these organizations also publish some of the code they write under some OSI approved license.
 
 These projects need development and maintenance work.
@@ -21,7 +21,7 @@ It will enable them, if your organization agrees, to publish some of the code th
 It will also help those who would like to move on to the industry by teaching them some of the tools that are used there.
 
 The course will include some presentations, and a lot of hands-on work.
-The hands-on work will include a few artifical examples designed to get the basics, but the majority will be on real projects.
+The hands-on work will include a few artificial examples designed to get the basics, but the majority will be on real projects.
 We will work on the source code they write in their research, if necessary in private GitHub accounts so the code won't become public.
 We will also work on the various biology, chemistry, physics, etc. oriented open source projects they use in their projects.
 
@@ -35,11 +35,12 @@ The students will be able to pick any project in any programming language.
 
 * Working with Git/GitHub/GitLab.
 * Opening issues, bug reports.
-* Commenting on the issues amd bug reports of others.
+* Commenting on the issues and bug reports of others.
 * Learn reading and understanding code written by other developers.
 * Sending Pull-Requests.
 * Commenting on each-others pull-requests.
 * Writing automated tests.
+* Generating html from the documentation.
 * Improving the documentation.
 * Fixing bugs.
 
@@ -52,7 +53,7 @@ The students will be able to pick any project in any programming language.
 * The value of CI systems (Demo GitHub Actions)
 * Markdown and creating GitHub pages to take notes of the course
 * Understanding other CI system (eg. Jenkins)
-* Git on the command line
+* Git on the command line including branching, merging, rebasing, stash, bisect.
 * Forking,  cloning, sending pull-request
 * Finding an open source project to contribute to.
 * Run the tests of a project
@@ -60,7 +61,7 @@ The students will be able to pick any project in any programming language.
 * Running a static code analyzer (linter) on the project.
 * Add tests to a project
 * Configure CI (GitHub Actions or GitLab pipeline)
-* Repeate the last few items several times
+* Repeat the last few items several times
 
 
 
@@ -79,4 +80,10 @@ The students will be able to pick any project in any programming language.
 * The Art Of Community by Jono Bacon (available [free](https://www.jonobacon.com/books/artofcommunity/) or [buy](https://www.jonobacon.com/books/artofcommunity/))
 * Working in Public: The Making and Maintenance of Open Source Software by Nadia Eghbal ([buy](https://www.amazon.com/dp/0578675862/)
 * Just for Fun: The Story of an Accidental Revolutionary by Linus Torvalds, David Diamond ([buy](https://www.amazon.com/gp/product/0066620724)
+
+## About the instructor
+
+Gabor Szabo has been writing software since 1983, working in the hi-tech industry since 1993, teaching software development since 2000, contributing to open source since 2002.
+He is the author of the [Code Maven](https://code-maven.com/) web site. Check out his [GitHub profile](https://github.com/szabgab/).
+
 
