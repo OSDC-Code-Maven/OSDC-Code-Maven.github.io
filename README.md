@@ -34,6 +34,8 @@ The students will be able to pick any project in any programming language.
 ## The assignments will include
 
 * Working with Git/GitHub/GitLab.
+* Using Slack
+* Using Docker to limit the impact of external code on our system.
 * Opening issues, bug reports.
 * Commenting on the issues and bug reports of others.
 * Learn reading and understanding code written by other developers.
