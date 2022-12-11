@@ -80,6 +80,7 @@ The students will be able to pick any project in any programming language.
 * The Art Of Community by Jono Bacon (available [free](https://www.jonobacon.com/books/artofcommunity/) or [buy](https://www.jonobacon.com/books/artofcommunity/))
 * Working in Public: The Making and Maintenance of Open Source Software by Nadia Eghbal ([buy](https://www.amazon.com/dp/0578675862/)
 * Just for Fun: The Story of an Accidental Revolutionary by Linus Torvalds, David Diamond ([buy](https://www.amazon.com/gp/product/0066620724)
+* Forge Your Future with Open Source: Build Your Skills. Build Your Network. Build the Future of Technology by VM (Vicky) Brasseur ([buy](https://www.amazon.com/Forge-Your-Future-Open-Source/dp/1680503014))
 
 ## About the instructor
 
