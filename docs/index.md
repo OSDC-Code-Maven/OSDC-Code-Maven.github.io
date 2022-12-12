@@ -11,7 +11,13 @@ These projects need development and maintenance work.
 
 Unfortunately only a subset of the people know how to contribute to Open Source projects. This is a much needed skill, both in Industry and Academia.
 
-In this course, participants will learn and practice the technology, the culture, the process of contributing to an open source project.
+In addition many small utilities and libraries are developed in research labs and in departments of corporations, but in most places these projects
+remain inside the local environment. Even other labs and other development teams don't know about them and thus they develop their own partial solution
+for the same problem. This is partially because of lack of communication, lack of a common platform to store these projects. The Open Source method taught
+in this course can help bridge this gap even for in-house propriatery code.
+
+In this course, participants will learn and practice the technology, the culture, the process of contributing to an open source project and using the same
+knowladge to improve the development practices of their organizations.
 
 ## Details
 
@@ -31,25 +37,30 @@ If that's not enough they can also turn to other open source projects that are m
 There are tens of thousands open source packages in Python, Matlab, and R on GitHub and GitLab, just to name a few more science-oriented languages.
 The students will be able to pick any project in any programming language.
 
-## The assignments will include
+## Major topics
 
-* Working with Git/GitHub/GitLab.
-* Using Slack
+* Working with Git (add, commit, log, diff, stash, reset, branch, merge, rebase, bisect)
+* GitHub: clone, pull, push, fork, pull-request
+* GitHub Issues: opening issues, bug reports, comments, following, etc.
+* GitHub Pages: Creating a web site for taking notes, documenting knowladge
+* GitHub Actions: Setting Up CI, collecting data, generating web pages
+* Markdown
+* Using Slack for communication
 * Using Docker to limit the impact of external code on our system.
-* Opening issues, bug reports.
-* Commenting on the issues and bug reports of others.
+
 * Learn reading and understanding code written by other developers.
-* Sending Pull-Requests.
-* Commenting on each-others pull-requests.
+* Refactoring code
 * Writing automated tests.
 * Generating html from the documentation.
-* Improving the documentation.
+* Commenting on each-others pull-requests.
 * Fixing bugs.
+* Improving the documentation.
+
 
 ## Syllabus
 
 * History of Open Source and Free Software
-* The motivation - why people and organization create open source software and why do they contribute
+* The motivation - why people and organization create open source software and why do they contribute?
 * The value of Open Source
 * GitHub Pull-Request process
 * The value of CI systems (Demo GitHub Actions)
@@ -58,8 +69,8 @@ The students will be able to pick any project in any programming language.
 * Git on the command line including branching, merging, rebasing, stash, bisect.
 * Forking,  cloning, sending pull-request
 * Finding an open source project to contribute to.
-* Run the tests of a project
-* Generate test coverage report
+* Running the tests of a project.
+* Generating test coverage report.
 * Running a static code analyzer (linter) on the project.
 * Add tests to a project
 * Configure CI (GitHub Actions or GitLab pipeline)
