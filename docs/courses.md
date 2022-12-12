@@ -20,6 +20,10 @@ or even send a Pull-Request to include them.
 
 There are several others one can find on the page
 
+Participants in the course at Seneca are encouraged (or even required?) to maintain a journal of their work.
+These blog posts are aggregated on the [Telescope](https://telescope.cdot.systems/) system.
+
+
 ## Columbia, NY, USA
 
 * [COMS 4995 Open Source Development](https://www.cs.columbia.edu/~paine/4995/)

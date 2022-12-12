@@ -39,12 +39,13 @@ The students will be able to pick any project in any programming language.
 
 ## Major topics
 
+* Background of Open Source and Free Software (history, motivation, licenses, value)
 * Working with Git (add, commit, log, diff, stash, reset, branch, merge, rebase, bisect)
 * GitHub: clone, pull, push, fork, pull-request
 * GitHub Issues: opening issues, bug reports, comments, following, etc.
 * GitHub Pages: Creating a web site for taking notes, documenting knowladge
 * GitHub Actions: Setting Up CI, collecting data, generating web pages
-* Markdown
+* Markdown (GitHub Pages, comments, etc.)
 * Using Slack for communication
 * Using Docker to limit the impact of external code on our system.
 
@@ -59,16 +60,24 @@ The students will be able to pick any project in any programming language.
 
 ## Syllabus
 
-* History of Open Source and Free Software
-* The motivation - why people and organization create open source software and why do they contribute?
-* The value of Open Source
+* Background of Open Source and Free Software
+    * History of Open Source and Free Software
+    * The motivation - why people and organization create open source software and why do they contribute?
+    * The value of Open Source
 * GitHub Pull-Request process
 * The value of CI systems (Demo GitHub Actions)
 * Markdown and creating GitHub pages to take notes of the course
-* Understanding other CI system (eg. Jenkins)
+    * Students will be required to maintain a journal of what they learned and what the accomplished
+    * The language of the journal does not matter, but it has to be public.
+* Understanding other CI system
+    * GitLab pipelines
+    * Jenkins
 * Git on the command line including branching, merging, rebasing, stash, bisect.
 * Forking,  cloning, sending pull-request
 * Finding an open source project to contribute to.
+    * Learn about the various ways to find projects (e.g. GitHub Search, PyDigger, Ruby Digger, CPAN Digger)
+    * Learn how to set up local environment
+    * Learn how to evaluate the difficulty of the contribution.
 * Running the tests of a project.
 * Generating test coverage report.
 * Running a static code analyzer (linter) on the project.
