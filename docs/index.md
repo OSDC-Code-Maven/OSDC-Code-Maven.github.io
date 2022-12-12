@@ -89,4 +89,7 @@ The students will be able to pick any project in any programming language.
 Gabor Szabo has been writing software since 1983, working in the hi-tech industry since 1993, teaching software development since 2000, contributing to open source since 2002.
 He is the author of the [Code Maven](https://code-maven.com/) web site. Check out his [GitHub profile](https://github.com/szabgab/).
 
+## Other similar courses
+
+[Other courses about Open Source Development](/courses)
 
