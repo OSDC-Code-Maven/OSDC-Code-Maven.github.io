@@ -35,7 +35,7 @@ The students will be encouraged to look at the open source projects published by
 
 If that's not enough they can also turn to other open source projects that are more generic.
 There are tens of thousands open source packages in Python, Matlab, and R on GitHub and GitLab, just to name a few more science-oriented languages.
-The students will be able to pick any project in any programming language.
+The participants will be able to pick any project in any programming language.
 
 ## Major topics
 
@@ -49,48 +49,29 @@ The students will be able to pick any project in any programming language.
 * Using Slack for communication
 * Using Docker to limit the impact of external code on our system.
 
+* Finding an open source project to contribute to.
 * Learn reading and understanding code written by other developers.
 * Refactoring code
-* Writing automated tests.
+* Testing: Running test, writing tests, test coverage
+* Static code analyzers, linters, prettifiers.
 * Generating html from the documentation.
 * Commenting on each-others pull-requests.
 * Fixing bugs.
 * Improving the documentation.
 
+* Optional: GitLab, Jenkins
 
-## Syllabus
+## Other
 
-* Background of Open Source and Free Software
-    * History of Open Source and Free Software
-    * The motivation - why people and organization create open source software and why do they contribute?
-    * The value of Open Source
-* GitHub Pull-Request process
-* The value of CI systems (Demo GitHub Actions)
-* Markdown and creating GitHub pages to take notes of the course
-    * Students will be required to maintain a journal of what they learned and what the accomplished
-    * The language of the journal does not matter, but it has to be public.
-* Understanding other CI system
-    * GitLab pipelines
-    * Jenkins
-* Git on the command line including branching, merging, rebasing, stash, bisect.
-* Forking,  cloning, sending pull-request
-* Finding an open source project to contribute to.
-    * Learn about the various ways to find projects (e.g. GitHub Search, PyDigger, Ruby Digger, CPAN Digger)
-    * Learn how to set up local environment
-    * Learn how to evaluate the difficulty of the contribution.
-* Running the tests of a project.
-* Generating test coverage report.
-* Running a static code analyzer (linter) on the project.
-* Add tests to a project
-* Configure CI (GitHub Actions or GitLab pipeline)
-* Repeat the last few items several times
-
-
+* Participants will be required to maintain a journal of what they learned and what the accomplished.
+    The language of the journal does not matter, but it has to be public.
+* Participants will be required to review the work of each other.
 
 ## Some more background
 
 * A [list of higher education institutions](https://github.com/szabgab/open-source-by-higher-education) that published open source code.
 * A [list of corporations](https://github.com/szabgab/open-source-by-corporations) that published open source code.
+* A [list of governments](https://github.com/szabgab/open-source-by-government) that published open source code.
 
 ## Additional reading material
 
