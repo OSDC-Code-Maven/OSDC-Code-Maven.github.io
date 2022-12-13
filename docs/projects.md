@@ -1,6 +1,6 @@
-# Open Source Projects
+# Finding Open Source Projects
 
-Several direction how to select and Open Source project to contribut to
+Several direction how to select an Open Source project to contribute to.
 
 ## Non-coding projects.
 
@@ -25,7 +25,7 @@ That would probably primarily mean biology, chemistry, etc. related projects, bu
 ## Projects people marked as easy
 
 People add tags to their projects on GitHub. There are many tags in use, some of those that might indicate issues that are suited for people who are beginners
-either in the GitHub contribution process or in the sepcific technology, or even in general in software development.
+either in the GitHub contribution process or in the specific technology, or even in general in software development.
 
 * [beginner](https://github.com/search?q=label%3Abeginner)
 * [beginner friendly](https://github.com/search?q=label%3A%22beginner+friendly%22)
@@ -41,7 +41,7 @@ See also this [article](https://dev.to/this-is-learning/how-to-find-an-open-sour
 
 ## Diggers (Meta data, Continuous Integration, tests)
 
-We currently have 3 projects that collect information about 3rd-party packages and try to help you find you low-hanging-fruits. You can use them to find projects to contribut to
+We currently have 3 projects that collect information about 3rd-party packages and try to help you find you low-hanging-fruits. You can use them to find projects to contribute to
 or you can contribute to the diggers themselves:
 
 * [PyDigger for Python](https://pydigger.com/)
