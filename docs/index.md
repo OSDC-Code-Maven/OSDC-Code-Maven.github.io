@@ -49,7 +49,7 @@ The participants will be able to pick any project in any programming language.
 * Using Slack for communication
 * Using Docker to limit the impact of external code on our system.
 
-* Finding an open source project to contribute to.
+* [Finding an open source project](/projects) to contribute to.
 * Learn reading and understanding code written by other developers.
 * Refactoring code
 * Testing: Running test, writing tests, test coverage
@@ -66,12 +66,6 @@ The participants will be able to pick any project in any programming language.
 * Participants will be required to maintain a journal of what they learned and what the accomplished.
     The language of the journal does not matter, but it has to be public.
 * Participants will be required to review the work of each other.
-
-## Some more background
-
-* A [list of higher education institutions](https://github.com/szabgab/open-source-by-higher-education) that published open source code.
-* A [list of corporations](https://github.com/szabgab/open-source-by-corporations) that published open source code.
-* A [list of governments](https://github.com/szabgab/open-source-by-government) that published open source code.
 
 ## Additional reading material
 
