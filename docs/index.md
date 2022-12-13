@@ -5,11 +5,11 @@ In this course, participants will learn and practice how to build, maintain, and
 ## Why this course?
 
 Both in the industry and in Research at Higher Education Institutions people use an enormous amount of open source code.
-Many of these organizations also publish some of the code they write under some OSI approved license.
+Many of these organizations also publish some of the code they write under some [OSI approved license](https://opensource.org/licenses).
 
 These projects need development and maintenance work.
 
-Unfortunately only a subset of the people know how to contribute to Open Source projects. This is a much needed skill, both in Industry and Academia.
+Unfortunately only a small subset of the people know how to contribute to Open Source projects. This is a much needed skill, both in Industry and Academia.
 
 In addition many small utilities and libraries are developed in research labs and in departments of corporations, but in most places these projects
 remain inside the local environment. Even other labs and other development teams don't know about them and thus they develop their own partial solution
