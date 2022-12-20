@@ -26,12 +26,9 @@ The focus of the course can and should be different based on the participants. E
 
 During the course participants will learn about the Open Source development process and Agile methodologies. They will have the opportunity to get involved in various open source projects and practice the methodologies.
 
-For university students this can help a lot during their studies, for example by fixing issues they encounter in open source packages they use in their research.
-It will enable them, if your organization agrees, to publish some of the code they develop as open source packages.
-It will also help those who would like to move on to the industry by teaching them some of the tools that are used there.
+For university students this can help a lot during their studies, for example by fixing issues they encounter in open source packages they use in their research. It will enable them, if your organization agrees, to publish some of the code they develop as open source packages. It will also help those who would like to move on to the industry by teaching them some of the tools that are used there.
 
-The course will include some presentations, and a lot of hands-on work.
-The hands-on work will include a few artificial examples designed to get the basics, but the majority will be on [real projects](/projects).
+The course will include some presentations, and a lot of hands-on work. The hands-on work will include a few artificial examples designed to get the basics, but the majority will be on [real projects](/projects).
 
 ## Major topics
 
@@ -56,6 +53,21 @@ The hands-on work will include a few artificial examples designed to get the bas
 * Improving the documentation.
 
 * Optional: GitLab, Jenkins
+
+## Format of the course
+
+There might be a few in-person meetings with presentations, but primarily presentations will be in Zoom and they will be also recorded for people who cannot attend. The idea is to allow asynhronous learning and working. Similar to what happens in the Open Source world.
+
+## Length of the course
+
+It is planned that this course will be given throughout a semeseter of roughtly 13 weeks.
+
+Expected workload is roughly 5 hours / week, but it might depend a lot on the background of each participant.
+
+Similar to other skills-courses, the more practice will bring better results.
+
+Grading, in cases where it is relevant, is based on the work done during the course. There is no exam or end-of course project.
+
 
 ## Other
 
