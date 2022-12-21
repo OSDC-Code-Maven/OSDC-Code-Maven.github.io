@@ -58,5 +58,5 @@
 
 * [pcr_optimizer](https://github.com/Ara101/pcr_optimizer/)
 * [GalSim](https://github.com/GalSim-developers/GalSim) is open-source software for simulating images of astronomical objects
-
+* [farmworld](https://github.com/tomgrek/farmworld)
 
