@@ -24,7 +24,7 @@ In this course, participants will learn and practice the technology, the culture
 * Students  of computer sciences, software development, Bachelor or more advanced degree.
 * Students of biology, chemistry, physics, earth sciences, etc. Masters or more advanced degrees.
 
-* People without any programming background can also participate. They will just have to pick tasks that don't need programming.
+* People **without** any programming background can also participate. They will just have to pick tasks that don't need programming.
 
 ## Prerequisites
 
