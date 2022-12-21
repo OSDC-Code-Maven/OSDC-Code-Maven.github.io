@@ -16,6 +16,6 @@ Slides and other written material will be in English.
 * Presentations: Zoom-based and in Hebrew. They will be recorded. The participants will have access to the videos and probably they will be made public. (Participation in the presentations is recommended, but not required.)
 * Weekly assignments
 
-* Registration: send your full name to Gabor: gabor@szabgab.com
+* Registration: send your full name to Gabor Szabo: gabor@szabgab.com
 
 
