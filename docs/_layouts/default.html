@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="{{ site.lang | default: "en-US" }}">
+  <head>
+
+    <meta charset="UTF-8">
+
+{% seo %}
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="theme-color" content="#157878">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+    <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
+  </head>
+  <body>
+    <header class="page-header" role="banner">
+      <h1 class="project-name"><a href="/">{{ page.title | default: site.title | default: site.github.repository_name }}</a></h1>
+      <h2 class="project-tagline"><a href="/">{{ page.description | default: site.description | default: site.github.project_tagline }}</a></h2>
+    </header>
+
+    <main id="content" class="main-content" role="main">
+      {{ content }}
+
+      <footer class="site-footer">
+        <hr>
+        Found any typo, broken link, incorrect information? The <span class="site-footer-credits"><a href="https://github.com/szabgab/osdc.code-maven.com">Source</a></span> of this page
+        is in GitHub. Open a ticket, or better yet, send me a pull-request with the fix.
+      </footer>
+    </main>
+  </body>
+</html>
+
