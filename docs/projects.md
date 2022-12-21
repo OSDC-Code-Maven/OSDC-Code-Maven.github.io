@@ -15,12 +15,28 @@ but there are many more.
 
 ## Projects by your school or by your workplace
 
+Open Source packages your lab uses (e.g. specific biology oriented packages or more generic ones such as numpy or flask)
+
 If you study at a university, college, or maybe work at a research institute, labs in your organization probably have already published projects under some open source license. You can search GitHub, you can ask around and we also already have a (partial) [list of higher education institutions](https://github.com/szabgab/open-source-by-higher-education)
 that published open source code. You might already find the projects there.
 
-In addition your lab might have lots of projects not in git and not in GitHub yet. You can take one of these projects and start using git, GitHub for it.
+Open Source packages your lab / institution develops. They might not be in git and not in GitHub yet. You can take one of these projects and start using git, GitHub for it.
 
 The students will be encouraged to look at the open source projects published by your institution.
+
+
+## OS packages your institution uses e.g.
+
+* [Moodle](https://github.com/moodle)
+* [OpenOLAT](https://github.com/OpenOLAT)
+* [Xerte](https://github.com/thexerteproject)
+* [Sakai](https://github.com/sakaiproject)
+* [Tsugi](https://github.com/tsugiproject)
+* [OpenEQUELLA](https://github.com/OpenEQUELLA)
+* [Opencast](https://github.com/opencast)
+* [Karuta](https://github.com/karutaproject)
+* [FlightPath](https://getflightpath.com/)
+* etc.
 
 ## Projects by governments
 
@@ -68,4 +84,12 @@ or you can contribute to the diggers themselves:
 * [PyDigger for Python](https://pydigger.com/)
 * [CPAN Digger for Perl](https://cpan-digger.perlmaven.com/)
 * [Ruby Digger](https://ruby-digger.code-maven.com/)
+
+## List of projects
+
+* [python](/python) and 215,000 Python projects on [GitHub](https://github.com/topics/python?l=python)
+* 7700 [Matlab projects](https://github.com/topics/matlab?l=matlab)
+* 16,000 [16,000 R projects](https://github.com/topics/r?l=r)
+
+More languages will be added here.
 
