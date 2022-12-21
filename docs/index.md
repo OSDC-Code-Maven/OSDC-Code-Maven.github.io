@@ -14,9 +14,25 @@ These projects often lack testing.
 
 Unfortunately only a small subset of the people know how to contribute write tests and how to Open Source projects. This is a much needed skill, both in **industry** and **academia**.
 
-In addition many small utilities and libraries are developed in research labs and in departments of corporations, but in most cases these projects remain inside the local environment. Even other labs and other development teams don't know about them and thus they develop their own partial solution for the same problem. This happens because of lack of communication, lack of a common platform to store these projects, lack of practice. The Open Source method taught in this course can help bridge this gap even for in-house propriatery code.
+In addition many small utilities and libraries are developed in research labs and in departments of corporations, but in most cases these projects remain inside the local environment. Even other labs and other development teams don't know about them and thus they develop their own partial solution for the same problem. This happens because of lack of communication, lack of a common platform to store these projects, lack of practice. The Open Source method taught in this course can help bridge this gap even for in-house proprietary code.
 
-In this course, participants will learn and practice the technology, the culture, the process of contributing to an open source project and using the same knowladge to improve the development practices of their organizations.
+In this course, participants will learn and practice the technology, the culture, the process of contributing to an open source project and using the same knowledge to improve the development practices of their organizations.
+
+## Who is this course for?
+
+* People who already have some experience in programming either while working in the industry or during their studies.
+* Students  of computer sciences, software development, Bachelor or more advanced degree.
+* Students of biology, chemistry, physics, earth sciences, etc. Masters or more advanced degrees.
+
+* People without any programming background can also participate. They will just have to pick tasks that don't need programming.
+
+## Prerequisites
+
+For those interested in programming tasks:
+
+At least half a year experience programming. The specific programming language is not important. There are plenty of Open Source project in most of the programming languages such as Python, JavaScript, Java, and even Matlab and R.
+
+Again, people without programming background will have non-programming tasks.
 
 ## Focus
 
@@ -32,13 +48,14 @@ The course will include some presentations, and a lot of hands-on work. The hand
 
 ## Major topics
 
-* Background of Open Source and Free Software (history, motivation, licenses, value).
+* Background of Open Source and Free Software (history, philosophy, motivation, licenses, value).
 * Working with Git (add, commit, log, diff, stash, reset, branch, merge, rebase, bisect).
 * GitHub: clone, pull, push, fork, pull-request.
 * GitHub Issues: opening issues, bug reports, comments, following, etc.
-* GitHub Pages: Creating a web site for taking notes, documenting knowladge.
+* GitHub Pages: Creating a web site for taking notes, documenting knowledge.
 * GitHub Actions: Setting Up CI, collecting data, generating web pages.
 * Markdown (GitHub Pages, comments, etc.)
+* Some understanding of HTML and CSS
 * Using Slack for communication.
 * Using Docker to limit the impact of external code on our system.
 
@@ -46,21 +63,21 @@ The course will include some presentations, and a lot of hands-on work. The hand
 * Learn reading and understanding code written by other developers.
 * Refactoring code.
 * Testing: Running test, writing tests, test coverage.
-* Static code analyzers, linters, prettifiers.
-* Generating html from the documentation.
+* Static code analyzers, linters, prettifies.
+* Generating HTML from the documentation.
 * Commenting on each-others pull-requests.
 * Fixing bugs.
 * Improving the documentation.
 
-* Optional: GitLab, Jenkins
+* Optional: GitLab, Jenkins, Jira, Trello (issue tracking, task management)
 
 ## Format of the course
 
-There might be a few in-person meetings with presentations, but primarily presentations will be in Zoom and they will be also recorded for people who cannot attend. The idea is to allow asynhronous learning and working. Similar to what happens in the Open Source world.
+There might be a few in-person meetings with presentations, but primarily presentations will be in Zoom and they will be also recorded for people who cannot attend. The idea is to allow asynchronous learning and working. Similar to what happens in the Open Source world.
 
 ## Length of the course
 
-It is planned that this course will be given throughout a semeseter of roughtly 13 weeks.
+It is planned that this course will be given throughout a semester of roughly 13 weeks.
 
 Expected workload is roughly 5 hours / week, but it might depend a lot on the background of each participant.
 
