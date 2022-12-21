@@ -4,11 +4,11 @@ This is an experimental run of the [Open Source Development Course](/).
 
 It will be given in Hebrew.
 
+Slides and other written material will be in English.
+
 It is free of charge.
 
 Number of participants is limited.
-
-Slides and other written material will be in English.
 
 * Start date: 2023.01.01
 * Length: 13 weeks
