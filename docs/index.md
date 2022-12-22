@@ -12,7 +12,7 @@ These projects need development and maintenance work.
 
 These projects often lack testing.
 
-Unfortunately only a small subset of the people know how to contribute write tests and how to Open Source projects. This is a much needed skill, both in **industry** and **academia**.
+Unfortunately only a small subset of the people know how to contribute to Open Source projects. This is a much needed skill, both in **industry** and **academia**.
 
 In addition many small utilities and libraries are developed in research labs and in departments of corporations, but in most cases these projects remain inside the local environment. Even other labs and other development teams don't know about them and thus they develop their own partial solution for the same problem. This happens because of lack of communication, lack of a common platform to store these projects, lack of practice. The Open Source method taught in this course can help bridge this gap even for in-house proprietary code.
 
