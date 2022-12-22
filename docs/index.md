@@ -49,7 +49,7 @@ The course will include some presentations, and a lot of hands-on work. The hand
 ## Major topics
 
 * Background of Open Source and Free Software (history, philosophy, motivation, licenses, value).
-* Working with Git (add, commit, log, diff, stash, reset, branch, merge, rebase, bisect).
+* Git: Working with Git (add, commit, log, diff, stash, reset, branch, merge, rebase, bisect).
 * GitHub: clone, pull, push, fork, pull-request.
 * GitHub Issues: opening issues, bug reports, comments, following, etc.
 * GitHub Pages: Creating a web site for taking notes, documenting knowledge.
