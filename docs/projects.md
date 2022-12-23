@@ -87,9 +87,10 @@ or you can contribute to the diggers themselves:
 
 ## List of projects
 
-* [python](/python) and 215,000 Python projects on [GitHub](https://github.com/topics/python?l=python)
-* 7700 [Matlab projects](https://github.com/topics/matlab?l=matlab)
-* 16,000 [16,000 R projects](https://github.com/topics/r?l=r)
+* [Python](/python) and 215,000 [Python projects](https://github.com/topics/python?l=python) on GitHub
+* 7,700 [Matlab projects](https://github.com/topics/matlab?l=matlab)
+* 16,000 [R projects](https://github.com/topics/r?l=r)
+* [Ruby](/ruby) and 25,000 [Ruby projects](https://github.com/topics/ruby?l=ruby)
 
 More languages will be added here.
 
