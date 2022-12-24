@@ -48,3 +48,6 @@ These blog posts are aggregated on the [Telescope](https://telescope.cdot.system
 
 * [Gustavo Pinto](https://gustavopinto.org/)  [Tópicos Especiais em Software Livre (TESL)](https://github.com/gustavopinto/tesl)
 
+## BME - Budapest, Hungary
+
+* [Open Source and Free Software](https://portal.vik.bme.hu/kepzes/targyak/VITMAV66/) (in Hungarian)
