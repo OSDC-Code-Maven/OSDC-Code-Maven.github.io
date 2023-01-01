@@ -10,7 +10,7 @@ It is free of charge.
 
 Number of participants is limited.
 
-* Start date: 2023.01.01
+* Start date: 2023.01.08 15:00
 * Meeting time: Will be announced later.
 * Length: 13 weeks
 * Expected workload: min 5 hours a week (including presentations and hands-on work)
