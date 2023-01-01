@@ -20,5 +20,5 @@ Number of participants is limited.
 
 * Check out the detailed [syllabus](/).
 
-* Registration: send your full name to Gabor Szabo: gabor@szabgab.com
+* Registration: send your full name to Gabor Szabo: gabor@szabgab.com If you already have an account on [GitHub](https://github.com/) or [GitLab](https://gitlab.com/) include the links to you account(s) as well.
 
