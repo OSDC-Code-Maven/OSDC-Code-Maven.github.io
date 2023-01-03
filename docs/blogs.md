@@ -14,8 +14,8 @@ You can find some of the blogs directly here:
 The [MLH Fellowship](https://fellowship.mlh.io/) can be also interesting to attend after OSDC.
 A few blog posts about it by participants:
 
-* https://developers.facebook.com/blog/post/2021/05/18/pysa-contributor-story-grace-gao/
-* https://dev.to/jessie_anh_nguyen/growing-as-a-developer-through-the-mlh-fellowship-eb2
-* https://dev.to/ayushjn/mlh-fellowship-my-story-2if7
-* Several more posts: https://dev.to/search?q=MLH%20Fellowship
+* [Pysa: A Contributor’s Story with Grace Gao](https://developers.facebook.com/blog/post/2021/05/18/pysa-contributor-story-grace-gao/)
+* [Growing as a developer through the MLH Fellowship](https://dev.to/jessie_anh_nguyen/growing-as-a-developer-through-the-mlh-fellowship-eb2)
+* [MLH Fellowship: My story](https://dev.to/ayushjn/mlh-fellowship-my-story-2if7)
+* [Several more posts](https://dev.to/search?q=MLH%20Fellowship)
 
