@@ -106,6 +106,8 @@ Recommended reading material for the participants.
 * Just for Fun: The Story of an Accidental Revolutionary by Linus Torvalds, David Diamond ([buy](https://www.amazon.com/gp/product/0066620724))
 * Forge Your Future with Open Source: Build Your Skills. Build Your Network. Build the Future of Technology by VM (Vicky) Brasseur ([buy](https://www.amazon.com/Forge-Your-Future-Open-Source/dp/1680503014))
 
+* [Brian Fitzgerald](https://www.brian-fitzgerald.com/open-source-software/)
+
 ## About the instructor
 
 Gabor Szabo has been writing software since 1983, working in the hi-tech industry since 1993, teaching software development since 2000, contributing to open source since 2002.
