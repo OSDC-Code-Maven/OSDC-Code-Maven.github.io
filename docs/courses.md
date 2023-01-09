@@ -6,6 +6,7 @@ or even send a Pull-Request to include them.
 
 ## RIT - Rochester Institute of Technology, NY, USA
 
+* [Open@RIT](https://www.rit.edu/research/open)
 * [Free and Open Source Software and Free Culture Minor](https://www.rit.edu/study/free-and-open-source-software-and-free-culture-minor)
 * [Free Culture and Free and Open Source Computing Immersion](https://www.rit.edu/computing/study/free-culture-and-free-and-open-source-computing-immersion)
 

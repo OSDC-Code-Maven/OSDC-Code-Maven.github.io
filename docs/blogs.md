@@ -18,4 +18,4 @@ A few blog posts about it by participants:
 * [Growing as a developer through the MLH Fellowship](https://dev.to/jessie_anh_nguyen/growing-as-a-developer-through-the-mlh-fellowship-eb2)
 * [MLH Fellowship: My story](https://dev.to/ayushjn/mlh-fellowship-my-story-2if7)
 * [Several more posts](https://dev.to/search?q=MLH%20Fellowship)
-
+* [MLH news](https://news.mlh.io/posts)
