@@ -63,6 +63,7 @@
 * [logomaker](https://logomaker.readthedocs.io/en/latest/)
 * [BCAWT](https://pypi.org/project/BCAWT/) Automated tool for codon usage bias analysis for molecular evolution
 * [An-Open-Source-Computational-Tool-for-Measuring-Bacterial-Biofilm-Morphology-and-Growth-Kinetics](https://github.com/cohenoa/An-Open-Source-Computational-Tool-for-Measuring-Bacterial-Biofilm-Morphology-and-Growth-Kinetics)
+* [MaLiAmPi](https://github.com/jgolob/maliampi) Maximum Likelihood Amplicon Pipeline: An amplicon (PCR / 16S) microbiome pipeline.
 
 These 3 try to solve the same problem:
 
