@@ -4,6 +4,8 @@ In this course, participants will learn and practice how to build, maintain, and
 
 This is primarily a **practical course** with lots of hands-on assignments.
 
+[Next course](/osdc-public-2023-01)
+
 ## Why this course?
 
 Both in the **industry** and in **academia** use an enormous amount of open source code. Many of these organizations also publish some of the code they write under some [OSI approved license](https://opensource.org/licenses).
