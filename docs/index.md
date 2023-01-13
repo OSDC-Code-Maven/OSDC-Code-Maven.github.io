@@ -89,6 +89,24 @@ Similar to other skills-courses, the more practice will bring better results.
 
 Grading, in cases where it is relevant, is based on the work done during the course. There is no exam or end-of course project.
 
+## Sessions
+
+In the first few sessions you'll get assignments to work on the open-source projects of your mentor. That way you will get fast feedback to your work.
+After that we'll start to contribute to other open source projects as well.
+
+### Session 1
+
+* Why contributo to Open Source
+* Why use version control
+* Sending a Pull-request to the repo of the course using only the GUI of GitHub
+* Collecting data and sending pull-requests with raw data to a data collection project of Gabor
+
+### Session 2
+
+* Git on the command line, push
+* Markdown
+* Creating static web site on GitHub pages
+
 
 ## Other
 
