@@ -16,7 +16,7 @@ I am planning to run an [Open Source Development Course](/) starting in February
 
 * Price: 400 USD
 
-* Getting on the pre-registration list:
+* Getting on the pre-**registration** list:
     * Fill out [this form](https://forms.gle/LnV1tRPNBPUyWeQv5). I'll get back to you
     * Getting on the pre-registration list is not a commitment on your part. When I set the date, I'll let you know and then you'll have the option to decide if you'd really like to take part.
     * If you get on the pre-registration list you will get **40% off the price**.
