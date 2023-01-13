@@ -14,7 +14,7 @@ I am planning to run an [Open Source Development Course](/) starting in February
 
 * Check out the detailed [syllabus](/).
 
-* Price: 500 USD
+* Price: 400 USD
 
 * Getting on the pre-registration list:
     * Fill out [this form](https://forms.gle/LnV1tRPNBPUyWeQv5). I'll get back to you
