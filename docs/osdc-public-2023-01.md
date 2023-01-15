@@ -1,4 +1,4 @@
-# Open Source Developmen Course - 2023 Spring
+# Open Source Development Course - 2023 Spring
 
 I am planning to run an [Open Source Development Course](/) starting in February-March 2023. The exact date and time will be announced later.
 
@@ -7,9 +7,9 @@ I am planning to run an [Open Source Development Course](/) starting in February
 * Meeting time: Will be announced later and it will take in account the time zone of the participants.
 * Presentations: Zoom-based. They will be recorded. The participants will have access to the videos. Participation in the presentations is recommended, but not required.
 * Length of the course is: 13 weeks
-* Each week we will have one meeting that will 1-2 hours long.
+* Each week we will have one meeting that will last 1-2 hours. Depending on the questions.
 * You will get assignments for the week that I will check.
-* Expected workload: min 5 hours a week (including presentations and hands-on work)
+* Expected workload: 5 hours a week (including presentations and hands-on work)
 * As the presentations will be recorded all the course is "asynchronous". Participants are expected to keep the weekly pace, but within the week they are free to schedule when they watch the presentation and when they do the assignments.
 
 * Check out the detailed [syllabus](/).
