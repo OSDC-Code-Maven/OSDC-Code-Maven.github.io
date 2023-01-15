@@ -22,6 +22,8 @@ This is going to be an [Open Source Development Course](/) starting on 2023.01.2
 * As this course is especially for people who would like to contribute to Perl-based project we'll include Perl-specific content. (Testing, code-coverage, linting, packaging)
 
 * **Registration**:
-    * Send an e-mail got Gabor Szabo gabor@szabgab.com with the subject **OSDC 2023.01 for Perl developers**
-    * If you already have an account on [GitHub](https://github.com/) include  your userID.
+    * If you don't have an account on [GitHub](https://github.com/) create one.
+    * Include  your GitHub userID in the email you send:
+    * Send an e-mail to Gabor Szabo gabor@szabgab.com with the subject:
+    * **OSDC 2023.01 for Perl developers**
 
