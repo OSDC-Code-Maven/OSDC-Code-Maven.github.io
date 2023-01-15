@@ -10,7 +10,7 @@ I am planning to run an [Open Source Development Course](/) starting in February
 * Each week we will have one meeting that will 1-2 hours long.
 * You will get assignments for the week that I will check.
 * Expected workload: min 5 hours a week (including presentations and hands-on work)
-* As the presentations will be recorded all the course is "asynchronic". Participants are expected to keep the weekly pace, but within the week they are free to schedule when they watch the presentation and when they do the assignments.
+* As the presentations will be recorded all the course is "asynchronous". Participants are expected to keep the weekly pace, but within the week they are free to schedule when they watch the presentation and when they do the assignments.
 
 * Check out the detailed [syllabus](/).
 

@@ -16,7 +16,7 @@ Number of participants is limited.
 * Expected workload: min 5 hours a week (including presentations and hands-on work)
 * Presentations: Zoom-based and in Hebrew. They will be recorded. The participants will have access to the videos and probably they will be made public. (Participation in the presentations is recommended, but not required.)
 * Weekly assignments
-* As the presentations will be recorded all the course is "asynchronic". Participants are expected to keep the weekly pace, but within the week they are free to schedule when they watch the presentation and when they do the assignments.
+* As the presentations will be recorded all the course is "asynchronous". Participants are expected to keep the weekly pace, but within the week they are free to schedule when they watch the presentation and when they do the assignments.
 
 * Check out the detailed [syllabus](/).
 
