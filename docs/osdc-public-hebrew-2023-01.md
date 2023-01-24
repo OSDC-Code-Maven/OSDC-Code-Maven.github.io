@@ -1,1 +1,4 @@
 This page was [moved](c/osdc-2023-01-public)
+<script>
+window.location.href = "/c/osdc-2023-01-public';
+</script>
