@@ -6,7 +6,7 @@ This is primarily a **practical course** with lots of hands-on assignments.
 
 ## Next Course
 
-[Next course](/osdc-public-2023-01)
+[Next course](/c/osdc-2023-03-public)
 
 ## Why this course?
 
