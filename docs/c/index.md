@@ -1,8 +1,10 @@
 # Courses
 
+<!--
 ## Planned courses
 
 * 2023 Spring - [OSDC](osdc-2023-03-public)
+-->
 
 ## Ongoing courses
 

@@ -4,9 +4,11 @@ In this course, participants will learn and practice how to build, maintain, and
 
 This is primarily a **practical course** with lots of hands-on assignments.
 
+<!--
 ## Next Course
 
 [Next course](/c/osdc-2023-03-public)
+-->
 
 ## Why this course?
 
