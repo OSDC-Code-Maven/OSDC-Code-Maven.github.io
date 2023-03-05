@@ -141,3 +141,7 @@ He is the author of the [Code Maven](https://code-maven.com/) web site. Check ou
 
 [Other courses about Open Source Development](/courses)
 
+## Open Source by Organizations
+
+[Open Source by Organizations](/open-source-by-organizations/)
+
