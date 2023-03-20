@@ -35,5 +35,5 @@ Their projects are not very popular, but two of them have more than 500 stars. O
 
 ## Collected statistics
 
-See also the details collected about the [open source projects by Zoom](https://osdc.code-maven.com/open-source-by-organizations/github/zoom)
+See also the details collected about the [open source projects by Zoom](https://osdc.code-maven.com/open-source-by-organizations/github/zoom).
 
