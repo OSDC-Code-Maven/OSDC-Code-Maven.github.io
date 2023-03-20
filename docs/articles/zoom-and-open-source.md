@@ -1,6 +1,6 @@
 ---
 title: Zoom and Open Source
-published: false
+published: true
 published_at: 2023-03-20 07:26 +0000
 ---
 
