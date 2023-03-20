@@ -33,3 +33,7 @@ Zoom also has a [GitHub organization](https://github.com/zoom) where they share 
 
 Their projects are not very popular, but two of them have more than 500 stars. One of them is an SDK demo and the other is a Cryptography Whitepaper.
 
+## Collected statistics
+
+See also the details collected about the [open source projects by Zoom](https://osdc.code-maven.com/open-source-by-organizations/github/zoom)
+
