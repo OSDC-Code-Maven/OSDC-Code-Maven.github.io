@@ -13,10 +13,7 @@ As I run Ubuntu Linux on my notebook I was glad to see that they support it.
 
 Inside the application, in the **Help/About Zoom** menu item there is a link to the Open Source packages they use.
 
-On their web site there is a [list of open source projects](https://explore.zoom.us/en/opensource/) they use. Unfortunately the list looks like they have stopped
-maintaining it. There were monthly entries between January 2021 and November 2022, but no entries since then. (I am writing this in March 2023.)
-As I understand behind each link there is a text file containing the names and version numbers of the open source packages they use along with the licenses.
-In these files there are no links to the source code of the packages.
+On their web site there is a [list of open source projects](https://explore.zoom.us/en/opensource/) they use. There are monthly entries since January 2021. They typically publish lists at the end of the month or early in the following month. As I understand behind each link there is a text file containing the names and version numbers of the open source packages they use along with the licenses. In these files there are no links to the source code of the packages.
 
 "Zoom uses the open source software (OSS) components listed below in its products distributions."
 
