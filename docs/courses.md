@@ -29,6 +29,9 @@ These blog posts are aggregated on the [Telescope](https://telescope.cdot.system
 
 * [COMS 4995 Open Source Development](https://www.cs.columbia.edu/~paine/4995/)
 
+## Washington University
+
+* [Computer Science and Engineering - Software Engineering Workshop](https://github.com/DRuggeri/OSSClass/blob/master/2019-Spring-WashU.md)
 
 ## University of Calgary
 
