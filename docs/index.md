@@ -130,7 +130,7 @@ Recommended reading material for the participants.
 * Just for Fun: The Story of an Accidental Revolutionary by Linus Torvalds, David Diamond ([buy](https://www.amazon.com/gp/product/0066620724))
 * Forge Your Future with Open Source: Build Your Skills. Build Your Network. Build the Future of Technology by VM (Vicky) Brasseur ([buy](https://www.amazon.com/Forge-Your-Future-Open-Source/dp/1680503014))
 * Dealing With Software Collapse by [Konrad Hinsen](https://khinsen.net/) (avilable [free](https://hal.science/hal-02117588/file/preprint.pdf) or [buy](https://www.computer.org/csdl/magazine/cs/2019/03/08701540/19EVOyUa3gA))
-
+* Uncurled: Everything I know and learned about running and maintaining Open Source projects for three decades by Daniel Stenberg (available [free](https://un.curl.dev))
 * [Brian Fitzgerald](https://www.brian-fitzgerald.com/open-source-software/)
 
 ## About the instructor
