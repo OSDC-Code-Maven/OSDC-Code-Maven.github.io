@@ -18,7 +18,22 @@
 
     <main id="content" class="main-content" role="main">
 
-    <ul>
+<style>
+#horizontal {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #333;
+}
+
+#horizontal li {
+  display: inline;
+  float: left;
+}
+</style>
+
+    <ul id="horizontal">
        {% for item in site.data.navigation %}
           <li><a href="{{ item.url }}">{{ item.title }}</a></li>
        {% endfor %}
