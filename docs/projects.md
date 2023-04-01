@@ -17,7 +17,7 @@ but there are many more.
 
 Open Source packages your lab uses (e.g. specific biology oriented packages or more generic ones such as numpy or flask)
 
-If you study at a university, college, or maybe work at a research institute, labs in your organization probably have already published projects under some open source license. You can search GitHub, you can ask around and we also already have a (partial) [list of higher education institutions](https://github.com/szabgab/open-source-by-higher-education)
+If you study at a university, college, or maybe work at a research institute, labs in your organization probably have already published projects under some open source license. You can search GitHub, you can ask around and we also already have a (partial) [list of higher education institutions](/open-source-by-organizations/university)
 that published open source code. You might already find the projects there.
 
 Open Source packages your lab / institution develops. They might not be in git and not in GitHub yet. You can take one of these projects and start using git, GitHub for it.
@@ -40,15 +40,15 @@ The students will be encouraged to look at the open source projects published by
 
 ## Projects by governments
 
-There are quite a few [government organization](https://github.com/szabgab/open-source-by-government) around the world that published open source code. Some of those are already in our list. It might be important for you to look at the code your government is using and make sure it is of high quality.
+There are quite a few [government organization](/open-source-by-organizations/gov) around the world that published open source code. Some of those are already in our list. It might be important for you to look at the code your government is using and make sure it is of high quality.
 
 ## Non-profit organizations
 
-Non-profits are usually happy to receive financial donation, but contributing to their software can be also a huge help and can be very satisfying.
+[Non-profits](/open-source-by-organizations/non-profit) are usually happy to receive financial donation, but contributing to their software can be also a huge help and can be very satisfying.
 
 ## Projects by corporations
 
-We also have a [list of corporations](https://github.com/szabgab/open-source-by-corporations) that published open source code. Contributing to these projects might help you pave your way to work at the specific organizations.
+We also have a [list of corporations](/open-source-by-organizations/corporation) that published open source code. Contributing to these projects might help you pave your way to work at the specific organizations.
 
 ## Projects you use
 
