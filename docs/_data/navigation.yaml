@@ -1,6 +1,9 @@
 - title:  Home
   url: /
-- title: Pay It Forward
-  url: /pif
 - title: Instances
   url: /instances
+- title: Organizations
+  url: /open-source-by-organizations/
+- title: Pay It Forward
+  url: /pif
+
