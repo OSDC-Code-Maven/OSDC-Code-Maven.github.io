@@ -11,7 +11,7 @@ and contribute to yet another project.
 On this page you'll find a collection of ideas on the types of contributions you could make. Most of them are rather small that don't need a lot of time from you
 and most of them don't require any (deep) involvement in the project.
 
-When you open the piull-request or maybe even better when it gets accepted we would ask you to add a comment to the pull-request mentioning this project
+When you open the pull-request or maybe even better when it gets accepted we would ask you to add a comment to the pull-request mentioning this project
 and inviting the recipient of your pull-request to "pay it forward". You can either link to this page or the [issue](https://github.com/OSDC-Code-Maven/OSDC-Code-Maven.github.io/issues/5)
 that explains it.
 
