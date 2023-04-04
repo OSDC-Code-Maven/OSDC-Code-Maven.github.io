@@ -33,6 +33,9 @@ that explains it.
 ## Add meta data to Perl projects
 
 * [CPAN Digger](https://cpan-digger.perlmaven.com/)
+    * [Include VCS link in META data](https://perlmaven.com/how-to-add-link-to-version-control-system-of-a-cpan-distributions)
+    * [Add license to META data](https://perlmaven.com/how-to-add-the-license-field-to-meta-files-on-cpan)
+    * [Add contributors to META data](https://perlmaven.com/how-to-add-list-of-contributors-to-the-cpan-meta-files)
 
 ## Add instruction of local development
 
