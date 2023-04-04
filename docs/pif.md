@@ -15,8 +15,22 @@ When you open the pull-request or maybe even better when it gets accepted we wou
 and inviting the recipient of your pull-request to "pay it forward". You can either link to this page or the [issue](https://github.com/OSDC-Code-Maven/OSDC-Code-Maven.github.io/issues/5)
 that explains it.
 
+## What is a valuable contribution?
 
-## Remove unnecessary files
+You can do many different thing to contribute to an open source project. Your contribution can be small or it can big. Everyone can contribute based on their current capabilities and the available time they have.
+* It can be **opening an issue**, a well explained issue.
+* It can be changing some META data of the project.
+* It can be adding Continuous Integration (CI) (e.g. GitHub Actions) to the project.
+* It can be improving the documentation. (e.g. by adding an example, by explaining how to set up the development environment, etc.)
+* It can be adding a test.
+* It can be fixing a bug.
+* It can be adding a feature.
+
+Contributing a feature or fixing a bug will need a much deeper understanding of the project and will probably require a lot more time than writing a test or writing a usage example. Updating the META data of the project usually does not require hardly any understanding of the projects.
+
+Let's collect a few examples and how to find a project where you can contribute.
+
+### Remove unnecessary files
 
 * Find repositories that include files that should not be committed to git. (e.g. generated files, caches etc.) Remove them, create a `.gitignore` file explain how it works.
 * See this article: [Billions of unnecessary files in GitHub](https://dev.to/szabgab/billions-of-unnecessary-files-in-github-i85)
@@ -39,7 +53,7 @@ that explains it.
 
 ## Add instruction of local development
 
-We believe that if we make it easier for others to contribute to our open source projects thent there is a higher chances some will do so.
+We believe that if we make it easier for others to contribute to our open source projects then there is a higher chances some will do so.
 So it can be very valuable to include instruction on how to do that.
 
 * How to set up the local development environment. Natively or inside a Docker container.
