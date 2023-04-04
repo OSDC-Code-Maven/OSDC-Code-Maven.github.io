@@ -32,7 +32,7 @@ Contributing a feature or fixing a bug will need a much deeper understanding of 
 
 Let's collect a few examples and how to find a project where you can contribute.
 
-### Remove unnecessary files
+## Remove unnecessary files
 
 * Find repositories that include files that should not be committed to git. (e.g. generated files, caches etc.) Remove them, create a `.gitignore` file explain how it works.
 * See this article: [Billions of unnecessary files in GitHub](https://dev.to/szabgab/billions-of-unnecessary-files-in-github-i85)
