@@ -4,6 +4,8 @@ Have you just received a Pull-request or have you just received a useful issue? 
 
 Would you want to "return the favor" or would you rather "pay it forward"?
 
+> Pay it forward is an expression for when the recipient of an act of kindness does something kind for someone else rather than simply accepting or repaying the original good deed.
+
 We believe that a small contribution to an Open Source project of someone else can go a long way. You might already put a lot of energy in your projects,
 but a contributing to someone else can have a network effect. It will help the recipient of the contribution and we can ask that person to pay it forward
 and contribute to yet another project.
