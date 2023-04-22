@@ -138,4 +138,8 @@ Recommended reading material for the participants.
 Gabor Szabo has been writing software since 1983, working in the hi-tech industry since 1993, teaching software development since 2000, contributing to open source since 2002.
 He is the author of the [Code Maven](https://code-maven.com/) web site. Check out his [GitHub profile](https://github.com/szabgab/).
 
+## What do participants say about the course?
 
+> Many thanks, Gabor. It has been a very enriching and enlightening course. I learnt a lot, from new things to strengthening my prior knowledge. The subjects learnt are very important to every programmer, whether an open source developer or not. Your patience is very appreciated as well as your  honest will to make your students truly dive into practice. I will definitely recommend your courses and meetups, and attend them when I can.
+[Shuly Avraham](https://www.linkedin.com/in/shulyavraham/)
+ 
