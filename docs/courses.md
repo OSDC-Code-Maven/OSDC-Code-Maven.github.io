@@ -1,6 +1,6 @@
 # Other Courses about Open Source
 
-When decideing on what to include in a course about Open Source and Open Source Development it is worth to look at what other related courses
+When deciding on what to include in a course about Open Source and Open Source Development it is worth to look at what other related courses
 exist and what is their content. So on this page I tried to collect all the similar courses. If you know about others, please open an issue
 or even send a Pull-Request to include them.
 
