@@ -10,6 +10,9 @@ or even send a Pull-Request to include them.
 * [Free and Open Source Software and Free Culture Minor](https://www.rit.edu/study/free-and-open-source-software-and-free-culture-minor)
 * [Free Culture and Free and Open Source Computing Immersion](https://www.rit.edu/computing/study/free-culture-and-free-and-open-source-computing-immersion)
 
+##SONA-College of Technology, India
+
+*[R & D - Center for Research and Development of Free Open Source Software](https://www.sonatech.ac.in/research/free-open-source-software.php)
 
 ## Seneca College, Canada
 
