@@ -4,8 +4,10 @@
   url: /instances
 - title: Organizations
   url: /open-source-by-organizations/
-- title: Pay It Forward
+- title: Pass on the favor
   url: /pif
+- title: Projects
+  url: /projects
 - title: Similar courses
   url: /courses
 
