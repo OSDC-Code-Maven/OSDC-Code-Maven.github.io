@@ -23,14 +23,14 @@ In the planning phase are
 
 ## The slides
 
-The source of all the <a href="https://code-maven.com/slides/">slides</a> can be found on <a href="https://github.com/szabgab/slides">GitHub</a>.
-The code that generates the HTML pages from the slides is also on <a href="https://github.com/szabgab/slider-py">GitHub</a> (written in Python).
+The source of all the [slides](href="https://code-maven.com/slides/) can be found on [GitHub](https://github.com/szabgab/slides).
+The code that generates the HTML pages from the slides is also on [GitHub](https://github.com/szabgab/slider-py) (written in Python).
 There are tons of things that need to be improved in the content of the slides and I many in the presentation and in general the generation of HTML pages.
 
 ## Kantoniko - Ladino
 
 [Kantoniko](https://kantoniko.com/) is a project to help maintain and teach the Ladino language. (Also known as Judeo-Espanyol).
-It is divided into several repositories, but everything can be found on <a href="https://github.com/kantoniko/">GitHub</a>.
+It is divided into several repositories, but everything can be found on [GitHub](https://github.com/kantoniko/).
 
 Here you can find [all the open issues](https://github.com/search?q=org%3Akantoniko%20state%3Aopen&type=issues), but I am sure there
 are many other things that can and should be done that are not listed there.
