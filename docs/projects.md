@@ -16,9 +16,9 @@ Each one is written in its own programming language.
 
 In the planning phase are
 
-* Rust Digger [source](https://github.com/szabgab/rust-digger)
-* NodeJS/JavaScript Digger
-* PHP Digger [source](https://github.com/szabgab/php-digger)
+* [Rust Digger](https://rust-digger.code-maven.com/) - [source](https://github.com/szabgab/rust-digger)
+* NodeJS/JavaScript Digger -
+* PHP Digger - [source](https://github.com/szabgab/php-digger)
 
 ## The slides
 
