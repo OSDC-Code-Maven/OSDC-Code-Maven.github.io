@@ -1,25 +1,24 @@
 # Projects
 
-This is the list of projects by myself. See also the generic list of [Open Source projects](/os-projects) and how to find one for yourself to contribute to.
+This is the list of projects by myself (Gabor Szabo). See also the generic list of [Open Source projects](/os-projects) and how to find one for yourself to contribute to.
 
+There are projects in several programming languages. Most need help with UI/UX. Some don't need knowledge in any programming language.
 
 ## The Diggers
 
-Collecting in(Meta data, Continuous Integration, tests)
+Collecting information about 3rd-party packages. (Meta data, Continuous Integration, tests, etc.)
 
-Collecting information about 3rd-party packages.
+* [PyDigger for Python](https://pydigger.com/) - [source](https://github.com/szabgab/pydigger.com)
+* [CPAN Digger for Perl](https://cpan-digger.perlmaven.com/) - [source](https://github.com/szabgab/CPAN-Digger/)
+* [Ruby Digger](https://ruby-digger.code-maven.com/) - [source](https://github.com/szabgab/ruby-digger)
 
-* [PyDigger for Python](https://pydigger.com/)
-* [CPAN Digger for Perl](https://cpan-digger.perlmaven.com/)
-* [Ruby Digger](https://ruby-digger.code-maven.com/)
-
-Each on is written in its own programming language.
+Each one is written in its own programming language.
 
 In the planning phase are
 
-* Rust Digger
+* Rust Digger [source](https://github.com/szabgab/rust-digger)
 * NodeJS/JavaScript Digger
-* PHP Digger
+* PHP Digger [source](https://github.com/szabgab/php-digger)
 
 ## The slides
 
@@ -47,7 +46,7 @@ Including the list of open source projects by organizations:
 ## List of Open Source by organizations
 
 The list of [Open Source projects by organizations](https://osdc.code-maven.com/open-source-by-organizations/) is a sub-page of the OSDC-web site, but
-it has its own [repository](https://github.com/OSDC-Code-Maven/open-source-by-organizations/). One does not need any programming knowladge to add
+it has its own [repository](https://github.com/OSDC-Code-Maven/open-source-by-organizations/). One does not need any programming knowledge to add
 more entries to our database, but there are also plenty of development and design tasks.
 
 ## Code-Maven and PerlMaven web sites
