@@ -8,6 +8,10 @@ or at least what I imagine they contain as I have not yet read them.
 
 ## What does OSDC stand for?
 
+The first time I encountered the OSDC acronym was when I heard about the "Open Source Developers' Conference" in Australia. I used the name in 2006 to organize an even in Israel.
+More recently I saw it being used as "Open Source Developers' Club". In December 2022 I started to use it as "Open Source Development Course(s)" escaping the need for the apostrophe.
+Then in June 2023 I realized the C can also stand for Company or Corporation. Somehow all of these might fit us.
+
 * Open Source Development Course(s)
 * Open Source Development Club
 * Open Source Development Conference
