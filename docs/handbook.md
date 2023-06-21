@@ -49,6 +49,15 @@ TODO add links to books and articles about Agile and DevOps.
 * The DevOps Handbook by Gene Kim, Patrick Debois, John Willis, Jez Humble, John Allspaw
 * Continuous Delivery: Reliable Software Releases through Build, Test, and Deployment Automation by Jez Humble and David Farley
 
+## Work on what you like
+
+At any point in time there are many open issues to work on and there might be many other tasks that are not (yet) listed as issues.
+We can have meetings to set priorities, but trying to stick to the exact order of priorities might be difficult and not enjoyable.
+
+We trust people that they have (or that they can develop) an understanding of what is more important and what is less important.
+Beyond that we want to allow people to work on the issue or task they find most interesting, valuable, or even fun.
+We believe that if people have the freedom to act they will work towards the well being of our projects and our organization.
+
 ## Background
 
 I hear plenty of people complaining about their workplace that they don't understand software development and operations. I saw similar issues at many of my clients.
