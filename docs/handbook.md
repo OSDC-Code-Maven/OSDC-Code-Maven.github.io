@@ -62,6 +62,10 @@ We trust people that they have (or that they can develop) an understanding of wh
 Beyond that we want to allow people to work on the issue or task they find most interesting, valuable, or even fun.
 We believe that if people have the freedom to act they will work towards the well being of our projects and our organization.
 
+We recognize that sometime people are just not in the mood to do the "most important task". In those situations they will start wasting
+time on all kinds of non-productive things, for example browsing the social networks. It is better to let them work on less important
+or less urgent task that still move the projects forward than to make them suffer and waste time.
+
 ## Background
 
 I hear plenty of people complaining about their workplace that they don't understand software development and operations. I saw similar issues at many of my clients.
