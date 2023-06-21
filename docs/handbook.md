@@ -76,7 +76,7 @@ So if you want to work in such an organization, either find one or create one yo
 
 ## Marketing and Promotion
 
-Our ideas, products, and service might be great, but if they don't reach the people who need them thet don't provide the value they can.
+Our ideas, products, and service might be great, but if they don't reach the people who need them then they don't provide the value they can.
 So we need to promote them. Let's start by describing some of the channels for promotion:
 
 TODO: We need a lot more ideas and explanation here.
