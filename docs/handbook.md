@@ -41,7 +41,7 @@ For now I try to describe the way I would like to work in this company.
 * Being remote is not the goal. Allowing people from remote areas to work is a goal.
 * Reducing time, money, and environment wasted on commuting is a goal.
 
-* Thing should be documented an transparent.
+* Everything should be documented an transparent. This document is part of that effort.
 
 ## Culture
 
@@ -77,6 +77,23 @@ To me this indicates that the majority of companies (or the people in these comp
 people arrive who have better ideas. Even that probably won't help in most places as there is already an organizational culture that the new people won't be able to change.
 
 So if you want to work in such an organization, either find one or create one yourself.
+
+## Documentation and transparency
+
+In many organizations during in-person person meetings people discuss things, reject ideas and then make decisions.
+In many cases even the decisions remain only in the memory of the participants. The process of decision making, the reasons why that particular
+decision was made and why other things were rejected is almost never documented. This means that if someone is not present that person will not know the reasons.
+In particular any person who joins the organization later will not be able to understand why certain things work in a particular way. Was that a conscious decision
+or did that just happen.
+
+We want to make sure that all our decisions and how we reached them are documented. This is realtively easy if everything is in writing.
+Less so if we also have other communication channels. Especially it is difficult to make sure everything is recorded for in-person meetings.
+
+Nevertheless we would like to encourage people to record all the discussions.
+
+For online meetings we can have a video recording, but we should also take notes in writing. That will be easier to search.
+
+For in-person meetings we should take notes.
 
 ## Marketing and Promotion
 
