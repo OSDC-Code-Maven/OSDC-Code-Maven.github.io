@@ -13,10 +13,13 @@ More recently I saw it being used as "Open Source Developers' Club". In December
 Then in June 2023 I realized the C can also stand for Company or Corporation. Somehow all of these might fit us.
 
 * Open Source Development Course(s)
+* Open Source Development Community
 * Open Source Development Club
 * Open Source Development Conference
 * Open Source Development Company
 * Open Source Development Corporation
+
+* The D might also stand for Distributed maybe as in Open Source Distributed Community, but it does not sound that good.
 
 ## Goals
 

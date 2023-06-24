@@ -1,5 +1,7 @@
 - title:  Home
   url: /
+- title: Course
+  url: /course
 - title: Instances
   url: /instances
 - title: Organizations
