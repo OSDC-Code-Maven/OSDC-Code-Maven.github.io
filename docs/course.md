@@ -4,15 +4,9 @@ In this course, participants will learn and practice how to build, maintain, and
 
 This is primarily a **practical course** with lots of hands-on assignments.
 
-<!--
-## Next Course
-
-[Next course](/c/osdc-2023-03-public)
--->
-
 ## Why this course?
 
-Both in the **industry** and in **academia** use an enormous amount of open source code. Many of these organizations also publish some of the code they write under some [OSI approved license](https://opensource.org/licenses).
+Both in the **industry** and in **academy** use an enormous amount of open source code. Many of these organizations also publish some of the code they write under some [OSI approved license](https://opensource.org/licenses).
 
 These projects need development and maintenance work.
 
@@ -116,11 +110,21 @@ After that we'll start to contribute to other open source projects as well.
 
 ### Session 3
 
-* Git on the command line, push.
-* Markdown.
 * Creating static web site on GitHub pages.
+* Create repository for GitHub pages.
+* Git on the command line: clone, status, diff, add, commit, push.
+* Markdown.
+
+* Creating your first coding project
+* Create local folder
+* git init
+* Create empty repository on GitHub
+* git push
 
 ### Session 4
+
+* Open issue (on the repo of other team-members)
+* 
 
 ## Other
 
