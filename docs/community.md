@@ -32,3 +32,6 @@ We have streams for each programming language we currently support.
 The [general](https://osdc.zulipchat.com/#narrow/stream/393559-general) where we can discuss anything that is not language specific or that is related to a language for which we
 do not have a stream yet.
 
+It could be also interesting to join the [community of the Zulip developers](https://chat.zulip.org/).
+
+There are also a number of other [communities](https://zulip.com/communities/) for you to explore.
