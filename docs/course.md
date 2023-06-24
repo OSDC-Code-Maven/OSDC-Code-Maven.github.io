@@ -98,17 +98,29 @@ After that we'll start to contribute to other open source projects as well.
 
 ### Session 1
 
-* Why contribute to Open Source
-* Why use version control
-* Sending a Pull-request to the repo of the course using only the GUI of GitHub
-* Collecting data and sending pull-requests with raw data to a data collection project of Gabor
+* Why contribute to Open Source?
+* Why use version control?
+* Sending a Pull-request to the repo of the course using only the GUI of GitHub. Adding a JSON file with some personal data of the participant.
+* Short explanation about the GitHub Acttions and the verification process in our system.
+* Finding the branch and updating the pull-request after the checks fail.
+* Blog post on DEV.to, introduction to Markdown.
+
 
 ### Session 2
 
-* Git on the command line, push
-* Markdown
-* Creating static web site on GitHub pages
+* Structure of Git URLs, projects/ organizations/ repos.
+* Finding repositories of projects via 3rd party library registries.
+* Listing the projects the participants are interested in.
+* Learning about the YAML format.
+* Collecting data about organization with open source projects and sending pull-requests to the [Open Source by Organizations](https://github.com/OSDC-Code-Maven/open-source-by-organizations/) project.
 
+### Session 3
+
+* Git on the command line, push.
+* Markdown.
+* Creating static web site on GitHub pages.
+
+### Session 4
 
 ## Other
 
