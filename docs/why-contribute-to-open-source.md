@@ -28,7 +28,7 @@ In other words, what is the value in contributing to Open Source?
 * improve your collaboration skills
 * get deeper understanding of projects
 * improve communication skills (in writing in English)
-* experience asynhronous work
+* experience asynchronous work
 
 ## As a senior
 
