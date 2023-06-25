@@ -28,4 +28,11 @@ and properly evaluate code written in all the programming languages used in the 
 This creates a pressure to reduce the number of programming languages in the organization. In itself this is not a problem,
 but it might reduce the possibility to explore other languages that might fit better specific tasks.
 
+In other words they say: We can't fully trust Open source software.
+We need to have a strong SCM (Software Configuration Management) process.
+We need to have version control for inbound open source code.
+We need to have code review and license review for every piece of software that arrived to the company.
+We are ready to allocate a separate team to verify and approve new open source packages to be added to the stack.
+
 Only relatively large companies can afford to have such a team that is not working on the products of the company.
+
