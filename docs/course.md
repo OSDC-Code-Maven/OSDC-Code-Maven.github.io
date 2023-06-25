@@ -93,7 +93,7 @@ After that we'll start to contribute to other open source projects as well.
 ### Session 1
 
 * [Why contribute to Open Source?](/why-contribute-to-open-source)
-* [What can be a contribution](/what-can-be-a-contribution)
+* [What can be a contribution?](/what-can-be-a-contribution)
 * Why use version control?
 * Sending a Pull-request to the repo of the course using only the GUI of GitHub. Adding a JSON file with some personal data of the participant.
 * Short explanation about the GitHub Acttions and the verification process in our system.
@@ -125,7 +125,7 @@ After that we'll start to contribute to other open source projects as well.
 ### Session 4
 
 * Open issue (on the repo of other team-members)
-* 
+* [How to select a project to contribute to?](/how-to-select-project-to-contribute-to)
 
 ## Other
 
