@@ -126,6 +126,7 @@ After that we'll start to contribute to other open source projects as well.
 
 * Open issue (on the repo of other team-members)
 * [How to select a project to contribute to?](/how-to-select-project-to-contribute-to)
+* [How to contribute?](/how-to-contribute)
 
 ## Other
 
