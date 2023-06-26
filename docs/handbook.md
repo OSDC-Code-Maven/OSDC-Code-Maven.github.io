@@ -98,6 +98,21 @@ For online meetings we can have a video recording, but we should also take notes
 
 For in-person meetings we should take notes.
 
+## Communication
+
+There is a lot of value in face-to-face and in-person communication and we would like to encourage that too, but we know that
+in reality in many cases the time needed for communication is not symmetrical.
+The time it takes to create the content is not the same as the time it takes to consume it.
+
+* Creating a movie takes months of many people, but takes only 2 hours to consume.
+* Creating a youtube video by a single person will also take a lot more time than the length of the video.
+* Writing a damning Tweet takes second. Refuting it can take hours, days or even more.
+
+Besides that, people live in different time-zones and even those who live in the same time-zone will have different habbits
+or different constrains when they can work.
+
+So asynchronous communication is key to enable good communication.
+
 ## Marketing and Promotion
 
 Our ideas, products, and service might be great, but if they don't reach the people who need them then they don't provide the value they can.
