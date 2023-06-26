@@ -8,6 +8,15 @@ Anyone can participate in our community who will abide by the basic rule of bein
 You don't have to be an expert programmer. You don't even need to know how to program. There are plenty of things to
 do in our community and in Open Source in general that don't involve programming.
 
+## Who should participate?
+
+If you have never contributed to any open source project and would like to do that, we hope we'll be able to help you.
+You don't have to be an expert developer, you don't even have to be a developer. There are plenty of tasks for designers,
+technical writers, and even for people who are users of an open source application without any particular knowledge in the field.
+
+We would also like to welcome maintainers of open source projects who would like to help people get involved in their projects.
+
+
 ## What are the steps to contribute to an open source project?
 
 It depends on your background, your experience and the type of contribution you'd like to make.
