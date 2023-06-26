@@ -1,5 +1,5 @@
 ---
-title: Only internally vetted and approved Open Source libraries can be used.
+title: Only internally vetted and approved Open Source libraries can be used
 published: true
 published_at: 2023-06-26 08:26 +0000
 ---
