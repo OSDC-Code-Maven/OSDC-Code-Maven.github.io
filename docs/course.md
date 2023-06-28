@@ -92,6 +92,7 @@ After that we'll start to contribute to other open source projects as well.
 
 ### Session 1
 
+* [Course overview](/course-overview)
 * [Why contribute to Open Source?](/why-contribute-to-open-source)
 * [What can be a contribution?](/what-can-be-a-contribution)
 * Why use version control?
