@@ -1,6 +1,7 @@
 # Projects
 
-This is the list of projects by myself (Gabor Szabo). See also the generic list of [Open Source projects](/os-projects) and how to find one for yourself to contribute to.
+List of projects by members of the community that are explicitly supported via the [community chat](https://osdc.zulipchat.com/) server.
+See also the generic list of [Open Source projects](/os-projects) and how to find one for yourself to contribute to.
 
 There are projects in several programming languages. Most need help with UI/UX. Some don't need knowledge in any programming language.
 
@@ -57,9 +58,9 @@ The source of the content of the [PerlMaven](https://perlmaven.com/) web site is
 
 The code that generates the web site is written in Perl and can be found [here](https://github.com/szabgab/Perl-Maven).
 
-## Other projects by Gabor
+## Other projects by active members of the community
 
-There are many other projects in [my GitHub account](https://github.com/szabgab/). Check those out. Some of them might be interesting to you.
+There are many other projects in the [GitHub account of Gabor Szabo](https://github.com/szabgab/). Check those out. Some of them might be interesting to you.
 
 A bunch of those are examples for [GitHub Actions](https://code-maven.com/github-actions).
 
