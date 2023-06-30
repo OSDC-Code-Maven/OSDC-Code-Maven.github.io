@@ -39,7 +39,11 @@ In other words, what is the value in contributing to Open Source?
 
 ## Quotes from people
 
-    I think for many engineers it is a great way to get experience outside of the current responsibilities, and to get feedback and guidance from more experienced engineers while also contributing to better the ecosystem overall. Free code reviews from people who have decades more experience than you have is a great way to become a better engineer.
+> I think for many engineers it is a great way to get experience outside of the current responsibilities, and to get feedback and guidance from more experienced engineers while also contributing to better the ecosystem overall. Free code reviews from people who have decades more experience than you have is a great way to become a better engineer.
 
 [Yves Orton](https://www.linkedin.com/in/yvesorton/)
+
+> It makes you a better programmer, you contribute to the community, and ramp up your communication skills
+
+[Ilay Nisim](https://www.linkedin.com/in/ilay-nisim-9561369/)
 
