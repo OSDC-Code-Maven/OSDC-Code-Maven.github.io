@@ -47,3 +47,28 @@ In other words, what is the value in contributing to Open Source?
 
 [Ilay Nisim](https://www.linkedin.com/in/ilay-nisim-9561369/)
 
+> My current life is in large part due to open source, so it's only natural that I contribute back.
+
+[Bruno André Rodrigues Coelho](https://www.linkedin.com/in/brodriguesco/)
+
+> I mess around with code for fun. The fact that someone else might find it useful is a bonus.
+
+> Open source gave me a career and I feel like I should give back if I can.
+
+> It's great because it's a very large community, all working together, to move things forward. It's also great when someone thanks you for your contributions.
+
+> I release my own stuff as open source for two main reasons. First, it means other people can do some of the work for me. Second, it’s my portfolio.
+> I contribute to other peoples projects when they almost do what I want. Patching in my change is quicker and easier than writing my own version from scratch.
+
+> I like having good. free software alternatives available, so I gotta do my part.
+
+
+> * If I need something myself, and there's likely to be value in it to someone else, I'm happy to open-source it. I've benefited greatly from other people's open source work in my career and personal life, so I'm happy to give back whatever I can - it's only fair.
+> * It's not unusual to receive bug fixes and new feature implementations etc on projects I've open sourced - that's stuff I'd have had to do myself if I hadn't made it available as open source.
+> * Often when I need a thing, I'll find an open sourced thing that does at least mostly what I need; if I need to submit a PR to add whatever is missing, it's likely quicker than me building it from scratch - even if it's abandoned and I end up adopting it, as seems to have happened several times for me on CPAN
+> * It's even better than a CV - a portfolio of CPAN distributions / other open source contributions is better than a CV claiming you know what you're doing IME, both from a hiring and being hired prospective. If I'm interviewing someone, I won't discount them for not having any demonstrable open source contributions, but if they have, it's a massive immediate thing in their favour.
+> * Being exposed to other people's code is a good way to learn new tricks you might not have seen otherwise, and get used to different styles - if you're ever going to have to be a maintenance programmer (and let's face it, aren't we all, to some degree at least!) then demonstrable ability to work on different codebases with different styles and coding standards is going to be a requirement
+> * Knowing that your code is going to be released to the public and possibly read by people whose opinion of you is valuable is a good motivator to write clean, readable and maintainable code, rather than being tempted to chuck something together with a "meh, it'll do, nobody's ever going to see this" attitude
+> * I find it satisfying when you realise that your code is proving useful to other people too.
+
+
