@@ -3,7 +3,7 @@
 ## Introduction
 
 This is the OSDC handbook.
-The inspiration comes from the <a href="https://about.gitlab.com/handbook/">GitLab Handbook</a> and the <a href="https://about.gitlab.com/handbook/ceo/">GitLab CEO Handbook</a>
+The inspiration comes from the [GitLab Handbook](https://about.gitlab.com/handbook/) and the [GitLab CEO Handbook](https://about.gitlab.com/handbook/ceo/)
 or at least what I imagine they contain as I have not yet read them.
 
 ## What does OSDC stand for?
