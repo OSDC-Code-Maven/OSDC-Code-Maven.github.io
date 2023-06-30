@@ -71,4 +71,6 @@ In other words, what is the value in contributing to Open Source?
 > * Knowing that your code is going to be released to the public and possibly read by people whose opinion of you is valuable is a good motivator to write clean, readable and maintainable code, rather than being tempted to chuck something together with a "meh, it'll do, nobody's ever going to see this" attitude
 > * I find it satisfying when you realise that your code is proving useful to other people too.
 
+>  exposing yourself to public ridicule concentrates the mind wonderfully
+> all companies should force their devs release non-core parts of their code to open source 😉 ... I have seen at least 3 proprietary web frameworks written in Perl which with some polishing would have made at least a medium splash had they been released in the mid-1990s when they were written ... and with the danger of public ridicule they would have been improved
 
