@@ -3,8 +3,18 @@
 ## Introduction
 
 This is the OSDC handbook.
-The inspiration comes from the [GitLab Handbook](https://about.gitlab.com/handbook/) and the [GitLab CEO Handbook](https://about.gitlab.com/handbook/ceo/)
-or at least what I imagine they contain as I have not yet read them.
+
+## Goals
+
+* Helping companies handle Open Source code better.
+* Helping people who would like to contribute to open source but don't know how to get started.
+
+## Proposed Solutions
+
+* Training - teach employees and future employees (students) about Free Software, Open Source, how to contribute etc.
+* Maintenance - contract to maintain certain open source libraries.
+* Measurement - it is not really a "solution", but it is needed to be able to understand the level of security, legal, technical, and other risks.
+
 
 ## What does OSDC stand for?
 
@@ -20,16 +30,6 @@ Then in June 2023 I realized the C can also stand for Company or Corporation. So
 * Open Source Development Corporation
 
 * The D might also stand for Distributed maybe as in Open Source Distributed Community, but it does not sound that good.
-
-## Goals
-
-* Helping companies handle Open Source code better.
-
-## Solutions
-
-* Training - teach employees and future employees (students) about Free Software, Open Source, how to contribute etc.
-* Maintenance - contract to maintain certain open source libraries.
-* Measurement - it is probably not a solution, but it is needed to be able to understand the level of security, legal, technical, and other risks.
 
 ## Products and Services
 
