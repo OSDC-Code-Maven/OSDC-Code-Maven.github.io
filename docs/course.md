@@ -128,6 +128,35 @@ After that we'll start to contribute to other open source projects as well.
 * Open issue (on the repo of other team-members)
 * [How to select a project to contribute to?](/how-to-select-project-to-contribute-to)
 * [How to contribute?](/how-to-contribute)
+* git: fork, branch, push, remote
+* github: sending pull-request
+* follow the progress of the original repo
+
+### Session 5
+
+* PyDigger, updating meta data of a Python project
+* Python dependency management; listing dependencies, fixing version numbers, upgrading, dependabot
+
+### Session 6
+
+* Docker - getting started
+* Docker - creating an image
+
+### Session 7
+
+* Docker compose
+
+### Session 8
+
+* GitHub Actions
+* on native Operating Systems
+* in Docker
+* Matrix
+* Artifacts
+
+### Session 9
+
+* Check out several well-known open source project to see how to contribute to them.
 
 ## Other
 
