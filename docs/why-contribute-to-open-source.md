@@ -65,6 +65,22 @@ In other words, what is the value in contributing to Open Source?
 
 [David Precious](https://www.linkedin.com/in/bigpresh/)
 
+> I like having good. free software alternatives available, so I gotta do my part.
+
+[Jason Smith](https://www.linkedin.com/in/jason-smith-8668a081/)
+
+
+> Exposing yourself to public ridicule concentrates the mind wonderfully.
+>
+> All companies should force their devs release non-core parts of their code to open source 😉 ...
+> I have seen at least 3 proprietary web frameworks written in Perl which with some polishing would have made at least a medium splash had they been released in the mid-1990s when they were written ... and with the danger of public ridicule they would have been improved.
+
+[Emil Perhinschi](https://www.linkedin.com/in/emilperhinschi/)
+
+> I release my own stuff as open source for two main reasons. First, it means other people can do some of the work for me. Second, it’s my portfolio.
+> I contribute to other peoples projects when they almost do what I want. Patching in my change is quicker and easier than writing my own version from scratch.
+
+[David Cantrell](https://www.linkedin.com/in/david-cantrell-60769278/)
 
 > I mess around with code for fun. The fact that someone else might find it useful is a bonus.
 
@@ -72,14 +88,4 @@ In other words, what is the value in contributing to Open Source?
 
 > It's great because it's a very large community, all working together, to move things forward. It's also great when someone thanks you for your contributions.
 
-> I release my own stuff as open source for two main reasons. First, it means other people can do some of the work for me. Second, it’s my portfolio.
-> I contribute to other peoples projects when they almost do what I want. Patching in my change is quicker and easier than writing my own version from scratch.
-
-> I like having good. free software alternatives available, so I gotta do my part.
-
-
-> Exposing yourself to public ridicule concentrates the mind wonderfully.
->
-> All companies should force their devs release non-core parts of their code to open source 😉 ...
-> I have seen at least 3 proprietary web frameworks written in Perl which with some polishing would have made at least a medium splash had they been released in the mid-1990s when they were written ... and with the danger of public ridicule they would have been improved.
 
