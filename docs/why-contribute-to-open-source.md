@@ -22,20 +22,20 @@ In other words, what is the value in contributing to Open Source?
 
 ## Mid-level developers / designers / etc. (a few years experience)
 
-* gain experience as maintainer, project manager
-* help others get started
-* design projects
-* improve your collaboration skills
-* get deeper understanding of projects
-* improve communication skills (in writing in English)
-* experience asynchronous work
+* Gain experience as maintainer, project manager.
+* Help others get started.
+* Design projects.
+* Improve your collaboration skills.
+* Get deeper understanding of projects.
+* Improve communication skills (in writing in English).
+* Experience asynchronous work.
 
 ## As a senior
 
-* become an architect
-* mentor others
-* improve communication skills
-* improve leadership skills
+* Become an architect.
+* Mentor others.
+* Improve communication skills.
+* Improve leadership skills.
 
 ## Quotes from people
 
