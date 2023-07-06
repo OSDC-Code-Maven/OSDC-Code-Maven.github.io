@@ -84,6 +84,8 @@ In other words, what is the value in contributing to Open Source?
 
 > I mess around with code for fun. The fact that someone else might find it useful is a bonus.
 
+[Paul Bennett](https://www.linkedin.com/in/pwb712/)
+
 > Open source gave me a career and I feel like I should give back if I can.
 
 > It's great because it's a very large community, all working together, to move things forward. It's also great when someone thanks you for your contributions.
