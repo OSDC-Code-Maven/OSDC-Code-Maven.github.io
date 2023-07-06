@@ -78,8 +78,8 @@ In other words, what is the value in contributing to Open Source?
 > I like having good. free software alternatives available, so I gotta do my part.
 
 
-> exposing yourself to public ridicule concentrates the mind wonderfully
+> Exposing yourself to public ridicule concentrates the mind wonderfully.
 >
-> all companies should force their devs release non-core parts of their code to open source 😉 ...
-> I have seen at least 3 proprietary web frameworks written in Perl which with some polishing would have made at least a medium splash had they been released in the mid-1990s when they were written ... and with the danger of public ridicule they would have been improved
+> All companies should force their devs release non-core parts of their code to open source 😉 ...
+> I have seen at least 3 proprietary web frameworks written in Perl which with some polishing would have made at least a medium splash had they been released in the mid-1990s when they were written ... and with the danger of public ridicule they would have been improved.
 
