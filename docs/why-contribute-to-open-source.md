@@ -86,7 +86,9 @@ In other words, what is the value in contributing to Open Source?
 
 [Paul Bennett](https://www.linkedin.com/in/pwb712/)
 
-> Open source gave me a career and I feel like I should give back if I can.
+> Open source gave me a career and I feel like I should give back if I can. Also by helping to grow the ecosystem of software I indirectly help myself.  Win Win.
+
+[John Napiorkowski](https://www.linkedin.com/in/jnapiorkowski/)
 
 > It's great because it's a very large community, all working together, to move things forward. It's also great when someone thanks you for your contributions.
 
