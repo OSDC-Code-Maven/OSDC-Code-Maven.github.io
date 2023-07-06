@@ -51,6 +51,10 @@ In other words, what is the value in contributing to Open Source?
 
 [Bruno André Rodrigues Coelho](https://www.linkedin.com/in/brodriguesco/)
 
+> While contributing to some FOSS projects I liked that I was able to work at my own pace, without any hard deadlines. This is something that I never had at my day job, at my day job my main goal is to get the task done, the fact that I learn from it is a side effect, whereas while contributing to FOSS my main goal is to gain knowledge and the completion of the task is a side effect. It is much more relaxed. I also felt that when you contribute to FOSS, you get a wider perspective about the project at hand. For example, if I am using a library at work, then I am more likely to be focused on how to use this library in the domain I am working in, but when I contribute to this library (or even just go through the list of existing issues) I get to know how people are using this library in other domains, there is always some knowledge exchange, sometimes/often I apply that knowledge at my day job.
+
+[Upasana Shukla](https://www.linkedin.com/in/upasana-shukla/)
+
 > I mess around with code for fun. The fact that someone else might find it useful is a bonus.
 
 > Open source gave me a career and I feel like I should give back if I can.
