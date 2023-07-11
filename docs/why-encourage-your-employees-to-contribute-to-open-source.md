@@ -24,6 +24,15 @@ By encouraging them to fix bugs or add new features you directly help your compa
 
 * It demonstrates social and ethical responsibility, which may attract other like-minded professionals to join.
 
+## Learning about Open Source Development
+
+Learning about the techniques and the culture of Open Source Development is a great way for professional development. Even if at the end people don't contribute code to any open source project.
+
+
+* Understanding the culture - why different people are involved in open source
+* Understanding the process of contributing code
+* Non-code contributions that still help the project: As some employers, and especially their legal department, would be worried of code contribution they could still encourage the involvement in other ways. eg. opening good bug-reports, help triaging issues, commenting on pull-requests, helping with the documentation, contributing test-cases. Reviewing pull-requests and the whole code-base.
+
 
 ## Which Companies?
 
