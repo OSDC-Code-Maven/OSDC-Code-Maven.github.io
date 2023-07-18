@@ -16,7 +16,7 @@ I know you are eager to write programs, but in order to contribute you also need
 * Data collection: [Open source companies](https://osdc.code-maven.com/open-source-by-organizations/).
 * Pick one of the projects from the [Awesome for non-programmers](https://github.com/szabgab/awesome-for-non-programmers) list.
 
-# Learn how to set up the local development environment of open source projects
+## Learn how to set up the local development environment of open source projects
 
 * Assumption: you already know how to *run* tests in Python.
 
