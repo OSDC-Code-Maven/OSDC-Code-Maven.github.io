@@ -39,6 +39,9 @@ Background: You have a few months experience programming in some language (e.g. 
 * Practice setting up Github Actions for Continuous Integration of small projects.
 * Learn about Docker for isolated environments, practice that.
 
+Check out the more specific instructions for [Beginners in Python](/steps-for-python)
+
+
 ## Experienced programmer
 
 Background: You have 10-20 years of experience as a programmer. You know git well, you also used GitHub but mostly only to push and pull.
