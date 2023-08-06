@@ -37,7 +37,15 @@ member of the Maakaf community
 Using your GitHub account we'll generate a page where we display your name and avatar taken from your GitHub account along with all the Pull-Requests
 you sent during the period of the challenge.
 
-![](https://avatars.githubusercontent.com/u/48833?v=4)
+### Sample display:
+
+<img src="https://avatars.githubusercontent.com/u/48833?v=4" width="60px" title="Gabor Szabo" alt="Gabor Szabo">
+Gabor Szabo
+* [Update Cargo.toml add repository](https://github.com/simon-bourne/include-doc/pull/1)
+* [Update Cargo.toml add repository](https://github.com/alexevanczuk/packs/pull/100)
+* [http => https](https://github.com/lightningdevkit/rust-lightning/pull/2444)
+* [Update Cargo.toml http => https](https://github.com/tizoc/ocaml-interop/pull/51)
+* [Update Cargo.toml remove www](https://github.com/janstarke/mactime2/pull/3)
 
 
 ## Registration:
