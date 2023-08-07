@@ -9,6 +9,7 @@ There are projects in several programming languages. Most need help with UI/UX. 
 
 Collecting information about 3rd-party packages. (Meta data, Continuous Integration, tests, etc.)
 
+* [Rust Digger](https://rust-digger.code-maven.com/) - [source](https://github.com/szabgab/rust-digger) (Rust)
 * [PyDigger for Python](https://pydigger.com/) - [source](https://github.com/szabgab/pydigger.com) (Python, MongoDB, Bootstrap, a little JQuery)
 * [CPAN Digger for Perl](https://cpan-digger.perlmaven.com/) - [source](https://github.com/szabgab/CPAN-Digger/) (Perl, Bootstrap, a little JQuery)
 * [Ruby Digger](https://ruby-digger.code-maven.com/) - [source](https://github.com/szabgab/ruby-digger) (Ruby, Bootstrap, a little JQuery)
@@ -17,7 +18,6 @@ Each one is written in its own programming language.
 
 In the planning phase are
 
-* [Rust Digger](https://rust-digger.code-maven.com/) - [source](https://github.com/szabgab/rust-digger) (Rust)
 * NodeJS/JavaScript Digger - [source](https://github.com/szabgab/jsdigger)
 * PHP Digger - [source](https://github.com/szabgab/php-digger) (PHP)
 
