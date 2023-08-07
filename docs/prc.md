@@ -66,7 +66,7 @@ That's the place!
 
 * The biggest prize you get is the good feeling that you have contributed to Open Source projects and thus made the world a slightly better place.
 * Your picture (or avatar) together with your accomplishment will be displayed on our web site.
-* The first few participants (exact number will be determined later) who complete the tasks will receive a T-shirt specifically made for this challenge. (We stil need to work out the logistics of this, but you'll need to supply your postal address in order to receive this present.)
+* The first few participants (exact number will be determined later) who complete the tasks will receive a T-shirt specifically made for this challenge. (We still need to work out the logistics of this, but you'll need to supply your postal address in order to receive this present.)
 
 
 ## Tasks eligible for our challenge
@@ -78,6 +78,10 @@ A few comments:
 * The Diggers are updated only by projects that were **released**. This means that even if your contribution was accepted it will take time till it is reflected on the Digger. Don't worry, for the purpose of the challenge we look at the Pull-Request.
 * Because the Diggers have a delay, this means that there will be items listed on the Diggers as having some issues even after those have been fixed. So before you send a fix, make sure the problem still exists in the repository.
 * Before you send a pull-request make sure there are no existing pull-requests for the same issue. Check both the open pull-requests and the already closed ones. After all sending a duplicate pull-request won't help you in the challenge and will be annoying to the receiver. Even more so with a PR that was already rejected by the author/maintainer of the project.
+
+* The tasks are listed more-or-less in order of complexity / difficulty.
+
+* Some don't require any programming at all, some require knowledge of Python, Rust, or JavaScript.
 
 
 ### Replace http by https in the repository link of a Rust Crate
@@ -123,4 +127,63 @@ This is a slightly harder task as you need to track down the repository yourself
 * Sample explanation: `Update Cargo.toml add repository url to make crates.io, rust-digger, and other sites link to it.`
 
 * [Sample PR](https://github.com/sebosp/nom-mpq/pull/2)
+
+
+### Add data to the List of Organizations with Open Source Projects
+
+* We maintain a [list of organization with open source projects](https://osdc.code-maven.com/open-source-by-organizations/). The list includes corporations, higher-education institutions, governments, and non-profit organizations that have at least on "GitHub organization" where they publish open source projects.
+* The data is in YAML files in the [this GitHub repository](https://github.com/OSDC-Code-Maven/open-source-by-organizations/).
+
+* Add another YAML file to the `data/github` folder referencing to the "GitHub organization" of real-world organization.
+* It might be necessary to add a YAML file to he `data/organizations` folder as well, but that should be only necessary if a new YAML file was added to the `data/github` folder.
+
+
+### Add instructions for contributors to a Python project
+
+Some open source projects have very detailed instructions in how to set up the local development environment, how to run the tests of the projects and how to contribute to the project. The [Python Flask](https://github.com/pallets/flask) project has a file called `CONTRIBUTING.rst` which is a really good example for this. In the [PyDigger](https://github.com/szabgab/pydigger.com) project we also try to provide detailed information in the `README.md` file.
+
+However, many Python projects don't have such explanation. Especially the smaller and newer ones. So the task is to find such projects, set up the local development environment, run the tests, and then send a PR describing how to do this in either the README file of the project or a separate file called CONTRIBUTING.
+
+* To find a candidates look at [recently updated Python projects](https://github.com/topics/python?l=python&o=desc&s=updated) find one with a few stars (the 5-20 star range might be the best).
+* Check if there are already instructions in either the README file or in some other file.
+* If there are no instructions yet, clone the project and try to run the tests locally. If you encounter problems, open an issue on the project and either try to continue despite the problem or switch to another project while waiting for the author to respond to the issue.
+
+
+### Add GitHub Actions (CI) to a Python project
+
+On the PyDigger site there is a page listing [projects on GitHub without CI](https://pydigger.com/search/has-github-no-ci).
+A Continuous Integration System (CI) will help the project developers to make sure the tests of a projects are executed on every push to the project and on every pull-request. The most common such system for projects hosted on GitHub is using GitHub Actions.
+
+The task is to create the '.github/workflows' folder in the repository and add a GitHub Action configuration YAML file.
+
+* It might be a good idea to  first clone the project to your computer and make sure you know how to run the tests locally, however this is not a requirement.
+* There are a number of ways to start doing so.
+    * Fork the project on GitHub and then click on the `Actions` menu item. You'll see a number of suggested workflow files. You can start with one of those.
+    * We have a number of [GitHub Action skeletons](https://code-maven.com/github-actions), one of the is for Python. You can use the YAML file from there.
+    * You can find a long list of [Python project with GitHub Actions](https://pydigger.com/search/has-github-actions). You can get inspiration from those.
+    * If this is the first time you create GitHub Actions, you might want to start by playing around it in one of your own repositories. Maybe one that was created specifically for this purpose.
+
+* Sample explanation: `Add GitHub Actions to make the tests run on every push and every pull-request.`
+
+* [Sample PR](https://github.com/firlast/wsblib/pull/3)
+* [Sample PR](https://github.com/Ara101/pcr_optimizer/pull/4)
+
+
+### Fix an issue in the Rust Digger or in the PyDigger
+
+* The [Rust Digger](https://rust-digger.code-maven.com/) is written in rust and its source code is [here](https://github.com/szabgab/rust-digger).
+* The [Pydigger](https://pydigger.com/) is written in Python and its source code is [here](https://github.com/szabgab/pydigger.com).
+
+Both have a number of issues already listed in their respective GitHub repositories. Fixing any of those bugs or implementing a feature request will certainly help this project. Before you get started, please comment on the issue so we can verify that the issue is still relevant and so that we can discuss the implementation.
+
+* There is not sample explanation for this, nor is it necessary to add the post-acceptance explanation to this project.
+
+### Fix an issue in the "Organizations with Open Source Projects"
+
+The [list of organizations](https://osdc.code-maven.com/open-source-by-organizations/) have a number of [open issues](https://github.com/OSDC-Code-Maven/open-source-by-organizations/issues). Implementing one of them will help this project.
+
+* Before you get started on an issue, please first comment on it so we can check it is still relevant and we can discuss the implementation.
+
+* There is not sample explanation for this, nor is it necessary to add the post-acceptance explanation to this project.
+
 
