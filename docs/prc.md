@@ -1,10 +1,13 @@
 # OSDC - PRC - Pull Request Challenge
 
-Our goal is to encourage people with no or little experience in contributing to open source projects to get involved. We realize that making a big contribution would require a lot of work. Luckily we found thousands of projects with small and well defined opportunities to contribute.
+Our goal is to encourage people with no or little experience in contributing to open source projects to get involved. We realize that making a big contribution would require a lot of work. Luckily we found thousands of projects with small and well defined opportunities to make a difference.
 
-Some of the tasks only require the change of a single character, for example replacing an insecure link to http://github.com/ by a secure link to https://github.com/. Other tasks are slightly more complex, but even those don't require deep involvement in the projects.
+Some of the tasks only require the change of a single character, for example replacing an insecure link to http://github.com/ by a secure link to https://github.com/. Other tasks are slightly more complex, but still without the need for programming. Then there are other tasks that require programming in Python, Rust, or in JavaScrip. However, even those tasks don't require a deep involvement in the projects.
 
-We believe that these small contributions add up and make the whole open source ecosystem a healthier place.
+Open Source runs the world.
+
+We believe that these (relatively) small contributions add up and make the whole open source ecosystem a healthier place.
+
 
 ## The Challenge
 
@@ -17,9 +20,9 @@ Therefore you might need to create more than 20 Pull-Requests.
 * Once the PR was merged a new comment must be added to the PR explaining about the challenge and the site where you found the specific project.
 e.g. for Rust-based projects something like this:
 
-```
-The idea for this PR was found on the [Rust Digger](https://rust-digger.code-maven.com/) site and it was sent as part of the [OSDC](https://osdc.code-maven.com/prc) challenge for improving the Open Source ecosystem.
-```
+> The idea for this PR was found on the [Rust Digger](https://rust-digger.code-maven.com/) site and it was sent as part of the [OSDC](https://osdc.code-maven.com/prc) challenge for improving the Open Source ecosystem.
+
+* We will manually verify each PR after it was accepted by the owner of the project.
 
 ## Dates
 
@@ -29,7 +32,6 @@ This round of the challenge starts on Aug 8 and ends at UTC midnight UTC on Aug 
 
 * Any person above the age of 18 years at the time of registration who has a GitHub account with an avatar. (Preferable your picture, but a nice drawing will do as well.)
 * In this iteration of the challenge we'll allow a very limited number of participants. We'll pick the participants from among the first people who register.
-member of the Maakaf community
 * This iteration of the challenges is limited to the members of the Maakaf community.
 
 ## Display of the results
