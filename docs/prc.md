@@ -51,7 +51,9 @@ Gabor Szabo
 * [Update Cargo.toml add repository](https://github.com/ndaniels/csc411_image/pull/1)
 * [Update Cargo.toml add repository](https://github.com/snowdriftsystem/pkrs/pull/1)
 * [Update Cargo.toml add repository](https://github.com/Demonthos/dioxus-storage/pull/5)
-
+* [Update Cargo.toml add repository](https://github.com/cijber/brug/pull/1)
+* [Update Cargo.toml add repository](https://github.com/dizda/amqp-lapin-helper/pull/1)
+* [Update Cargo.toml add repository](https://github.com/Kilerd/gotcha/pull/10)
 
 ## Registration:
 
