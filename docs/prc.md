@@ -48,6 +48,9 @@ Gabor Szabo
 * [http => https](https://github.com/lightningdevkit/rust-lightning/pull/2444)
 * [Update Cargo.toml http => https](https://github.com/tizoc/ocaml-interop/pull/51)
 * [Update Cargo.toml remove www](https://github.com/janstarke/mactime2/pull/3)
+* [Update Cargo.toml add repository](https://github.com/ndaniels/csc411_image/pull/1)
+* [Update Cargo.toml add repository](https://github.com/snowdriftsystem/pkrs/pull/1)
+* [Update Cargo.toml add repository](https://github.com/Demonthos/dioxus-storage/pull/5)
 
 
 ## Registration:
