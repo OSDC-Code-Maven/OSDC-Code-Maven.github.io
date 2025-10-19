@@ -92,12 +92,13 @@ After that we'll start to contribute to other open source projects as well.
 
 ### Session 1
 
-* [Course overview](/course-overview)
-* [Why contribute to Open Source?](/why-contribute-to-open-source)
-* [What can be a contribution?](/what-can-be-a-contribution)
-* Why use version control?
+* [Course overview](/course-overview) (Presentation)
+* [Why contribute to Open Source?](/why-contribute-to-open-source) (Presentation + Discussion)
+* [What can be a contribution?](/what-can-be-a-contribution) (Presentation + Discussion)
+* Why use version control? (Presentation + Discussion)
+* The process of contribution (forking, pull-request) (Presentation + Discussion)
 * Sending a Pull-request to the repo of the course using only the GUI of GitHub. Adding a JSON file with some personal data of the participant.
-* Short explanation about the GitHub Acttions and the verification process in our system.
+* Short explanation about the GitHub Actions and the verification process in our system.
 * Finding the branch and updating the pull-request after the checks fail.
 * Blog post on DEV.to, introduction to Markdown.
 
@@ -177,7 +178,7 @@ Recommended reading material for the participants.
 * Working in Public: The Making and Maintenance of Open Source Software by Nadia Eghbal ([buy](https://www.amazon.com/dp/0578675862/))
 * Just for Fun: The Story of an Accidental Revolutionary by Linus Torvalds, David Diamond ([buy](https://www.amazon.com/gp/product/0066620724))
 * Forge Your Future with Open Source: Build Your Skills. Build Your Network. Build the Future of Technology by VM (Vicky) Brasseur ([buy](https://www.amazon.com/Forge-Your-Future-Open-Source/dp/1680503014))
-* Dealing With Software Collapse by [Konrad Hinsen](https://khinsen.net/) (avilable [free](https://hal.science/hal-02117588/file/preprint.pdf) or [buy](https://www.computer.org/csdl/magazine/cs/2019/03/08701540/19EVOyUa3gA))
+* Dealing With Software Collapse by [Konrad Hinsen](https://khinsen.net/) (available [free](https://hal.science/hal-02117588/file/preprint.pdf) or [buy](https://www.computer.org/csdl/magazine/cs/2019/03/08701540/19EVOyUa3gA))
 * Uncurled: Everything I know and learned about running and maintaining Open Source projects for three decades by Daniel Stenberg (available [free](https://un.curl.dev))
 * [Brian Fitzgerald](https://www.brian-fitzgerald.com/open-source-software/)
 
