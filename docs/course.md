@@ -92,29 +92,36 @@ After that we'll start to contribute to other open source projects as well.
 
 ### Session 1
 
-* [Course overview](/course-overview) (Presentation)
-* [Why contribute to Open Source?](/why-contribute-to-open-source) (Presentation + Discussion)
-* [What can be a contribution?](/what-can-be-a-contribution) (Presentation + Discussion)
-* Why use version control? (Presentation + Discussion)
-* The process of contribution (forking, pull-request) (Presentation + Discussion)
-* Sending a Pull-request to the repo of the course using only the GUI of GitHub. Adding a JSON file with some personal data of the participant.
-* Short explanation about the GitHub Actions and the verification process in our system.
-* Finding the branch and updating the pull-request after the checks fail.
-* Blog post on DEV.to, introduction to Markdown.
+* [Course overview](/course-overview)
+* [Why contribute to Open Source?](/why-contribute-to-open-source)
+* [What can be a contribution?](/what-can-be-a-contribution) Not just for programmers!
+* Why use version control?
+* The process of contribution (forking, branching, editing, sending pull-request)
+* Sending a Pull-request to the repo of the course using only the GUI of GitHub. Adding a text file with some personal data of the participant. (+ Practice)
+* Short explanation about GitHub Actions and the verification process in our system.
+* What is JSON?
+* Sending a Pull-request to the repo of the course using only the GUI of GitHub. Adding a JSON file with some personal data of the participant. (+ Practice)
+* Finding the branch and updating the pull-request after the checks fail. (+ Practice)
+* Blog post on DEV.to, introduction to Markdown. (+ Practice)
 
 
 ### Session 2
 
-* Structure of Git URLs, projects/ organizations/ repos.
+* Structure of GitHub and GitLab URLs, projects/ organizations/ repos.
 * Finding repositories of projects via 3rd party library registries.
+    * [Python](https://pypi.org/)
+    * [Rust](https://crates.io/)
+    * [NodeJS](https://www.npmjs.com/)
+    * [Perl](https://metacpan.org/)
+    * [3rd-party registries](https://code-maven.com/package-registry)
 * Listing the projects the participants are interested in.
 * Learning about the YAML format.
-* Collecting data about organization with open source projects and sending pull-requests to the [Open Source by Organizations](https://github.com/OSDC-Code-Maven/open-source-by-organizations/) project.
+* Collecting data about organization with open source projects and sending pull-requests to the [Open Source by Organizations](https://github.com/OSDC-Code-Maven/open-source-by-organizations/) project. (Practice)
 
 ### Session 3
 
 * Creating static web site on GitHub pages.
-* Create repository for GitHub pages.
+* Create repository for GitHub pages. (Practice)
 * Git on the command line: clone, status, diff, add, commit, push.
 * Markdown.
 
@@ -135,17 +142,27 @@ After that we'll start to contribute to other open source projects as well.
 
 ### Session 5
 
-* PyDigger, updating meta data of a Python project
-* Python dependency management; listing dependencies, fixing version numbers, upgrading, dependabot
+* [PyDigger](https://pydigger.com/), updating meta data of a Python project
+* Python dependency management; listing dependencies, fixing version numbers, upgrading, [dependabot](https://docs.github.com/en/code-security/getting-started/dependabot-quickstart-guide)
+
+* Alternatives:
+    * [Rust Digger](https://rust-digger.code-maven.com/)
+    * [Ruby Digger](https://ruby-digger.code-maven.com/)
+    * [CPAN Digger for Perl](https://cpan-digger.perlmaven.com/)
 
 ### Session 6
 
 * Docker - getting started
+    * [Docker](https://docker.com/)
+    * [Docker HUB](https://hub.docker.com/)
 * Docker - creating an image
 
 ### Session 7
 
-* Docker compose
+* Setting up complex environments using Docker compose
+    * [Docker compose](https://docs.docker.com/compose/)
+    * Database(s)
+    * Scheduled processes (cron jobs)
 
 ### Session 8
 
