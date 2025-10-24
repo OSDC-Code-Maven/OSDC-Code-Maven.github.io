@@ -1,4 +1,4 @@
-# Why
+# How
 
 We believe that making it easy to contribute to open source projects will allow more people to add more valuable contributions.
 
