@@ -1,4 +1,42 @@
-# Some python projects
+# Python
+
+
+## How to select a Python project to contribute to?
+* For now I'll pick some of the scientific libraries. e.g. [Biology-related](https://python.code-maven.com/python-science/biology) libraries.
+* I can also ask ChatGPT to suggest other science-related libraries.
+* TBD
+
+## What and how to contribute to a python project?
+
+* Testing
+    * [Python testing demo](https://python.code-maven.com/python-testing-demo/)
+    * [Python testing](https://python.code-maven.com/python-testing/)
+    * Generate test coverage report
+* Add type annotation
+    * [Python types](https://python.code-maven.com/python-types/)
+    * [Python types at PyWeb 2025.05](https://python.code-maven.com/python-types-at-pyweb-2025-05/)
+* Linting
+* code formatting
+    * [black](https://pypi.org/project/black/)
+* Fuzz testing
+* Mutation testing
+* code complexity analyzis
+* refactoring
+* Setting up CI (GitHub Actions or GitLab pipelines)
+* Updating the GitHub actions if necessary
+* Add dependabot for GitHub Actions.
+* Add dependabot for the code-base.
+* Code reading
+
+
+
+
+
+
+
+
+
+## Some python projects
 
 (Not fully categorized yet)
 
