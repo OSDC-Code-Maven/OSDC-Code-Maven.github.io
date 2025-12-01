@@ -16,4 +16,10 @@
   url: /projects
 - title: Python
   url: /python
+- title: Perl
+  url: /perl
+- title: Ruby
+  url: /ruby
+- title: Rust
+  url: /rust
 

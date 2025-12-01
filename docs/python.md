@@ -6,7 +6,7 @@
 * I can also ask ChatGPT to suggest other science-related libraries.
 * TBD
 
-## What and how to contribute to a python project?
+## What and how to contribute to a Python project?
 
 * Testing
     * [Python testing demo](https://python.code-maven.com/python-testing-demo/)
@@ -24,7 +24,7 @@
 * refactoring
 * Setting up CI (GitHub Actions or GitLab pipelines)
 * Updating the GitHub actions if necessary
-* Add dependabot for GitHub Actions.
+* Add [dependabot](https://docs.github.com/en/code-security/dependabot/) for GitHub Actions.
 * Add dependabot for the code-base.
 * Code reading
 
