@@ -35,3 +35,8 @@
 
 * [JSON::Schema::Validate](https://metacpan.org/pod/JSON::Schema::Validate)
     * [Showcase: Localised JSON Schema validation in Perl](https://www.reddit.com/r/perl/comments/1p80dne/showcase_localised_json_schema_validation_in_perl/)
+    * PR: [add .gitignore file](https://gitlab.com/jackdeguest/json-schema-validate/-/merge_requests/1)
+    * PR: [Setup CI - GitLab pipeline](https://gitlab.com/jackdeguest/json-schema-validate/-/merge_requests/2)
+    * [Open issue](https://gitlab.com/jackdeguest/json-schema-validate/-/issues/4)
+    * Also check out the GitLab pipeline of the [Wanted module](https://gitlab.com/jackdeguest/Wanted/)
+
