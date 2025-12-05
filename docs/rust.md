@@ -8,7 +8,6 @@
 ## What and how to contribute to a Rust project?
 
 * [Test coverage using tarpaulin](https://rust.code-maven.com/testing/test-coverage-with-tarpaulin.html)
-
-* Mutation testing
+* Mutation testing with [cargo-mutants](https://mutants.rs/)
     * See article on [Mutation testing librsvg](https://viruta.org/mutation-testing-librsvg.html)
 
