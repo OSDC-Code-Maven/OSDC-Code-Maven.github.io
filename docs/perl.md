@@ -89,7 +89,7 @@ See also [this issue](https://github.com/OSDC-Code-Maven/OSDC-Code-Maven.github.
     * Issue: [CI: Does Travis-CI still work for you?](https://github.com/jeffreykegler/Marpa--R2/issues/289)
     * Issue: [IO::Select and other modules in the IO package report version 1.49 whle IO itself is 1.50](https://github.com/Perl/perl5/issues/20609)
     * Issue: [cpan/engine/read_only/tests/* files missing](https://github.com/jeffreykegler/Marpa--R2/issues/291)
-    * PR: [Add GitHub Actions](https://github.com/jeffreykegler/Marpa--R2/pull/292) - Rejected ❌
+    * PR: [Add GitHub Actions](https://github.com/jeffreykegler/Marpa--R2/pull/292) - Rejected ❌ (it will be setup later)
 
 * [Plack-Middleware-LogAny](https://metacpan.org/dist/Plack-Middleware-LogAny)
     * 2022.12.19
