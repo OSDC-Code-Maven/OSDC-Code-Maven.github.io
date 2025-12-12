@@ -11,3 +11,11 @@
 * Mutation testing with [cargo-mutants](https://mutants.rs/)
     * See article on [Mutation testing librsvg](https://viruta.org/mutation-testing-librsvg.html)
 
+## Projects
+
+
+* Issue with lots of PRs:
+    * [[Send PRs] to remove www from the github url of the repository in Cargo.toml](https://github.com/szabgab/rust-digger/issues/96)
+    * [[Send PRs] to replace http by https in the github url of the repository in Cargo.toml](https://github.com/szabgab/rust-digger/issues/97)
+    * [[Send PRs] or open issues for Crates with error in Crate.toml](https://github.com/szabgab/rust-digger/issues/100)
+    * [[Send PRs] to Crates to use the repository field instead of the homepage field (July-August 2025)](https://github.com/szabgab/rust-digger/issues/104)
