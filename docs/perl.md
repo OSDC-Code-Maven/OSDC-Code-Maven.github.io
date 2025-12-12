@@ -42,6 +42,12 @@ See also [this issue](https://github.com/OSDC-Code-Maven/OSDC-Code-Maven.github.
     * [Open issue](https://gitlab.com/jackdeguest/json-schema-validate/-/issues/4)
     * Also check out the GitLab pipeline of the [Wanted module](https://gitlab.com/jackdeguest/Wanted/)
 
+* [SVG](https://metacpan.org/dist/SVG)
+    * 2025.11.11
+    * As I am a maintainer of this project I could commit and push directly:
+    * [add a test case to check loading attributes and trying to load bad attribute](https://github.com/manwar/SVG/commit/7d459c311342172d6b06d189454dfc5760cfaa7d) ✅
+    * [add a test case for creating new instance from an existing one](https://github.com/manwar/SVG/commits/master/) ✅
+
 * [Net-Async-Redis-XS](https://metacpan.org/dist/Net-Async-Redis-XS)
     * 2022.12.02
     * Article: [Add GitHub Action CI to the Net-Async-Redis-XS Perl module](https://dev.to/szabgab/day-2-add-github-action-ci-to-the-net-async-redis-xs-perl-module-9oo)
