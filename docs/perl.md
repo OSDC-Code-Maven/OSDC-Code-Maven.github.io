@@ -3,7 +3,8 @@
 
 ## How to select a Perl project to contribute to?
 
-* A perl-based project that you use.
+* A [perl-based project](https://perlmaven.com/perl-based-open-source-products) that you use.
+* [MetaCPAN itself](https://metacpan.org/)
 * A module that you use.
 * A dependency of a project or a module that you use.
 * Search on GitHub: [A semi-popular, recently updated Perl project](https://github.com/search?q=stars%3A100..1000+pushed%3A%3E2025-10-01+language%3APerl+&type=repositories&ref=advsearch) `stars:100..1000 pushed:>2025-10-01 language:Perl`
