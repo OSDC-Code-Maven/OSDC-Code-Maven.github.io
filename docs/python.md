@@ -1,34 +1,55 @@
 # Python
 
-
 ## How to select a Python project to contribute to?
 
-* For now I'll pick some of the scientific libraries. e.g. [Biology-related](https://python.code-maven.com/python-science/biology) libraries.
+* Pick a Python-based project you use.
+* Pick a Python module that your code directly depends on. They are listed in `requirements.txt` or `pyproject.toml`.
+* Pick a Python module that your code indirectly depends on. They are listed in `constraints.txt`, `uv.lock`.
 * Search on GitHub: [A semi-popular, recently updated Python project](https://github.com/search?q=stars%3A100..1000+pushed%3A%3E2025-10-01+language%3APython+&type=repositories&ref=advsearch) `stars:100..1000 pushed:>2025-10-01 language:Python`
-* I can also ask ChatGPT to suggest other science-related libraries.
+* For now I'll pick some of the scientific libraries. e.g. [Biology-related](https://python.code-maven.com/python-science/biology) libraries.
+* Ask ChatGPT to suggest other science-related libraries.
 * PyDigger - once it is fixed.
 * TBD
 
 ## What and how to contribute to a Python project?
 
-* Testing
+* Link to VCS: Does the project listing in [Pypi](https://pypi.org/) link to its public VCS? If not, try to find the VCS and the first PR could be adding this link. If you can't find the VCS then the rest will be rather irrelevant. Maybe send an email to the author asking if there is a public VCS?
+* Testing: Try to run the tests locally or better yet in a [Docker conatiner](https://github.com/szabgab/python-docker-on-ubuntu).
     * [Python testing demo](https://python.code-maven.com/python-testing-demo/)
     * [Python testing](https://python.code-maven.com/python-testing/)
     * Generate test coverage report
+* CI
+    * If there are tests, check if there is a CI?
+    * Setting up CI: GitHub Actions or GitLab pipelines.
+    * Updating the GitHub actions if necessary.
+* Dependencies
+    * Add [dependabot](https://docs.github.com/en/code-security/dependabot/) for GitHub Actions.
+* Code formatting
+    * Using [black](https://pypi.org/project/black/) check if the code is well formatted. If not open an issue suggestion to do it. `black --check .`
+    * See also [autopep8](https://pypi.org/project/autopep8/).
+* Linting
+    * Run one or more linters on the code. Add, linter configuration to the project. Setup CI to run the linter(s).
+    * [Pylint](https://www.pylint.org/)
+    * [Flake8](https://flake8.pycqa.org/)
+    * [ruff](https://astral.sh/ruff)
+    * [PyChecker](https://pychecker.sourceforge.net/)
+    * [Pylama](https://klen.github.io/pylama/)
+    * [Sonar](https://www.sonarsource.com/knowledge/languages/python/)?
+    * [Codacy](https://www.codacy.com/quality)?
 * Add type annotation
+    * Start by running one of the type-checking tools on the code-base. Add configurations to the repository. Setup CI to run the type-checker.
+    * [mypy](https://mypy.readthedocs.io/)
+    * [pytype](https://google.github.io/pytype/)
     * [Python types](https://python.code-maven.com/python-types/)
     * [Python types at PyWeb 2025.05](https://python.code-maven.com/python-types-at-pyweb-2025-05/)
-* Linting
-* code formatting
-    * [black](https://pypi.org/project/black/)
 * Fuzz testing
+    * [atheris](https://github.com/google/atheris)
 * Mutation testing
-* code complexity analyzis
-* refactoring
-* Setting up CI (GitHub Actions or GitLab pipelines)
-* Updating the GitHub actions if necessary
-* Add [dependabot](https://docs.github.com/en/code-security/dependabot/) for GitHub Actions.
-* Add dependabot for the code-base.
+    * [mutatest](https://mutatest.readthedocs.io/)
+    * [mutmut](https://github.com/boxed/mutmut)
+    * [MutPy](https://pypi.org/project/MutPy/)
+* Code complexity analyzis
+* Refactoring
 * Code reading
 
 
