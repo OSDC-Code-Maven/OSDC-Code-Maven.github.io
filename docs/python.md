@@ -1,5 +1,9 @@
 # Python
 
+## Events
+
+This material is being used during the events organized in the [Code-Mavens](https://www.meetup.com/code-mavens/) Meetup group.
+
 ## How to select a Python project to contribute to?
 
 * Pick a Python-based project you use.

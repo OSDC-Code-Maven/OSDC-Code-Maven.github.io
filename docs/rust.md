@@ -1,5 +1,8 @@
 # Rust
 
+## Events
+
+This material is being used during the events organized in the [Code-Mavens](https://www.meetup.com/code-mavens/) Meetup group.
 
 ## How to select a Rust project to contribute to?
 
@@ -44,3 +47,5 @@
     * [Send PRs to replace http by https in the github url of the repository in Cargo.toml](https://github.com/szabgab/rust-digger/issues/97)
     * [Send PRs or open issues for Crates with error in Crate.toml](https://github.com/szabgab/rust-digger/issues/100)
     * [Send PRs to Crates to use the repository field instead of the homepage field (July-August 2025)](https://github.com/szabgab/rust-digger/issues/104)
+
+

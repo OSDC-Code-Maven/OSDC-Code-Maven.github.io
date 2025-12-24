@@ -1,5 +1,8 @@
 # Perl
 
+## Events
+
+This material is being used during the events organized in the [Perl-Maven](https://luma.com/perl-maven) group.
 
 ## How to select a Perl project to contribute to?
 
