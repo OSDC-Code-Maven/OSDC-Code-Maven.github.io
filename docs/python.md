@@ -9,7 +9,6 @@
 * For now I'll pick some of the scientific libraries. e.g. [Biology-related](https://python.code-maven.com/python-science/biology) libraries.
 * Ask ChatGPT to suggest other science-related libraries.
 * PyDigger - once it is fixed.
-* TBD
 
 ## What and how to contribute to a Python project?
 
@@ -23,7 +22,7 @@
     * Setting up CI: GitHub Actions or GitLab pipelines.
     * Updating the GitHub actions if necessary.
 * Dependencies
-    * Add [dependabot](https://docs.github.com/en/code-security/dependabot/) for GitHub Actions.
+    * Add [dependabot](https://docs.github.com/en/code-security/dependabot/) for GitHub Actions and for the dependencies.
 * Code formatting
     * Using [black](https://pypi.org/project/black/) check if the code is well formatted. If not open an issue suggestion to do it. `black --check .`
     * See also [autopep8](https://pypi.org/project/autopep8/).
@@ -49,6 +48,8 @@
     * [mutmut](https://github.com/boxed/mutmut)
     * [MutPy](https://pypi.org/project/MutPy/)
 * Code complexity analyzis
+    * [code-complexity-analyzer](https://pypi.org/project/code-complexity-analyzer/)
+    * [complexipy](https://github.com/rohaquinlop/complexipy)
 * Refactoring
 * Code reading
 
