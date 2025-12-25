@@ -9,34 +9,48 @@ This material is being used during the events organized in the [Perl-Maven](http
 * A [perl-based project](https://perlmaven.com/perl-based-open-source-products) that you use.
 * [MetaCPAN itself](https://metacpan.org/)
 * A module that you use.
-* A dependency of a project or a module that you use.
+* A direct dependency of a project or a module that you use. Listed in one of the files: `Makefile.PL`, `Build.PL`, `cpanfile`, etc.
+* An indirect dependency. [Dependency tree of a Perl module on CPAN](https://perlmaven.com/how-to-fetch-the-cpan-dependency-tree-of-a-perl-module).
 * Search on GitHub: [A semi-popular, recently updated Perl project](https://github.com/search?q=stars%3A100..1000+pushed%3A%3E2025-10-01+language%3APerl+&type=repositories&ref=advsearch) `stars:100..1000 pushed:>2025-10-01 language:Perl`
 * [CPAN Digger](https://cpan-digger.perlmaven.com/)
 
 
 ## What and how to contribute to a Perl project?
 
+* Link to VCS: Make sure [MetaCPAN links to the VCS](https://perlmaven.com/how-to-add-link-to-version-control-system-of-a-cpan-distributions) of the module. If not, try to locate the source of the module and send a PR updating the meta-data of the project. If you can't find it, then you might want to send an email to the author asking if the project has a public repository.
 * Testing
+    * Try to run the tests locally or better yet in a [Docker container](https://github.com/szabgab/perl-docker-on-ubuntu).
     * [Testing articles](https://perlmaven.com/testing)
     * [Testing book](https://perlmaven.com/perl-testing/)
     * Test::More
     * Generate test coverage report  [Devel::Cover](https://metacpan.org/pod/Devel::Cover)
-* Linting
-* code formatting
-    * [Perl::Tidy](https://metacpan.org/pod/Perl::Tidy)
-* Fuzz testing
-* Mutation testing
-* Code complexity analyzis
-* Refactoring
-* Setting up CI
+* CI
+    * If there are tests, check if there is a CI?
+    * [Perl and CI](https://perlmaven.com/ci)
+    * Setting up CI:
     * GitHub Actions
     * GitLab pipelines
         * [examples](https://perlmaven.com/gitlab-ci)
         * [video](https://perlmaven.com/gitlab-pipelines-and-ci-for-perl-developers)
-* Updating the GitHub actions if necessary
-* Add [dependabot](https://docs.github.com/en/code-security/dependabot/) for GitHub Actions.
-* Add dependabot for the code-base.
+* Dependencies
+    * Add [dependabot](https://docs.github.com/en/code-security/dependabot/) for GitHub Actions.
+    * I think Dependabot does not support Perl.
+* Code formatting
+    * [Perl::Tidy](https://metacpan.org/pod/Perl::Tidy)
+* Linting
+    * [Perl::Critic](https://metacpan.org/pod/Perl::Critic)
+    * [Getting Started with Perl::Critic](https://perlmaven.com/getting-started-with-perl-critic)
+* Fuzz testing
+    * The [App-Test-Generator](https://metacpan.org/dist/App-Test-Generator) distirbution comes with a tool called [fuzz-harness-generator](https://metacpan.org/dist/App-Test-Generator/view/bin/fuzz-harness-generator)
+* Mutation testing
+    * [Devel::Mutator](https://metacpan.org/pod/Devel::Mutator)
+* Code complexity analyzis
+    * [Perl::Critic::CognitiveComplexity](https://metacpan.org/pod/Perl::Critic::CognitiveComplexity)
+    * [Analizo::Metric::StructuralComplexity](https://metacpan.org/pod/Analizo::Metric::StructuralComplexity)
+    * [Perl::Lint](https://metacpan.org/pod/Perl::Lint) has [Perl::Lint::Policy::Subroutines::ProhibitExcessComplexity](https://metacpan.org/pod/Perl::Lint::Policy::Subroutines::ProhibitExcessComplexity)
+    * [Perl-Metrics-Lite](https://metacpan.org/dist/Perl-Metrics-Lite)
 * Code reading
+* Refactoring
 
 See also [this issue](https://github.com/OSDC-Code-Maven/OSDC-Code-Maven.github.io/issues/5) about the goals.
 
