@@ -56,6 +56,13 @@ See also [this issue](https://github.com/OSDC-Code-Maven/OSDC-Code-Maven.github.
 
 ## Projects
 
+* [Common-CodingTools](https://metacpan.org/dist/Common-CodingTools)
+    * 2025.12.26
+    * PR: [Add links to VCS](https://github.com/richcsst/Common-CodingTools/pull/1) - Waiting 🕰️
+    * PR: [Add .gitignore](https://github.com/richcsst/Common-CodingTools/pull/2) - Waiting 🕰️
+    * PR: [Add GitHub Actions](https://github.com/richcsst/Common-CodingTools/pull/3) - Waiting 🕰️
+    * PR: [Add test](https://github.com/richcsst/Common-CodingTools/pull/4) - Waiting 🕰️
+
 * [JSON::Schema::Validate](https://metacpan.org/pod/JSON::Schema::Validate)
     * 2025.12.01
     * [Showcase: Localised JSON Schema validation in Perl](https://www.reddit.com/r/perl/comments/1p80dne/showcase_localised_json_schema_validation_in_perl/)
