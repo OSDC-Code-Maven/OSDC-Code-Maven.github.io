@@ -4,6 +4,10 @@
 
 This material is being used during the events organized in the [Code-Mavens](https://www.meetup.com/code-mavens/) Meetup group.
 
+## Chat
+
+* [OSDC Zulip](https://osdc.zulipchat.com/)
+
 ## How to select a Python project to contribute to?
 
 * Pick a Python-based project you use.
@@ -12,7 +16,7 @@ This material is being used during the events organized in the [Code-Mavens](htt
 * Search on GitHub: [A semi-popular, recently updated Python project](https://github.com/search?q=stars%3A100..1000+pushed%3A%3E2025-10-01+language%3APython+&type=repositories&ref=advsearch) `stars:100..1000 pushed:>2025-10-01 language:Python`
 * For now I'll pick some of the scientific libraries. e.g. [Biology-related](https://python.code-maven.com/python-science/biology) libraries.
 * Ask ChatGPT to suggest other science-related libraries.
-* PyDigger - once it is fixed.
+* [PyDigger](https://pydigger.code-maven.com/) - once it is fixed.
 
 ## What and how to contribute to a Python project?
 

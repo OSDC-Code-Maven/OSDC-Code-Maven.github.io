@@ -4,6 +4,11 @@
 
 This material is being used during the events organized in the [Code-Mavens](https://www.meetup.com/code-mavens/) Meetup group.
 
+## Chat
+
+* [OSDC Zulip](https://osdc.zulipchat.com/)
+
+
 ## How to select a Rust project to contribute to?
 
 * Pick a Rust-based project you use.

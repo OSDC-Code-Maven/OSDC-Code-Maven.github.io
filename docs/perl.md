@@ -4,6 +4,11 @@
 
 This material is being used during the events organized in the [Perl-Maven](https://luma.com/perl-maven) group.
 
+## Chat
+
+* [OSDC Zulip](https://osdc.zulipchat.com/)
+
+
 ## How to select a Perl project to contribute to?
 
 * A [perl-based project](https://perlmaven.com/perl-based-open-source-products) that you use.
