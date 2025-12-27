@@ -27,6 +27,7 @@ This material is being used during the events organized in the [Perl-Maven](http
 * CI
     * If there are tests, check if there is a CI?
     * [Perl and CI](https://perlmaven.com/ci)
+        * [GitHub Actions](https://perlmaven.com/setup-github-actions)
     * Setting up CI:
     * GitHub Actions
     * GitLab pipelines
