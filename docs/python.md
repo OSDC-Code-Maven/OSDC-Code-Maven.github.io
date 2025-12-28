@@ -64,6 +64,19 @@ This material is being used during the events organized in the [Code-Mavens](htt
 
 ## Projects
 
+* [vcsp-guard](https://pypi.org/project/vcsp-guard/)
+    * 2025.12.27
+    * PR: [add link to github](https://github.com/Giordano10/VCSP/pull/1) - Waiting 🕰️
+    * PR: [add dependabot](https://github.com/Giordano10/VCSP/pull/2) - Waiting 🕰️
+    * Learn: [semgrep](https://semgrep.dev/)
+    * Learn: [cliff](https://github.com/orhun/git-cliff-action)
+    * Learn: [build](https://pypi.org/project/build/)
+    * Learn: [bandit](https://pypi.org/project/bandit/)
+    * Learn: [pip-audit](https://pypi.org/project/pip-audit/)
+    * Learn: [stefanzweifel/git-auto-commit-action](https://github.com/stefanzweifel/git-auto-commit-action)
+    * Learn: [softprops/action-gh-release](https://github.com/softprops/action-gh-release)
+    * Learn: [pypa/gh-action-pypi-publish](https://github.com/pypa/gh-action-pypi-publish)
+
 * [MoreBeautifulPython](https://github.com/sudongqi/MoreBeautifulPython)
     * 2022.12.01
     * Article: [Test and CI for MoreBeautifulPython](https://dev.to/szabgab/day-1-test-and-ci-for-morebeautifulpython-bn8)
