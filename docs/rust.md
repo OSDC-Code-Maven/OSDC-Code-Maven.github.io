@@ -4,6 +4,10 @@
 
 This material is being used during the events organized in the [Code-Mavens](https://www.meetup.com/code-mavens/) Meetup group.
 
+
+https://github.com/szabgab/rust-docker-on-ubuntu
+
+
 ## Chat
 
 * [OSDC Zulip](https://osdc.zulipchat.com/)
@@ -46,6 +50,9 @@ This material is being used during the events organized in the [Code-Mavens](htt
 
 
 ## Projects
+
+* [mkenv](https://crates.io/crates/mkenv/)
+    * Issue: [Test panics when USER env var is not set in a Docker container](https://github.com/ahmadbky/mkenv/issues/5) - Waiting 🕰️
 
 * Issue with lots of PRs:
     * [Send PRs to remove www from the github url of the repository in Cargo.toml](https://github.com/szabgab/rust-digger/issues/96)
