@@ -4,8 +4,9 @@
 
 This material is being used during the events organized in the [Code-Mavens](https://www.meetup.com/code-mavens/) Meetup group.
 
+## Docker
 
-https://github.com/szabgab/rust-docker-on-ubuntu
+* [Source of Docker image we use](https://github.com/szabgab/rust-docker-on-ubuntu)
 
 
 ## Chat
@@ -53,6 +54,8 @@ https://github.com/szabgab/rust-docker-on-ubuntu
 
 * [mkenv](https://crates.io/crates/mkenv/)
     * Issue: [Test panics when USER env var is not set in a Docker container](https://github.com/ahmadbky/mkenv/issues/5) - Waiting 🕰️
+    * PR: [make sure the tarpaulin test coverage report is not added to git](https://github.com/ahmadbky/mkenv/pull/6) - Waiting 🕰️
+    * PR: [add a test case that calls the default_fmt_val method](https://github.com/ahmadbky/mkenv/pull/7) - Waiting 🕰️
 
 * Issue with lots of PRs:
     * [Send PRs to remove www from the github url of the repository in Cargo.toml](https://github.com/szabgab/rust-digger/issues/96)
