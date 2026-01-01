@@ -60,6 +60,9 @@ This material is being used during the events organized in the [Perl-Maven](http
 
 See also [this issue](https://github.com/OSDC-Code-Maven/OSDC-Code-Maven.github.io/issues/5) about the goals.
 
+* [Adopt a CPAN module](https://neilb.org/2013/07/24/adopt-a-module.html)
+* Take over a CPAN module.
+
 ## Projects
 
 * Eugen Konkov asked for help with PRs to [DBIx::Class](https://metacpan.org/pod/DBIx::Class).
