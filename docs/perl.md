@@ -62,6 +62,8 @@ See also [this issue](https://github.com/OSDC-Code-Maven/OSDC-Code-Maven.github.
 
 ## Projects
 
+* Eugen Konkov asked for help with PRs to [DBIx::Class](https://metacpan.org/pod/DBIx::Class).
+
 * [Common-CodingTools](https://metacpan.org/dist/Common-CodingTools)
     * 2025.12.26
     * PR: [Add links to VCS](https://github.com/richcsst/Common-CodingTools/pull/1) - Waiting 🕰️
