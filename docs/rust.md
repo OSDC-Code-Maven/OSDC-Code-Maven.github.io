@@ -54,9 +54,13 @@ This material is being used during the events organized in the [Code-Mavens](htt
 
 * [mkenv](https://crates.io/crates/mkenv/)
     * Issue: [Test panics when USER env var is not set in a Docker container](https://github.com/ahmadbky/mkenv/issues/5) - Waiting 🕰️
-    * PR: [make sure the tarpaulin test coverage report is not added to git](https://github.com/ahmadbky/mkenv/pull/6) - Waiting 🕰️
+    * PR: [make sure the tarpaulin test coverage report is not added to git](https://github.com/ahmadbky/mkenv/pull/6) - Merged ✅
     * PR: [add a test case that calls the default_fmt_val method](https://github.com/ahmadbky/mkenv/pull/7) - Waiting 🕰️
+    * ---
+    * PR: [run cargo fmt --check in the CI](https://github.com/ahmadbky/mkenv/pull/8) - Waiting 🕰️
+    * PR: [add dependabot to send PRs when new version of the actions or the crates are available](https://github.com/ahmadbky/mkenv/pull/9) - Merged ✅
 
+ - Waiting 🕰️
 * Issue with lots of PRs:
     * [Send PRs to remove www from the github url of the repository in Cargo.toml](https://github.com/szabgab/rust-digger/issues/96)
     * [Send PRs to replace http by https in the github url of the repository in Cargo.toml](https://github.com/szabgab/rust-digger/issues/97)
