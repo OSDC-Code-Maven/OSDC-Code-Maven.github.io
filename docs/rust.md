@@ -57,8 +57,9 @@ This material is being used during the events organized in the [Code-Mavens](htt
     * PR: [make sure the tarpaulin test coverage report is not added to git](https://github.com/ahmadbky/mkenv/pull/6) - Merged ✅
     * PR: [add a test case that calls the default_fmt_val method](https://github.com/ahmadbky/mkenv/pull/7) - Waiting 🕰️
     * ---
-    * PR: [run cargo fmt --check in the CI](https://github.com/ahmadbky/mkenv/pull/8) - Waiting 🕰️
+    * PR: [run cargo fmt --check in the CI](https://github.com/ahmadbky/mkenv/pull/8) - Merged ✅
     * PR: [add dependabot to send PRs when new version of the actions or the crates are available](https://github.com/ahmadbky/mkenv/pull/9) - Merged ✅
+    * PR: [run cargo clippy in the CI](https://github.com/ahmadbky/mkenv/pull/11) - Waiting 🕰️
 
 * Issue with lots of PRs:
     * [Send PRs to remove www from the github url of the repository in Cargo.toml](https://github.com/szabgab/rust-digger/issues/96)
