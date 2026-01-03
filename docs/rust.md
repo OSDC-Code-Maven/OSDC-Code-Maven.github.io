@@ -60,7 +60,6 @@ This material is being used during the events organized in the [Code-Mavens](htt
     * PR: [run cargo fmt --check in the CI](https://github.com/ahmadbky/mkenv/pull/8) - Waiting 🕰️
     * PR: [add dependabot to send PRs when new version of the actions or the crates are available](https://github.com/ahmadbky/mkenv/pull/9) - Merged ✅
 
- - Waiting 🕰️
 * Issue with lots of PRs:
     * [Send PRs to remove www from the github url of the repository in Cargo.toml](https://github.com/szabgab/rust-digger/issues/96)
     * [Send PRs to replace http by https in the github url of the repository in Cargo.toml](https://github.com/szabgab/rust-digger/issues/97)
