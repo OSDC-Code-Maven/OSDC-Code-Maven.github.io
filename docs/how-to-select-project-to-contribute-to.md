@@ -28,8 +28,11 @@ Then sort by number of stars, number of forks, and the recentness of its update.
 * Last commit made?
 
 * Issues tagged with [Good first issue](https://github.com/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22)
+* Also the topics: [Good first issue](https://github.com/topics/good-first-issue)
 
 * Projects managed by people in your country (people speaking your language) can make the communication easier. e.g.
     * [Germany](https://github.com/topics/germany) and [German](https://github.com/topics/german)
     * [Israel](https://github.com/topics/israel) and [Hebrew](https://github.com/topics/hebrew)
     * [Spain](https://github.com/topics/spain) and [spanish](https://github.com/topics/spanish)
+
+* [Hacktoberfest finder](https://finder.usmans.me/)
