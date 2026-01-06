@@ -67,6 +67,10 @@ See also [this issue](https://github.com/OSDC-Code-Maven/OSDC-Code-Maven.github.
 
 * Eugen Konkov asked for help with PRs to [DBIx::Class](https://metacpan.org/pod/DBIx::Class).
 
+* [Exception-Reporter-Summarizer-PlackRequest](https://metacpan.org/dist/Exception-Reporter-Summarizer-PlackRequest)
+    * 2026.01.06
+    * Issue: [Why is the repo not included in META.json?](https://github.com/wolfsage/Exception-Reporter-Summarizer-PlackRequest/issues/2) - Waiting 🕰️
+
 * [Geo-IP2Proxy](https://metacpan.org/dist/Geo-IP2Proxy)
     * 2026.01.05
     * PR: [add meta-data to allow MetaCPAN to link to the repository](https://github.com/ip2location/ip2proxy-perl/pull/1) - Waiting 🕰️
