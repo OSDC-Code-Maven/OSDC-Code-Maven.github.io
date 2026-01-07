@@ -67,6 +67,10 @@ See also [this issue](https://github.com/OSDC-Code-Maven/OSDC-Code-Maven.github.
 
 * Eugen Konkov asked for help with PRs to [DBIx::Class](https://metacpan.org/pod/DBIx::Class).
 
+* [Net-Clacks](https://metacpan.org/dist/Net-Clacks)
+    * 2026.01.07
+    * I sent an email to [Rene Schickbauer](https://github.com/cavac) - Waiting 🕰️
+
 * [MetaCPAN::Client](https://metacpan.org/pod/MetaCPAN::Client)
     * 2026.01.06
     * Issue: [Reference {"relation" => "eq","value" => 14646} did not pass type constraint "Int"](https://github.com/metacpan/MetaCPAN-Client/issues/130) - Fixed ✅
