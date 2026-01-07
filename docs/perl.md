@@ -67,6 +67,10 @@ See also [this issue](https://github.com/OSDC-Code-Maven/OSDC-Code-Maven.github.
 
 * Eugen Konkov asked for help with PRs to [DBIx::Class](https://metacpan.org/pod/DBIx::Class).
 
+* [Doubly-Linked-PP](https://metacpan.org/dist/Doubly-Linked-PP)
+    * 2026.01.07
+    * PR: [add meta-data to allow MetaCPAN to link to public repository](https://github.com/ThisUsedToBeAnEmail/Doubly-Linked/pull/1) - Waiting 🕰️
+
 * [Net-Clacks](https://metacpan.org/dist/Net-Clacks)
     * 2026.01.07
     * I sent an email to [Rene Schickbauer](https://github.com/cavac) - Waiting 🕰️
