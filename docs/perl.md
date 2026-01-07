@@ -167,4 +167,8 @@ See also [this issue](https://github.com/OSDC-Code-Maven/OSDC-Code-Maven.github.
     * PR: [Add GitHub Actions](https://github.com/mvduin/perl-Data-Alias/pull/3) - Merged ✅
 
 
+## Notes
+
+* In the Dist::Zilla world [Dist::Zilla::Plugin::GithubMeta](https://metacpan.org/pod/Dist::Zilla::Plugin::GithubMeta) adds the META information based on a github remote called 'github' or 'origin'.
+
 
