@@ -67,6 +67,10 @@ See also [this issue](https://github.com/OSDC-Code-Maven/OSDC-Code-Maven.github.
 
 * Eugen Konkov asked for help with PRs to [DBIx::Class](https://metacpan.org/pod/DBIx::Class).
 
+* [MetaCPAN::Client](https://metacpan.org/pod/MetaCPAN::Client)
+    * 2026.01.06
+    * Issue: [Reference {"relation" => "eq","value" => 14646} did not pass type constraint "Int"](https://github.com/metacpan/MetaCPAN-Client/issues/130) - Fixed ✅
+
 * [Exception-Reporter-Summarizer-PlackRequest](https://metacpan.org/dist/Exception-Reporter-Summarizer-PlackRequest)
     * 2026.01.06
     * Issue: [Why is the repo not included in META.json?](https://github.com/wolfsage/Exception-Reporter-Summarizer-PlackRequest/issues/2) - Waiting 🕰️
