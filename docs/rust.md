@@ -52,6 +52,11 @@ This material is being used during the events organized in the [Code-Mavens](htt
 
 ## Projects
 
+* [PyDigger](https://pydigger.code-maven.com/)
+    * 2026.01.09
+    * During the Python session we encountered some issues with PyDigger and one of the participants sent this PR:
+    * [feat: add support for License Expression field](https://github.com/szabgab/pydigger.rs/pull/3) - Merged ✅
+
 * [mkenv](https://crates.io/crates/mkenv/)
     * Issue: [Test panics when USER env var is not set in a Docker container](https://github.com/ahmadbky/mkenv/issues/5) - Waiting 🕰️
     * PR: [make sure the tarpaulin test coverage report is not added to git](https://github.com/ahmadbky/mkenv/pull/6) - Merged ✅

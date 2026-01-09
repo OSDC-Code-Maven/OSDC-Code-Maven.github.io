@@ -67,6 +67,18 @@ See also [this issue](https://github.com/OSDC-Code-Maven/OSDC-Code-Maven.github.
 
 * Eugen Konkov asked for help with PRs to [DBIx::Class](https://metacpan.org/pod/DBIx::Class).
 
+
+* [DBIx-Class-Async](http://metacpan.org/release/DBIx-Class-Async)
+    * 2026.01.08
+    * [Make Meta:CPAN link to GitHub issues](https://github.com/manwar/DBIx-Class-Async/pull/1) - Merged ✅
+    * [gitignore some generated files](https://github.com/manwar/DBIx-Class-Async/pull/2) - Merged ✅
+    * [Add GitHub Workflow and add test dependencies](https://github.com/manwar/DBIx-Class-Async/pull/3) - Merged ✅
+
+* [JQ-Lite]()
+    * 2026.01.08
+    * During our meeting MANWAR created this PR:
+    * [Small improvements to repository to satisfy Kwalite](https://github.com/kawamurashingo/JQ-Lite/pull/503) - Waiting 🕰️
+
 * [Doubly-Linked-PP](https://metacpan.org/dist/Doubly-Linked-PP)
     * 2026.01.07
     * PR: [add meta-data to allow MetaCPAN to link to public repository](https://github.com/ThisUsedToBeAnEmail/Doubly-Linked/pull/1) - Merged ✅

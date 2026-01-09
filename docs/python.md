@@ -64,6 +64,10 @@ This material is being used during the events organized in the [Code-Mavens](htt
 
 ## Projects
 
+* [fastapi-cachex](https://pypi.org/project/fastapi-cachex/)
+    * 2026.01.09
+    * PR: [Add Dependabot configuration for version updates](https://github.com/allen0099/FastAPI-CacheX/pull/3) - Merged ✅
+
 * [vcsp-guard](https://pypi.org/project/vcsp-guard/)
     * 2025.12.27
     * PR: [add link to github](https://github.com/Giordano10/VCSP/pull/1) - Merged ✅
