@@ -16,6 +16,7 @@ This material is being used during the events organized in the [Code-Mavens](htt
 * Search on GitHub: [A semi-popular, recently updated Python project](https://github.com/search?q=stars%3A100..1000+pushed%3A%3E2025-10-01+language%3APython+&type=repositories&ref=advsearch) `stars:100..1000 pushed:>2025-10-01 language:Python`
 * For now I'll pick some of the scientific libraries. e.g. [Biology-related](https://python.code-maven.com/python-science/biology) libraries.
 * Ask ChatGPT to suggest other science-related libraries.
+* Pick a popular project and work on stale PRs. That is PRs where there is already good work, but the original author (of the PR) has vanished.
 * [PyDigger](https://pydigger.code-maven.com/) - once it is fixed.
 
 ## What and how to contribute to a Python project?

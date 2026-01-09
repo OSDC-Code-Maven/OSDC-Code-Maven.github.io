@@ -21,6 +21,7 @@ This material is being used during the events organized in the [Code-Mavens](htt
 * Pick a Rust crate that your code indirectly depends on. They are listed in the `Cargo.lock` file.
 * Search on GitHub: [A semi-popular, recently updated Rust project](https://github.com/search?q=stars%3A100..1000+pushed%3A%3E2025-10-01+language%3ARust+&type=repositories&ref=advsearch) `stars:100..1000 pushed:>2025-10-01 language:Rust`
 * A recently updated crate or a crate in a category you are interested in. See [Crates.io](https://crates.io/).
+* Pick a popular project and work on stale PRs. That is PRs where there is already good work, but the original author (of the PR) has vanished.
 * Use the [Rust Digger](https://rust-digger.code-maven.com/) once it is running again.
 
 ## What and how to contribute to a Rust project?

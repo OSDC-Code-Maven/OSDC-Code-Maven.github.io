@@ -13,10 +13,14 @@ This material is being used during the events organized in the [Perl-Maven](http
 
 * A [perl-based project](https://perlmaven.com/perl-based-open-source-products) that you use.
 * [MetaCPAN itself](https://metacpan.org/)
+* [CPAN Dashboard](https://cpandashboard.com/)
+    * See the issues
+    * Check my report and fix issues there. [SZABGAB](https://cpandashboard.com/SZABGAB/)
 * A module that you use.
 * A direct dependency of a project or a module that you use. Listed in one of the files: `Makefile.PL`, `Build.PL`, `cpanfile`, etc.
 * An indirect dependency. [Dependency tree of a Perl module on CPAN](https://perlmaven.com/how-to-fetch-the-cpan-dependency-tree-of-a-perl-module).
 * Search on GitHub: [A semi-popular, recently updated Perl project](https://github.com/search?q=stars%3A100..1000+pushed%3A%3E2025-10-01+language%3APerl+&type=repositories&ref=advsearch) `stars:100..1000 pushed:>2025-10-01 language:Perl`
+* Pick a popular project and work on stale PRs. That is PRs where there is already good work, but the original author (of the PR) has vanished.
 * [CPAN Digger](https://cpan-digger.perlmaven.com/)
 
 
