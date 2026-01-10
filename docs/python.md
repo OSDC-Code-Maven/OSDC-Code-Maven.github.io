@@ -73,7 +73,7 @@ This material is being used during the events organized in the [Code-Mavens](htt
     * 2025.12.27
     * PR: [add link to github](https://github.com/Giordano10/VCSP/pull/1) - Merged ✅
     * PR: [add dependabot](https://github.com/Giordano10/VCSP/pull/2) - Closed but implemented 🤔
-    * Issue: [Local development, how to run the tests locally](https://github.com/Giordano10/VCSP/issues/3) - Waiting 🕰️
+    * Issue: [Local development, how to run the tests locally](https://github.com/Giordano10/VCSP/issues/3) -  ✅
     * Learn: [semgrep](https://semgrep.dev/)
     * Learn: [cliff](https://github.com/orhun/git-cliff-action)
     * Learn: [build](https://pypi.org/project/build/)
