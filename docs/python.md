@@ -65,6 +65,27 @@ This material is being used during the events organized in the [Code-Mavens](htt
 
 ## Projects
 
+* [scikit-learn](https://scikit-learn.org/)
+    * 2026.01.11
+    * Setting up the development environment is [explained well](https://scikit-learn.org/dev/developers/development_setup.html) but still takes time.
+    * Also running the tests took 10 minutes on my computer.
+    * Maybe create a development environment in a Docker image and share the instructions how to use it.
+    * Maybe describe how to use `uv` to setup the development environment.
+    * Issue: [confusion_matrix crashes when sample_weight is an empty array](https://github.com/scikit-learn/scikit-learn/issues/33040) - we tried to reproduce it and commented on it. - Waiting 🕰️
+    * We opened a few issues on the PyDigger project.
+
+* readanybook
+    * We encountered this project, but we could not find its GitHub repository. Someone mentioned that it might be related to some pirated books.
+    * I don't know, but apparently one has to be carefull not to contribute to some illegal activity.
+
+* [paperpipe](https://pypi.org/project/paperpipe/)
+    * 2026.01.11
+    * PR: [Add Dependabot configuration for version updates](https://github.com/hummat/paperpipe/pull/2) - Waiting 🕰️
+
+* [peelee](https://pypi.org/project/peelee/)
+    * 2026.01.11
+    * I have sent an email to [Bruce Wen (wenijinew)](https://github.com/wenijinew) the author. - Waiting 🕰️
+
 * [fastapi-cachex](https://pypi.org/project/fastapi-cachex/)
     * 2026.01.09
     * PR: [Add Dependabot configuration for version updates](https://github.com/allen0099/FastAPI-CacheX/pull/3) - Merged ✅
