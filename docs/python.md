@@ -80,7 +80,7 @@ This material is being used during the events organized in the [Code-Mavens](htt
 
 * [paperpipe](https://pypi.org/project/paperpipe/)
     * 2026.01.11
-    * PR: [Add Dependabot configuration for version updates](https://github.com/hummat/paperpipe/pull/2) - Waiting 🕰️
+    * PR: [Add Dependabot configuration for version updates](https://github.com/hummat/paperpipe/pull/2) - Merged ✅
 
 * [peelee](https://pypi.org/project/peelee/)
     * 2026.01.11
