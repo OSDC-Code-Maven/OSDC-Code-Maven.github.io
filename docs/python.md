@@ -71,7 +71,7 @@ This material is being used during the events organized in the [Code-Mavens](htt
     * Also running the tests took 10 minutes on my computer.
     * Maybe create a development environment in a Docker image and share the instructions how to use it.
     * Maybe describe how to use `uv` to setup the development environment.
-    * Issue: [confusion_matrix crashes when sample_weight is an empty array](https://github.com/scikit-learn/scikit-learn/issues/33040) - we tried to reproduce it and commented on it. - Waiting 🕰️
+    * Issue: [confusion_matrix crashes when sample_weight is an empty array](https://github.com/scikit-learn/scikit-learn/issues/33040) - we tried to reproduce it and commented on it. - Issue closed. ✅
     * We opened a few issues on the PyDigger project.
 
 * readanybook
