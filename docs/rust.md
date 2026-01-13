@@ -50,6 +50,22 @@ This material is being used during the events organized in the [Code-Mavens](htt
 * Refactoring
 * Code reading
 
+## Low hanging fruits from the Rust Digger
+
+* [Has homepage but no repo](https://rust-digger.code-maven.com/has-homepage-but-no-repo handled) 2025-08-15   current count 3,619 - 3,608 - 3,728
+
+chore: Update Cargo.toml use repository instead of homepage
+
+According to the [manifest](https://doc.rust-lang.org/cargo/reference/manifest.html) it seems the `repository` field is preferable.  More explanation https://github.com/szabgab/rust-digger/issues/104
+
+* [GitHub with www](https://rust-digger.code-maven.com/vcs/github-with-www)  Since 2021-01-01 Till  2025-07-03  current count: 253
+
+chore: Minor change to remove www from github url in Cargo.toml
+
+GitHub redirects to the address without www anyway, so let's put that in Cargo.toml See also https://github.com/szabgab/rust-digger/issues/96
+
+
+
 
 ## Projects
 
