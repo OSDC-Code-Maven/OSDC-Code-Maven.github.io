@@ -59,17 +59,57 @@ chore: Update Cargo.toml use repository instead of homepage
 ```
 
 ```
-According to the [manifest](https://doc.rust-lang.org/cargo/reference/manifest.html) it seems the `repository` field is preferable.
+According to the [manifest](https://doc.rust-lang.org/cargo/reference/manifest.html)
+it seems the `repository` field is preferable.
 More explanation https://github.com/szabgab/rust-digger/issues/104
 ```
 
 * [GitHub with www](https://rust-digger.code-maven.com/vcs/github-with-www)  Since 2021-01-01 Till  2025-07-03  current count: 253
 
+```
 chore: Minor change to remove www from github url in Cargo.toml
+```
 
-GitHub redirects to the address without www anyway, so let's put that in Cargo.toml See also https://github.com/szabgab/rust-digger/issues/96
+```
+GitHub redirects to the address without www anyway, so let's put that in Cargo.toml.
+See also https://github.com/szabgab/rust-digger/issues/96
+```
 
+* [Repo with http ](https://rust-digger.code-maven.com/vcs/repo-with-http) Since 2020-01-01 Till 2025-06-28   Current count: 355
 
+```
+chore: Minor change to use https in the github url in Cargo.toml
+```
+
+```
+GitHub redirects to the address with https anyway, so let's put that in Cargo.toml.
+See also https://github.com/szabgab/rust-digger/issues/97
+```
+
+* [Has Cargo.toml errors](https://rust-digger.code-maven.com/has-cargo-toml-errors)
+
+```
+chore: Fix typo in Cargo.toml
+```
+
+```
+Given the most recent change here I know it is unlikely you will publish a new version of this crate on crates.io,
+but in case you you might want to fix this typo in `Cargo.toml`.
+See also: https://github.com/szabgab/rust-digger/issues/100
+```
+
+* [Lower-case cargo.toml](https://rust-digger.code-maven.com/lower-case-cargo-toml) Most recent is 2023-08-10, Maybe I should send PRs or open issues?
+
+* [No homepage, no repo](https://rust-digger.code-maven.com/no-homepage-no-repo) handled: 2025-06-06   current count: 28,911
+
+```
+chore: Update Cargo.toml add repository field
+```
+
+```
+To make it easier for potential contributors and automated tools to find the repository.
+More explanation: https://github.com/szabgab/rust-digger/issues/89
+```
 
 
 ## Projects
