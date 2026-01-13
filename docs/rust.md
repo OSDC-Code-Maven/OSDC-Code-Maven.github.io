@@ -114,6 +114,22 @@ More explanation: https://github.com/szabgab/rust-digger/issues/89
 
 ## Projects
 
+* [ferrotype](https://crates.io/crates/ferrotype)
+    * 2026.01.13
+    * PR: [Add GitHub action to run the test on every push](https://github.com/iamnbutler/ferrotype/pull/1)
+
+* [stand](https://crates.io/crates/stand)
+    * 2026.01.13
+    * [Add GitHub Actions to run the tests on every push](https://github.com/ueneid/stand/pull/26) - Waiting 🕰️
+    * Learn: [serena](https://github.com/oraios/serena)
+
+* [k8s-openapi-ext-rs](https://crates.io/crates/K8s-openapi-ext)
+    * 2026.01.13
+    * PR: [add github actions with flags as needed](https://github.com/rkubectl/k8s-openapi-ext-rs/pull/2) - Waiting 🕰️
+    * Learn: [CodeRabbit](https://www.coderabbit.ai/)
+    * Learn: [just](https://crates.io/crates/just)
+    * Learn: [mise](https://mise.jdx.dev/)
+
 * [PyDigger](https://pydigger.code-maven.com/)
     * 2026.01.09
     * During the Python session we encountered some issues with PyDigger and one of the participants sent this PR:
