@@ -79,6 +79,14 @@ See also [this issue](https://github.com/OSDC-Code-Maven/OSDC-Code-Maven.github.
 
 * Eugen Konkov asked for help with PRs to [DBIx::Class](https://metacpan.org/pod/DBIx::Class).
 
+* [XML-Easy](https://metacpan.org/dist/XML-Easy)
+    * 2026.01.14
+    * [Add GitHub Actions to run the tests on every push](https://github.com/jkeenan/p5-XML-Easy/pull/10) - Waiting 🕰️
+
+* [perl-tester Docker image](https://hub.docker.com/r/perldocker/perl-tester/)
+    * 2026.01.14
+    * Issue: [Update text on Docker HUB](https://github.com/Perl/docker-perl-tester/issues/83) - Waiting 🕰️
+    * Issue: [Add threaded perl](https://github.com/Perl/docker-perl-tester/issues/84) - Waiting 🕰️
 
 * [DBIx-Class-Async](http://metacpan.org/release/DBIx-Class-Async)
     * 2026.01.08

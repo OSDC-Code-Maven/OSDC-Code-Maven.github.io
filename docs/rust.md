@@ -125,7 +125,7 @@ More explanation: https://github.com/szabgab/rust-digger/issues/89
 
 * [k8s-openapi-ext-rs](https://crates.io/crates/K8s-openapi-ext)
     * 2026.01.13
-    * PR: [add github actions with flags as needed](https://github.com/rkubectl/k8s-openapi-ext-rs/pull/2) - Waiting 🕰️
+    * PR: [add github actions with flags as needed](https://github.com/rkubectl/k8s-openapi-ext-rs/pull/2) - Merged ✅
     * Learn: [CodeRabbit](https://www.coderabbit.ai/)
     * Learn: [just](https://crates.io/crates/just)
     * Learn: [mise](https://mise.jdx.dev/)
