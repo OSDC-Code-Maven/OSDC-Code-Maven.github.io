@@ -21,6 +21,13 @@ This material is being used during the events organized in the [Perl-Maven](http
 * An indirect dependency. [Dependency tree of a Perl module on CPAN](https://perlmaven.com/how-to-fetch-the-cpan-dependency-tree-of-a-perl-module).
 * Search on GitHub: [A semi-popular, recently updated Perl project](https://github.com/search?q=stars%3A100..1000+pushed%3A%3E2025-10-01+language%3APerl+&type=repositories&ref=advsearch) `stars:100..1000 pushed:>2025-10-01 language:Perl`
 * Pick a popular project and work on stale PRs. That is PRs where there is already good work, but the original author (of the PR) has vanished.
+* Taking over a module, especially one in a custodian account, or by one listed in the InMemoriam module
+    * [(PAUSE Custodial Account)](https://metacpan.org/search?size=20&q=%28PAUSE+Custodial+Account%29)
+    * [Acme::CPANAuthors::InMemoriam](https://metacpan.org/pod/Acme::CPANAuthors::InMemoriam)
+    * or one of the modules with special owner as described [here](https://pause.perl.org/pause/query?ACTION=pause_operating_model):
+        * [ADOPTME](https://rt.cpan.org/Public/Dist/ByMaintainer.html?Name=ADOPTME)
+        * [HANDOFF](https://rt.cpan.org/Public/Dist/ByMaintainer.html?Name=HANDOFF)
+        * [NEEDHELP](https://rt.cpan.org/Public/Dist/ByMaintainer.html?Name=NEEDHELP)
 * [CPAN Digger](https://cpan-digger.perlmaven.com/)
 
 
