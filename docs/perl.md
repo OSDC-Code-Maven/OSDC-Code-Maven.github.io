@@ -45,6 +45,7 @@ This material is being used during the events organized in the [Perl-Maven](http
     * [Perl and CI](https://perlmaven.com/ci)
         * [GitHub Actions](https://perlmaven.com/setup-github-actions)
     * Setting up CI:
+        * Use the [perl-tester](https://hub.docker.com/r/perldocker/perl-tester/) Docker container
     * GitHub Actions
     * GitLab pipelines
         * [examples](https://perlmaven.com/gitlab-ci)
