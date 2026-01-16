@@ -114,9 +114,21 @@ More explanation: https://github.com/szabgab/rust-digger/issues/89
 
 ## Projects
 
+* [dvb](https://crates.io/crates/dvb)
+    * 2026.01.16
+    * [chore: Add repository URL to Cargo.toml](https://github.com/hoodie/dvb-rs/pull/8) - Waiting 🕰️
+
+* [hannibal-derive](https://crates.io/crates/hannibal-derive)
+    * 2026.01.16
+    * [chore: Add repository field to Cargo.toml](https://github.com/hoodie/hannibal/pull/57) - Waiting 🕰️
+
+* [resource-bound](https://crates.io/crates/resource-bound)
+    * 2026.01.16
+    * [chore: Fix the repository URL in Cargo.toml](https://github.com/oOp995/resource-bound/pull/1) - Waiting 🕰️
+
 * [ferrotype](https://crates.io/crates/ferrotype)
     * 2026.01.13
-    * PR: [Add GitHub action to run the test on every push](https://github.com/iamnbutler/ferrotype/pull/1)
+    * PR: [Add GitHub action to run the test on every push](https://github.com/iamnbutler/ferrotype/pull/1) - Waiting 🕰️
 
 * [stand](https://crates.io/crates/stand)
     * 2026.01.13
