@@ -56,12 +56,14 @@ This material is being used during the events organized in the [Code-Mavens](htt
 
 ```
 chore: Update Cargo.toml use repository instead of homepage
+
+chore: use `repository` field instead of `homepage` field
 ```
 
 ```
 According to the [manifest](https://doc.rust-lang.org/cargo/reference/manifest.html)
 it seems the `repository` field is preferable.
-More explanation https://github.com/szabgab/rust-digger/issues/104
+More explanation https://github.com/szabgab/rust-digger/issues/119
 ```
 
 * [GitHub with www](https://rust-digger.code-maven.com/vcs/github-with-www)  Since 2021-01-01 Till  2025-07-03  current count: 253
@@ -113,6 +115,10 @@ More explanation: https://github.com/szabgab/rust-digger/issues/89
 
 
 ## Projects
+
+* states-rs
+    * 2026.01.16
+    * [chore: user repository field instead of homepage field](https://github.com/WolverinDEV/states-rs/pull/1)
 
 * [dvb](https://crates.io/crates/dvb)
     * 2026.01.16
