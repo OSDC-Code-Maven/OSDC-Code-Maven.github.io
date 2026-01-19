@@ -144,11 +144,11 @@ More explanation: https://github.com/szabgab/rust-digger/issues/89
 
 * [dvb](https://crates.io/crates/dvb)
     * 2026.01.16
-    * [chore: Add repository URL to Cargo.toml](https://github.com/hoodie/dvb-rs/pull/8) - Waiting 🕰️
+    * [chore: Add repository URL to Cargo.toml](https://github.com/hoodie/dvb-rs/pull/8) - Merged ✅
 
 * [hannibal-derive](https://crates.io/crates/hannibal-derive)
     * 2026.01.16
-    * [chore: Add repository field to Cargo.toml](https://github.com/hoodie/hannibal/pull/57) - Waiting 🕰️
+    * [chore: Add repository field to Cargo.toml](https://github.com/hoodie/hannibal/pull/57) - Merged ✅
 
 * [resource-bound](https://crates.io/crates/resource-bound)
     * 2026.01.16
