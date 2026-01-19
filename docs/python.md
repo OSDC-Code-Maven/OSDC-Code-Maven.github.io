@@ -61,6 +61,7 @@ This material is being used during the events organized in the [Code-Mavens](htt
     * [complexipy](https://github.com/rohaquinlop/complexipy)
 * Refactoring
 * Code reading
+* Convert `setup.py` to `pyproject.toml`.
 
 
 ## Projects

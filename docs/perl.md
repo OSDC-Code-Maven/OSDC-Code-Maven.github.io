@@ -22,6 +22,7 @@ This material is being used during the events organized in the [Perl-Maven](http
 * Search on GitHub: [A semi-popular, recently updated Perl project](https://github.com/search?q=stars%3A100..1000+pushed%3A%3E2025-10-01+language%3APerl+&type=repositories&ref=advsearch) `stars:100..1000 pushed:>2025-10-01 language:Perl`
 * Pick a popular project and work on stale PRs. That is PRs where there is already good work, but the original author (of the PR) has vanished.
 * Taking over a module, especially one in a custodian account, or by one listed in the InMemoriam module
+    * See this article on how to [adopt a CPAN module](https://neilb.org/2013/07/24/adopt-a-module.html).
     * [(PAUSE Custodial Account)](https://metacpan.org/search?size=20&q=%28PAUSE+Custodial+Account%29)
     * [Acme::CPANAuthors::InMemoriam](https://metacpan.org/pod/Acme::CPANAuthors::InMemoriam)
     * or one of the modules with special owner as described [here](https://pause.perl.org/pause/query?ACTION=pause_operating_model):
@@ -71,9 +72,6 @@ This material is being used during the events organized in the [Perl-Maven](http
 * Refactoring
 
 See also [this issue](https://github.com/OSDC-Code-Maven/OSDC-Code-Maven.github.io/issues/5) about the goals.
-
-* [Adopt a CPAN module](https://neilb.org/2013/07/24/adopt-a-module.html)
-* Take over a CPAN module.
 
 ## Projects
 
