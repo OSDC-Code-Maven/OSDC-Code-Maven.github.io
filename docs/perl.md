@@ -11,17 +11,20 @@ This material is being used during the events organized in the [Perl-Maven](http
 
 ## How to select a Perl project to contribute to?
 
-* A [perl-based project](https://perlmaven.com/perl-based-open-source-products) that you use.
-* [MetaCPAN itself](https://metacpan.org/)
+* A [perl-based project](https://perlmaven.com/perl-based-open-source-products) that you use. Not a CPAN module, but an application. It is will be nice to be contribute to one of those, but contributing code to a mature project is difficult. Most likely all the simple problems have been already fixed so what you have now are hard. That means you'll have to invest 10s or even 100s of hours. Not something I'd recommend when you are new to open source contribution.
+* [MetaCPAN itself](https://metacpan.org/) is one of those perl-based projects, but of course it has a lot of visibility in the Perl community. Do you know the names of the [contributors](https://metacpan.org/about/contributors)?
 * [CPAN Dashboard](https://cpandashboard.com/)
     * See the issues
     * Check my report and fix issues there. [SZABGAB](https://cpandashboard.com/SZABGAB/)
-* A module that you use.
+    * Check the report of the other people there and fix their issues.
+    * Encourage other CPAN authors to send a PR to the Dashboard so they will be also included.
+* A CPAN module that you use. However, most likely the modules you use are also rather mature.
+* If you contribute to a module that recently had a relase and is maintained, it is much more likely that your work will get feedback and might be even accepted than if you work on a module that has not been maintained for a while. Take for example [DBIx::Class](https://metacpan.org/pod/DBIx::Class). It is one of the most important modules. It has lots of open PRs and open issues, but it was not touched for 3 years. So if you'd like to improve it you might need to take over the maintainence. That's a much bigger job than sending a single PR.
 * A direct dependency of a project or a module that you use. Listed in one of the files: `Makefile.PL`, `Build.PL`, `cpanfile`, etc.
 * An indirect dependency. [Dependency tree of a Perl module on CPAN](https://perlmaven.com/how-to-fetch-the-cpan-dependency-tree-of-a-perl-module).
-* Search on GitHub: [A semi-popular, recently updated Perl project](https://github.com/search?q=stars%3A100..1000+pushed%3A%3E2025-10-01+language%3APerl+&type=repositories&ref=advsearch) `stars:100..1000 pushed:>2025-10-01 language:Perl`
+* Search on GitHub: [A semi-popular, recently updated Perl project](https://github.com/search?q=stars%3A100..1000+pushed%3A%3E2026-01-10+language%3APerl+&type=repositories&ref=advsearch) `stars:100..1000 pushed:>2026-01-10 language:Perl`
 * Pick a popular project and work on stale PRs. That is PRs where there is already good work, but the original author (of the PR) has vanished.
-* Taking over a module, especially one in a custodian account, or by one listed in the InMemoriam module
+* Adopting a module, especially one in a custodian account, or by one of the authors listed in the InMemoriam module. Adopting a module comes with responsibilities and it is a lot more work than sending a single PR, but there is not other way to make progress with these modules.
     * See this article on how to [adopt a CPAN module](https://neilb.org/2013/07/24/adopt-a-module.html).
     * [(PAUSE Custodial Account)](https://metacpan.org/search?size=20&q=%28PAUSE+Custodial+Account%29)
     * [Acme::CPANAuthors::InMemoriam](https://metacpan.org/pod/Acme::CPANAuthors::InMemoriam)
@@ -29,7 +32,11 @@ This material is being used during the events organized in the [Perl-Maven](http
         * [ADOPTME](https://rt.cpan.org/Public/Dist/ByMaintainer.html?Name=ADOPTME)
         * [HANDOFF](https://rt.cpan.org/Public/Dist/ByMaintainer.html?Name=HANDOFF)
         * [NEEDHELP](https://rt.cpan.org/Public/Dist/ByMaintainer.html?Name=NEEDHELP)
-* [CPAN Digger](https://cpan-digger.perlmaven.com/)
+
+* [CPAN Digger](https://cpan-digger.perlmaven.com/) helps you find some low-hanging fruits. Recently released distributions...
+    * ... that are missing some data from their META files.
+    * ... that have no Continuous Integration set up.
+    * ... where you can run generate test coverage report and add tests to improve the safety net of the project.
 
 
 ## What and how to contribute to a Perl project?
