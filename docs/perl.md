@@ -34,6 +34,13 @@ This material is being used during the events organized in the [Perl-Maven](http
 
 ## What and how to contribute to a Perl project?
 
+* CPAN Digger / MetaCPAN
+    * It would be probably better to add these to MetaCPAN, but we can start by adding that to CPAN::Digger.
+    * Create a web page with the "river" showing the most relied on distributions. (Contribute to this has the widest impact.)
+    * Create a page listing all the modules that have the special PAUSE ids listed above, along with their "river" status.
+    * Create a page listing all the modules of authors who have passed away (from the InMemoriam module listed above), along with their river status.
+    * Taking over and maintaining these is keeping their work live on.
+
 * Link to VCS: Make sure [MetaCPAN links to the VCS](https://perlmaven.com/how-to-add-link-to-version-control-system-of-a-cpan-distributions) of the module. If not, try to locate the source of the module and send a PR updating the meta-data of the project. If you can't find it, then you might want to send an email to the author asking if the project has a public repository.
 * Testing
     * Try to run the tests locally or better yet in a [Docker container](https://github.com/szabgab/perl-docker-on-ubuntu).
