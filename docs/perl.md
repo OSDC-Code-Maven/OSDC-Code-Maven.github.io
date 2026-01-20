@@ -91,7 +91,9 @@ See also [this issue](https://github.com/OSDC-Code-Maven/OSDC-Code-Maven.github.
 
 * Eugen Konkov asked for help with PRs to [DBIx::Class](https://metacpan.org/pod/DBIx::Class).
 
-* [Remove Travis CI](https://github.com/PerlToolsTeam/dashboard/issues/105)  TODO. 🎁
+* [CPAN dashboard](https://cpandashboard.com/)
+    * 2026.01.20
+    * [Remove Travis CI](https://github.com/PerlToolsTeam/dashboard/issues/105)  TODO. 🎁
 
 * [Business-Westpac](https://metacpan.org/dist/Business-Westpac)
     * 2026.01.20
@@ -108,10 +110,14 @@ See also [this issue](https://github.com/OSDC-Code-Maven/OSDC-Code-Maven.github.
     * 2026.01.14
     * [Add GitHub Actions to run the tests on every push](https://github.com/jkeenan/p5-XML-Easy/pull/10) - Merged ✅
 
-* [perl-tester Docker image](https://hub.docker.com/r/perldocker/perl-tester/)
+* [perldocker/perl-tester Docker image](https://hub.docker.com/r/perldocker/perl-tester/)
     * 2026.01.14
     * Issue: [Update text on Docker HUB](https://github.com/Perl/docker-perl-tester/issues/83) - Waiting 🕰️
     * Issue: [Add threaded perl](https://github.com/Perl/docker-perl-tester/issues/84) - Waiting 🕰️ TODO. 🎁
+    * 2026.01.20
+    * Issue: [Adding more Dist::Zilla plugins](https://github.com/Perl/docker-perl-tester/issues/85) - Waiting 🕰️ TODO. 🎁
+    * PR: [add Dist::Zilla::Plugin::CopyReadmeFromBuild](https://github.com/Perl/docker-perl-tester/pull/86) - Waiting 🕰️ TODO. 🎁
+    * Issue: [buster supports only up to perl 5.40 afterward bookworm is needed](https://github.com/Perl/docker-perl-tester/issues/87) - Waiting 🕰️ TODO. 🎁
 
 * [DBIx-Class-Async](http://metacpan.org/release/DBIx-Class-Async)
     * 2026.01.08
