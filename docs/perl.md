@@ -84,6 +84,11 @@ See also [this issue](https://github.com/OSDC-Code-Maven/OSDC-Code-Maven.github.
 
 * Eugen Konkov asked for help with PRs to [DBIx::Class](https://metacpan.org/pod/DBIx::Class).
 
+* [LaTeX-Driver](https://metacpan.org/dist/LaTeX-Driver)
+    * 2026.01.20
+    * The tests run locally have some strange output Because of the lack of `makeindex`. TODO. 🎁
+    * I started to setup GitHub Actions, but it failed. We might want to explore this in a meeting. TODO. 🎁
+
 * [XML-Easy](https://metacpan.org/dist/XML-Easy)
     * 2026.01.14
     * [Add GitHub Actions to run the tests on every push](https://github.com/jkeenan/p5-XML-Easy/pull/10) - Waiting 🕰️
