@@ -91,6 +91,8 @@ See also [this issue](https://github.com/OSDC-Code-Maven/OSDC-Code-Maven.github.
 
 * Eugen Konkov asked for help with PRs to [DBIx::Class](https://metacpan.org/pod/DBIx::Class).
 
+* [Remove Travis CI](https://github.com/PerlToolsTeam/dashboard/issues/105)  TODO. 🎁
+
 * [Business-Westpac](https://metacpan.org/dist/Business-Westpac)
     * 2026.01.20
     * PR: [Update bugtracker and repository URLs in Makefile.PL](https://github.com/leejo/business-westpac/pull/1) - Waiting 🕰️
