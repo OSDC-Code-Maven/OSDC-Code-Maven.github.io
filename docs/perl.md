@@ -84,6 +84,12 @@ See also [this issue](https://github.com/OSDC-Code-Maven/OSDC-Code-Maven.github.
 
 * Eugen Konkov asked for help with PRs to [DBIx::Class](https://metacpan.org/pod/DBIx::Class).
 
+* [Business-Westpac](https://metacpan.org/dist/Business-Westpac)
+    * 2026.01.20
+    * PR: [Update bugtracker and repository URLs in Makefile.PL](https://github.com/leejo/business-westpac/pull/1) - Waiting 🕰️
+    * PR: [chore: Add GitHub Actions](https://github.com/leejo/business-westpac/pull/2) - Waiting 🕰️
+    * PR: [chore: remove generated files](https://github.com/leejo/business-westpac/pull/3) - Waiting 🕰️
+
 * [LaTeX-Driver](https://metacpan.org/dist/LaTeX-Driver)
     * 2026.01.20
     * The tests run locally have some strange output Because of the lack of `makeindex`. TODO. 🎁
@@ -91,12 +97,12 @@ See also [this issue](https://github.com/OSDC-Code-Maven/OSDC-Code-Maven.github.
 
 * [XML-Easy](https://metacpan.org/dist/XML-Easy)
     * 2026.01.14
-    * [Add GitHub Actions to run the tests on every push](https://github.com/jkeenan/p5-XML-Easy/pull/10) - Waiting 🕰️
+    * [Add GitHub Actions to run the tests on every push](https://github.com/jkeenan/p5-XML-Easy/pull/10) - Merged ✅
 
 * [perl-tester Docker image](https://hub.docker.com/r/perldocker/perl-tester/)
     * 2026.01.14
     * Issue: [Update text on Docker HUB](https://github.com/Perl/docker-perl-tester/issues/83) - Waiting 🕰️
-    * Issue: [Add threaded perl](https://github.com/Perl/docker-perl-tester/issues/84) - Waiting 🕰️
+    * Issue: [Add threaded perl](https://github.com/Perl/docker-perl-tester/issues/84) - Waiting 🕰️ TODO. 🎁
 
 * [DBIx-Class-Async](http://metacpan.org/release/DBIx-Class-Async)
     * 2026.01.08
