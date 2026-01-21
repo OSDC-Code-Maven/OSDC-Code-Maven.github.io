@@ -66,6 +66,13 @@ This material is being used during the events organized in the [Code-Mavens](htt
 
 ## Projects
 
+* [factpages-py](https://pypi.org/project/factpages-py/)
+    * 2026.01.20
+    * Issue: [Readme has some slightly confusing info](https://github.com/kkollsga/factpages-py/issues/1) - Waiting 🕰️
+    * PR: [Add some tests based on the documentation](https://github.com/kkollsga/factpages-py/pull/2) - Waiting 🕰️
+    * Learn: [build](https://pypi.org/project/build/) A simple, correct Python build frontend.
+    * Learn: [twine](https://pypi.org/project/twine/) a utility for publishing Python packages on PyPI.
+
 * [scikit-learn](https://scikit-learn.org/)
     * 2026.01.11
     * Setting up the development environment is [explained well](https://scikit-learn.org/dev/developers/development_setup.html) but still takes time.
