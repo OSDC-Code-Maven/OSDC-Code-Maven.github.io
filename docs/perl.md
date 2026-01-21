@@ -98,6 +98,11 @@ docker run -it --rm -v$(pwd):/opt --user ubuntu szabgab/perl bash
 
 * Eugen Konkov asked for help with PRs to [DBIx::Class](https://metacpan.org/pod/DBIx::Class).
 
+* [https://metacpan.org/](https://metacpan.org/dist/App-TimeTracker-Command-Jira)
+    * The link to the repository was incorrect. I sent and email to Michael Kröll, the author, who pointed me to the correct repository.
+    * The project uses Dist::Zilla and will insert the correct address during the next releases. - Waiting 🕰️
+    * PR: [Add GitHub Actions](https://github.com/Geizhals-Preisvergleich/App-TimeTracker-Jira/pull/5) - Waiting 🕰️
+
 * [CPAN dashboard](https://cpandashboard.com/)
     * 2026.01.20
     * [Remove Travis CI](https://github.com/PerlToolsTeam/dashboard/issues/105)  TODO. 🎁
