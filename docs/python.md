@@ -1,8 +1,15 @@
 # Python
 
+* [Events](#events)
+* [Chat](#chat)
+* [How to select a Python project to contribute to?](#how-to-select-a-perl-project-to-contribute-to)
+* [What and how to contribute to a Python project?](#what-and-how-to-contribute-to-a-perl-project)
+* [Project reports](#project-reports)
+
 ## Events
 
-This material is being used during the events organized in the [Code-Mavens](https://www.meetup.com/code-mavens/) Meetup group.
+This material is being used during the online events organized in the [Code-Mavens](https://www.meetup.com/code-mavens/) Meetup group.
+
 
 ## Chat
 
@@ -64,7 +71,7 @@ This material is being used during the events organized in the [Code-Mavens](htt
 * Convert `setup.py` to `pyproject.toml`.
 
 
-## Projects
+## Project reports
 
 * [factpages-py](https://pypi.org/project/factpages-py/)
     * 2026.01.20
