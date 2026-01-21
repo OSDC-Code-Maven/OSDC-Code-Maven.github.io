@@ -69,7 +69,8 @@ This material is being used during the events organized in the [Code-Mavens](htt
 * [factpages-py](https://pypi.org/project/factpages-py/)
     * 2026.01.20
     * Issue: [Readme has some slightly confusing info](https://github.com/kkollsga/factpages-py/issues/1) - Waiting 🕰️
-    * PR: [Add some tests based on the documentation](https://github.com/kkollsga/factpages-py/pull/2) - Waiting 🕰️
+    * PR: [Add some tests based on the documentation](https://github.com/kkollsga/factpages-py/pull/2) - Merged ✅
+    * Add more test - TODO 🎁
     * Learn: [build](https://pypi.org/project/build/) A simple, correct Python build frontend.
     * Learn: [twine](https://pypi.org/project/twine/) a utility for publishing Python packages on PyPI.
 
@@ -89,6 +90,7 @@ This material is being used during the events organized in the [Code-Mavens](htt
 * [paperpipe](https://pypi.org/project/paperpipe/)
     * 2026.01.11
     * PR: [Add Dependabot configuration for version updates](https://github.com/hummat/paperpipe/pull/2) - Merged ✅
+    * Check test coverage and add tests - TODO 🎁
 
 * [peelee](https://pypi.org/project/peelee/)
     * 2026.01.11

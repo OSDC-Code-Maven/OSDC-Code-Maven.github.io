@@ -105,7 +105,7 @@ docker run -it --rm -v$(pwd):/opt --user ubuntu szabgab/perl bash
 
 * [CPAN dashboard](https://cpandashboard.com/)
     * 2026.01.20
-    * [Remove Travis CI](https://github.com/PerlToolsTeam/dashboard/issues/105)  TODO. 🎁
+    * [Remove Travis CI](https://github.com/PerlToolsTeam/dashboard/issues/105) - TODO 🎁
 
 * [Business-Westpac](https://metacpan.org/dist/Business-Westpac)
     * 2026.01.20
@@ -115,8 +115,8 @@ docker run -it --rm -v$(pwd):/opt --user ubuntu szabgab/perl bash
 
 * [LaTeX-Driver](https://metacpan.org/dist/LaTeX-Driver)
     * 2026.01.20
-    * The tests run locally have some strange output Because of the lack of `makeindex`. TODO. 🎁
-    * I started to setup GitHub Actions, but it failed. We might want to explore this in a meeting. TODO. 🎁
+    * The tests run locally have some strange output Because of the lack of `makeindex`. - TODO 🎁
+    * I started to setup GitHub Actions, but it failed. We might want to explore this in a meeting. - TODO 🎁
 
 * [XML-Easy](https://metacpan.org/dist/XML-Easy)
     * 2026.01.14
@@ -125,12 +125,12 @@ docker run -it --rm -v$(pwd):/opt --user ubuntu szabgab/perl bash
 * [perldocker/perl-tester Docker image](https://hub.docker.com/r/perldocker/perl-tester/)
     * 2026.01.14
     * Issue: [Update text on Docker HUB](https://github.com/Perl/docker-perl-tester/issues/83) - Waiting 🕰️
-    * Issue: [Add threaded perl](https://github.com/Perl/docker-perl-tester/issues/84) - Waiting 🕰️ TODO. 🎁
+    * Issue: [Add threaded perl](https://github.com/Perl/docker-perl-tester/issues/84) - Waiting 🕰️  - TODO 🎁
     * 2026.01.20
-    * Issue: [Adding more Dist::Zilla plugins](https://github.com/Perl/docker-perl-tester/issues/85) - Waiting 🕰️ TODO. 🎁
+    * Issue: [Adding more Dist::Zilla plugins](https://github.com/Perl/docker-perl-tester/issues/85) - Waiting 🕰️ - TODO 🎁
     * PR: [add Dist::Zilla::Plugin::CopyReadmeFromBuild](https://github.com/Perl/docker-perl-tester/pull/86) - Merged ✅
     * PR: [add Dist::Zilla::Plugin::HasVersionTests](https://github.com/Perl/docker-perl-tester/pull/88) - Merged ✅
-    * Issue: [buster supports only up to perl 5.40 afterward bookworm is needed](https://github.com/Perl/docker-perl-tester/issues/87) - Waiting 🕰️ TODO. 🎁
+    * Issue: [buster supports only up to perl 5.40 afterward bookworm is needed](https://github.com/Perl/docker-perl-tester/issues/87) - Waiting 🕰️ - TODO 🎁
     * PR: [Use slim-bookworm for perl 5.42 and later](https://github.com/Perl/docker-perl-tester/pull/89) - Waiting 🕰️
 
 * [DBIx-Class-Async](http://metacpan.org/release/DBIx-Class-Async)
