@@ -75,9 +75,9 @@ This material is being used during the online events organized in the [Code-Mave
 
 * [factpages-py](https://pypi.org/project/factpages-py/)
     * 2026.01.20
-    * Issue: [Readme has some slightly confusing info](https://github.com/kkollsga/factpages-py/issues/1) - Waiting 🕰️
+    * Issue: [Readme has some slightly confusing info](https://github.com/kkollsga/factpages-py/issues/1) - Merged ✅
     * PR: [Add some tests based on the documentation](https://github.com/kkollsga/factpages-py/pull/2) - Merged ✅
-    * Add more test - TODO 🎁
+    * Add more tests - TODO 🎁
     * Learn: [build](https://pypi.org/project/build/) A simple, correct Python build frontend.
     * Learn: [twine](https://pypi.org/project/twine/) a utility for publishing Python packages on PyPI.
 
