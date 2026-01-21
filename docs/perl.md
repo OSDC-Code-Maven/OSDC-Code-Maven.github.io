@@ -87,6 +87,13 @@ This material is being used during the events organized in the [Perl-Maven](http
 
 See also [this issue](https://github.com/OSDC-Code-Maven/OSDC-Code-Maven.github.io/issues/5) about the goals.
 
+## Tools
+
+```
+docker run -it --rm -v$(pwd):/opt  perldocker/perl-tester:5.42 bash
+docker run -it --rm -v$(pwd):/opt --user ubuntu szabgab/perl bash
+```
+
 ## Projects
 
 * Eugen Konkov asked for help with PRs to [DBIx::Class](https://metacpan.org/pod/DBIx::Class).
