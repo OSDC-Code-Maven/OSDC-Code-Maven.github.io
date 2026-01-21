@@ -2,8 +2,8 @@
 
 * [Events](#events)
 * [Chat](#chat)
-* [How to select a Python project to contribute to?](#how-to-select-a-perl-project-to-contribute-to)
-* [What and how to contribute to a Python project?](#what-and-how-to-contribute-to-a-perl-project)
+* [How to select a Python project to contribute to?](#how-to-select-a-python-project-to-contribute-to)
+* [What and how to contribute to a Python project?](#what-and-how-to-contribute-to-a-python-project)
 * [Project reports](#project-reports)
 
 ## Events
