@@ -117,8 +117,9 @@ See also [this issue](https://github.com/OSDC-Code-Maven/OSDC-Code-Maven.github.
     * 2026.01.20
     * Issue: [Adding more Dist::Zilla plugins](https://github.com/Perl/docker-perl-tester/issues/85) - Waiting 🕰️ TODO. 🎁
     * PR: [add Dist::Zilla::Plugin::CopyReadmeFromBuild](https://github.com/Perl/docker-perl-tester/pull/86) - Merged ✅
-    * PR: [add Dist::Zilla::Plugin::HasVersionTests](https://github.com/Perl/docker-perl-tester/pull/88) - Waiting 🕰️ TODO. 🎁
+    * PR: [add Dist::Zilla::Plugin::HasVersionTests](https://github.com/Perl/docker-perl-tester/pull/88) - Merged ✅
     * Issue: [buster supports only up to perl 5.40 afterward bookworm is needed](https://github.com/Perl/docker-perl-tester/issues/87) - Waiting 🕰️ TODO. 🎁
+    * PR: [Use slim-bookworm for perl 5.42 and later](https://github.com/Perl/docker-perl-tester/pull/89) - Waiting 🕰️
 
 * [DBIx-Class-Async](http://metacpan.org/release/DBIx-Class-Async)
     * 2026.01.08
