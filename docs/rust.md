@@ -152,7 +152,7 @@ More explanation: https://github.com/szabgab/rust-digger/issues/89
 
 * [resource-bound](https://crates.io/crates/resource-bound)
     * 2026.01.16
-    * [chore: Fix the repository URL in Cargo.toml](https://github.com/oOp995/resource-bound/pull/1) - Waiting 🕰️
+    * [chore: Fix the repository URL in Cargo.toml](https://github.com/oOp995/resource-bound/pull/1) - Merged ✅
 
 * [ferrotype](https://crates.io/crates/ferrotype)
     * 2026.01.13
