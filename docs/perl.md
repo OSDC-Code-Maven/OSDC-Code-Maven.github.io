@@ -98,6 +98,15 @@ docker run -it --rm -v$(pwd):/opt --user ubuntu szabgab/perl bash
 
 * Eugen Konkov asked for help with PRs to [DBIx::Class](https://metacpan.org/pod/DBIx::Class).
 
+* [MIME-Lite](https://metacpan.org/dist/MIME-Lite) - Ricardo SIGNES (RJBS)
+    * 2026.01.24
+    * PR: [Add gitignore for some generated files](https://github.com/rjbs/MIME-Lite/pull/19) - Waiting 🕰️
+    * PR: [setup GitHub Actions to run the tests on every push and PR](https://github.com/rjbs/MIME-Lite/pull/18) - Waiting 🕰️
+    * Test Coverage: `cover -test -ignore Symdump.pm  -ignore Coverage.pm -ignore CountParents.pm -ignore Pod.pm -ignore Decoder.pm -ignore Encoder.pm`
+    * TODO: Increase test-coverage
+    * TODO: Split the packages to individual files.
+
+
 * [App-TimeTracker-Command-Jira](https://metacpan.org/dist/App-TimeTracker-Command-Jira) - Michael Kröll (PEPL)
     * The link to the repository was incorrect. I sent and email to Michael Kröll, the author, who pointed me to the correct repository.
     * The project uses Dist::Zilla and will insert the correct address during the next releases. - Waiting 🕰️
