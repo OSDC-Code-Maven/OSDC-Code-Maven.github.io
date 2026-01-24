@@ -98,27 +98,27 @@ docker run -it --rm -v$(pwd):/opt --user ubuntu szabgab/perl bash
 
 * Eugen Konkov asked for help with PRs to [DBIx::Class](https://metacpan.org/pod/DBIx::Class).
 
-* [App-TimeTracker-Command-Jira](https://metacpan.org/dist/App-TimeTracker-Command-Jira)
+* [App-TimeTracker-Command-Jira](https://metacpan.org/dist/App-TimeTracker-Command-Jira) - Michael Kröll (PEPL)
     * The link to the repository was incorrect. I sent and email to Michael Kröll, the author, who pointed me to the correct repository.
     * The project uses Dist::Zilla and will insert the correct address during the next releases. - Waiting 🕰️
     * PR: [Add GitHub Actions](https://github.com/Geizhals-Preisvergleich/App-TimeTracker-Jira/pull/5) - Merged ✅
 
-* [CPAN dashboard](https://cpandashboard.com/)
+* [CPAN dashboard](https://cpandashboard.com/) - Dave Cross (DAVECROSS)
     * 2026.01.20
     * [Remove Travis CI](https://github.com/PerlToolsTeam/dashboard/issues/105) - TODO 🎁
 
-* [Business-Westpac](https://metacpan.org/dist/Business-Westpac)
+* [Business-Westpac](https://metacpan.org/dist/Business-Westpac) - Lee Johnson (LEEJO)
     * 2026.01.20
     * PR: [Update bugtracker and repository URLs in Makefile.PL](https://github.com/leejo/business-westpac/pull/1) - Waiting 🕰️
     * PR: [chore: Add GitHub Actions](https://github.com/leejo/business-westpac/pull/2) - Waiting 🕰️
     * PR: [chore: remove generated files](https://github.com/leejo/business-westpac/pull/3) - Waiting 🕰️
 
-* [LaTeX-Driver](https://metacpan.org/dist/LaTeX-Driver)
+* [LaTeX-Driver](https://metacpan.org/dist/LaTeX-Driver) - Erik Huelsmann (EHUELS)
     * 2026.01.20
     * The tests run locally have some strange output Because of the lack of `makeindex`. - TODO 🎁
     * I started to setup GitHub Actions, but it failed. We might want to explore this in a meeting. - TODO 🎁
 
-* [XML-Easy](https://metacpan.org/dist/XML-Easy)
+* [XML-Easy](https://metacpan.org/dist/XML-Easy) - James E Keenan (JKEENAN)
     * 2026.01.14
     * [Add GitHub Actions to run the tests on every push](https://github.com/jkeenan/p5-XML-Easy/pull/10) - Merged ✅
 
@@ -133,45 +133,45 @@ docker run -it --rm -v$(pwd):/opt --user ubuntu szabgab/perl bash
     * Issue: [buster supports only up to perl 5.40 afterward bookworm is needed](https://github.com/Perl/docker-perl-tester/issues/87) - Waiting 🕰️ - TODO 🎁
     * PR: [Use slim-bookworm for perl 5.42 and later](https://github.com/Perl/docker-perl-tester/pull/89) - Waiting 🕰️
 
-* [DBIx-Class-Async](http://metacpan.org/release/DBIx-Class-Async)
+* [DBIx-Class-Async](http://metacpan.org/release/DBIx-Class-Async) - Mohammad Sajid Anwar  (MANWAR)
     * 2026.01.08
     * [Make Meta:CPAN link to GitHub issues](https://github.com/manwar/DBIx-Class-Async/pull/1) - Merged ✅
     * [gitignore some generated files](https://github.com/manwar/DBIx-Class-Async/pull/2) - Merged ✅
     * [Add GitHub Workflow and add test dependencies](https://github.com/manwar/DBIx-Class-Async/pull/3) - Merged ✅
 
-* [JQ-Lite]()
+* [JQ-Lite](https://metacpan.org/dist/JQ-Lite) - Kawamura Shingo (SHINGO)
     * 2026.01.08
     * During our meeting MANWAR created this PR:
     * [Small improvements to repository to satisfy Kwalite](https://github.com/kawamurashingo/JQ-Lite/pull/503) - Waiting 🕰️
 
-* [Doubly-Linked-PP](https://metacpan.org/dist/Doubly-Linked-PP)
+* [Doubly-Linked-PP](https://metacpan.org/dist/Doubly-Linked-PP) - Robert Acock (LNATION)
     * 2026.01.07
     * PR: [add meta-data to allow MetaCPAN to link to public repository](https://github.com/ThisUsedToBeAnEmail/Doubly-Linked/pull/1) - Merged ✅
 
-* [Net-Clacks](https://metacpan.org/dist/Net-Clacks)
+* [Net-Clacks](https://metacpan.org/dist/Net-Clacks) - Rene Schickbauer (CAVAC)
     * 2026.01.07
     * I sent an email to [Rene Schickbauer](https://github.com/cavac) - Waiting 🕰️
 
-* [MetaCPAN::Client](https://metacpan.org/pod/MetaCPAN::Client)
+* [MetaCPAN::Client](https://metacpan.org/pod/MetaCPAN::Client) - Mickey Nasriachi (MICKEY)
     * 2026.01.06
     * Issue: [Reference {"relation" => "eq","value" => 14646} did not pass type constraint "Int"](https://github.com/metacpan/MetaCPAN-Client/issues/130) - Fixed ✅
 
-* [Exception-Reporter-Summarizer-PlackRequest](https://metacpan.org/dist/Exception-Reporter-Summarizer-PlackRequest)
+* [Exception-Reporter-Summarizer-PlackRequest](https://metacpan.org/dist/Exception-Reporter-Summarizer-PlackRequest) - Matthew Horsfall (alh) (WOLFSAGE)
     * 2026.01.06
     * Issue: [Why is the repo not included in META.json?](https://github.com/wolfsage/Exception-Reporter-Summarizer-PlackRequest/issues/2) - Waiting 🕰️
 
-* [Geo-IP2Proxy](https://metacpan.org/dist/Geo-IP2Proxy)
+* [Geo-IP2Proxy](https://metacpan.org/dist/Geo-IP2Proxy) - IP2Location (LOCATION)
     * 2026.01.05
     * PR: [add meta-data to allow MetaCPAN to link to the repository](https://github.com/ip2location/ip2proxy-perl/pull/1) - Waiting 🕰️
 
-* [Common-CodingTools](https://metacpan.org/dist/Common-CodingTools)
+* [Common-CodingTools](https://metacpan.org/dist/Common-CodingTools) - Richard Kelsch (RKELSCH)
     * 2025.12.26
     * PR: [Add links to VCS](https://github.com/richcsst/Common-CodingTools/pull/1) - Waiting 🕰️
     * PR: [Add .gitignore](https://github.com/richcsst/Common-CodingTools/pull/2) - Waiting 🕰️
     * PR: [Add GitHub Actions](https://github.com/richcsst/Common-CodingTools/pull/3) - Waiting 🕰️
     * PR: [Add test](https://github.com/richcsst/Common-CodingTools/pull/4) - Waiting 🕰️
 
-* [JSON::Schema::Validate](https://metacpan.org/pod/JSON::Schema::Validate)
+* [JSON::Schema::Validate](https://metacpan.org/pod/JSON::Schema::Validate) - Jacques Deguest (JDEGUEST)
     * 2025.12.01
     * [Showcase: Localised JSON Schema validation in Perl](https://www.reddit.com/r/perl/comments/1p80dne/showcase_localised_json_schema_validation_in_perl/)
     * PR: [add .gitignore file](https://gitlab.com/jackdeguest/json-schema-validate/-/merge_requests/1) - Waiting 🕰️
@@ -179,48 +179,48 @@ docker run -it --rm -v$(pwd):/opt --user ubuntu szabgab/perl bash
     * [Open issue](https://gitlab.com/jackdeguest/json-schema-validate/-/issues/4)
     * Also check out the GitLab pipeline of the [Wanted module](https://gitlab.com/jackdeguest/Wanted/)
 
-* [SVG](https://metacpan.org/dist/SVG)
+* [SVG](https://metacpan.org/dist/SVG) - Mohammad Sajid Anwar (MANWAR) + Gabor Szabo (SZABGAB)
     * 2025.11.11
     * As I am a maintainer of this project I could commit and push directly:
     * [add a test case to check loading attributes and trying to load bad attribute](https://github.com/manwar/SVG/commit/7d459c311342172d6b06d189454dfc5760cfaa7d) ✅
     * [add a test case for creating new instance from an existing one](https://github.com/manwar/SVG/commits/master/) ✅
 
-* [Net-Async-Redis-XS](https://metacpan.org/dist/Net-Async-Redis-XS)
+* [Net-Async-Redis-XS](https://metacpan.org/dist/Net-Async-Redis-XS) - Tom Molesworth (TEAM)
     * 2022.12.02
     * Article: [Add GitHub Action CI to the Net-Async-Redis-XS Perl module](https://dev.to/szabgab/day-2-add-github-action-ci-to-the-net-async-redis-xs-perl-module-9oo)
     * PR: [Add GitHub Actions for CI](https://github.com/team-at-cpan/Net-Async-Redis-XS/pull/1) - Merged ✅
 
-* [Win32-Wlan](https://metacpan.org/dist/Win32-Wlan)
+* [Win32-Wlan](https://metacpan.org/dist/Win32-Wlan) - Max Maischein (CORION)
     * 2022.12.05
     * Article: [CI for Win32-Wlan Perl module](https://dev.to/szabgab/ci-for-win32-wlan-perl-module-2jnp)
     * PR: [Add GitHub Actions to run the tests on every push](https://github.com/Corion/Win32-Wlan/pull/4) - Merged ✅
 
-* [RDF::KV](https://metacpan.org/pod/RDF::KV)
+* [RDF::KV](https://metacpan.org/pod/RDF::KV) - Dorian Taylor (DORIAN)
     * 2022.12.07
     * Article: [Be pragmatic setting up CI for the RDF::KV](https://dev.to/szabgab/be-pragmatic-setting-up-ci-for-the-rdfkv-56kc)
     * PR: [Add GitHub Actions](https://github.com/doriantaylor/p5-rdf-kv/pull/3) - Waiting 🕰️
 
-* [Perl::Efl](https://metacpan.org/dist/pEFL)
+* [Perl::Efl](https://metacpan.org/dist/pEFL) - Maximilian Lika (PERLMAX)
     * 2022.12.08
     * Article: [Adding CI to Perl::Efl - sometimes you need to do some extra work](https://dev.to/szabgab/adding-ci-to-perlefl-sometimes-you-need-to-do-some-extra-work-i1d)
     * PR: [Add GitHub Actions](https://github.com/MaxPerl/Perl-Efl/pull/1) - Merged ✅
 
-* [Mojo-UserAgent-Cached](https://metacpan.org/dist/Mojo-UserAgent-Cached)
+* [Mojo-UserAgent-Cached](https://metacpan.org/dist/Mojo-UserAgent-Cached) - Nicolas Mendoza (NICOMEN)
     * 2022.12.09
     * Article: [CI for Mojo-UserAgent-Cached and Plack-Middleware-Greylist](https://dev.to/szabgab/day-9-ci-for-mojo-useragent-cached-and-plack-middleware-greylist-4b3p)
     * PR: [Add GitHub Actions](https://github.com/nicomen/mojo-useragent-cached/pull/6) - Merged ✅
 
-* [Plack-Middleware-Greylist](https://metacpan.org/dist/Plack-Middleware-Greylist)
+* [Plack-Middleware-Greylist](https://metacpan.org/dist/Plack-Middleware-Greylist) - Robert Rothenberg (RRWO)
     * 2022.12.09
     * Article: [CI for Mojo-UserAgent-Cached and Plack-Middleware-Greylist](https://dev.to/szabgab/day-9-ci-for-mojo-useragent-cached-and-plack-middleware-greylist-4b3p)
     * PR: [Add GitHub Actions](https://github.com/robrwo/Plack-Middleware-Greylist/pull/3) - Merged ✅
 
-* [Log::Any](https://metacpan.org/dist/Log-Any)
+* [Log::Any](https://metacpan.org/dist/Log-Any) - Doug Bell (PREACTION)
     * 2022.12.14
     * Article: [CI for the Log::Any Perl module](https://dev.to/szabgab/ci-for-the-logany-perl-module-5bl2)
     * PR: [Add GitHub Actions](https://github.com/preaction/Log-Any/pull/94) - Merged ✅
 
-* [Marpa::R2](https://metacpan.org/pod/Marpa::R2)
+* [Marpa::R2](https://metacpan.org/pod/Marpa::R2) - Jeffrey Kegler (JKEGL)
     * 2022.12.16
     * Article: [Moving from Travis-CI to GitHub Actions for Marpa::R2](https://dev.to/szabgab/day-16-moving-from-travis-ci-to-github-actions-for-marpar2-21cj)
     * Issue: [CI: Does Travis-CI still work for you?](https://github.com/jeffreykegler/Marpa--R2/issues/289)
@@ -228,17 +228,17 @@ docker run -it --rm -v$(pwd):/opt --user ubuntu szabgab/perl bash
     * Issue: [cpan/engine/read_only/tests/* files missing](https://github.com/jeffreykegler/Marpa--R2/issues/291)
     * PR: [Add GitHub Actions](https://github.com/jeffreykegler/Marpa--R2/pull/292) - Rejected ❌ (it will be setup later)
 
-* [Plack-Middleware-LogAny](https://metacpan.org/dist/Plack-Middleware-LogAny)
+* [Plack-Middleware-LogAny](https://metacpan.org/dist/Plack-Middleware-LogAny) - Sven Willenbuecher (SVW)
     * 2022.12.19
     * Article: [CI for Plack-Middleware-LogAny](https://dev.to/szabgab/day-19-ci-for-plack-middleware-logany-4f4i)
     * PR: [add github actions](https://github.com/XSven/Plack-Middleware-LogAny/pull/1) - Waiting 🕰️
 
-* [MIME-Types](https://metacpan.org/dist/MIME-Types)
+* [MIME-Types](https://metacpan.org/dist/MIME-Types) - Mark Overmeer (MARKOV)
     * 2022.12.24
     * Article: [CI for perl5-MIME-Type](https://dev.to/szabgab/day-24-ci-for-perl5-mime-types-1nf)
     * PR: [Add GitHub Actions](https://github.com/markov2/perl5-MIME-Types/pull/14) - Merged ✅
 
-* [Data::Alias](https://metacpan.org/dist/Data-Alias)
+* [Data::Alias](https://metacpan.org/dist/Data-Alias) - Matthijs van Duin (XMATH)
     * 2022.12.25
     * Article: [CI for Data::Alias in Perl - including threaded perl](https://dev.to/szabgab/day-25-ci-for-dataalias-in-perl-including-threaded-perl-5feh)
     * PR: [Add GitHub Actions](https://github.com/mvduin/perl-Data-Alias/pull/3) - Merged ✅
