@@ -80,6 +80,13 @@ This material is being used during the online events organized in the [Code-Mave
     * Add more tests - TODO 🎁
     * Learn: [build](https://pypi.org/project/build/) A simple, correct Python build frontend.
     * Learn: [twine](https://pypi.org/project/twine/) a utility for publishing Python packages on PyPI.
+    * 2026.01.23
+    * We used the Docker container to get test coverage:
+    * `pip install pytest-cov`
+    * `pytest --cov=factpages_py --cov-report html --cov-branch`
+    * It is 24%
+    * We tried to call the `field_summary` method in `analysis.py` without success.
+    * Issue: [How to call field_summary in analysis.py ?](https://github.com/kkollsga/factpages-py/issues/3)
 
 * [scikit-learn](https://scikit-learn.org/)
     * 2026.01.11
