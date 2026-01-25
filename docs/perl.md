@@ -96,11 +96,18 @@ docker run -it --rm -v$(pwd):/opt --user ubuntu szabgab/perl bash
 
 ## Projects
 
-* Eugen Konkov asked for help with PRs to [DBIx::Class](https://metacpan.org/pod/DBIx::Class).
+* TODO: Eugen Konkov asked for help with PRs to [DBIx::Class](https://metacpan.org/pod/DBIx::Class).
+* TODO: [mojoeye](https://github.com/GwynDavies/mojoeye)
+
+* [CtrlO-PDF](https://metacpan.org/dist/CtrlO-PDF) - Andrew Beverley (ABEVERLEY)
+    * 2026.01.25
+    * PR: [chore: add GitHub Actions to run the tests on every push](https://github.com/ctrlo/CtrlO-PDF/pull/11) - Waiting 🕰️
+    * PR: [Extend the test to compare the PDF to an earlier version of the generated file](https://github.com/ctrlo/CtrlO-PDF/pull/13) - Waiting 🕰️
+    * Issue: [Can't use an undefined value as an ARRAY reference](https://github.com/ctrlo/CtrlO-PDF/issues/12) - Waiting 🕰️
 
 * [JSON-Lines](https://metacpan.org/dist/JSON-Lines)
     * 2026.01.24
-    * [Add CI workflow for Perl testing](https://github.com/ThisUsedToBeAnEmail/JSON-Lines/pull/4) by Jonathan  - Waiting 🕰️
+    * PR: [Add CI workflow for Perl testing](https://github.com/ThisUsedToBeAnEmail/JSON-Lines/pull/4) by Jonathan - Waiting 🕰️
 
 * [Protocol-Sys-Virt](https://metacpan.org/dist/Protocol-Sys-Virt) - Erik Huelsmann (EHUELS)
     * 2026.01.24
