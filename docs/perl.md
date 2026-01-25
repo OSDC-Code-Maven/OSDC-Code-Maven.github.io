@@ -98,13 +98,24 @@ docker run -it --rm -v$(pwd):/opt --user ubuntu szabgab/perl bash
 
 * Eugen Konkov asked for help with PRs to [DBIx::Class](https://metacpan.org/pod/DBIx::Class).
 
+* [JSON-Lines](https://metacpan.org/dist/JSON-Lines)
+    * 2026.01.24
+    * [Add CI workflow for Perl testing](https://github.com/ThisUsedToBeAnEmail/JSON-Lines/pull/4) by Jonathan  - Waiting 🕰️
+
+* [Protocol-Sys-Virt](https://metacpan.org/dist/Protocol-Sys-Virt) - Erik Huelsmann (EHUELS)
+    * 2026.01.24
+    * Issue: [Warning during tests](https://github.com/ehuelsmann/perl-protocol-sys-virt/issues/1) - Fixed ✅
+    * PR: [Add CI workflow for Perl testing](https://github.com/ehuelsmann/perl-protocol-sys-virt/pull/2) by Peter Nilsson - Merged ✅
+
 * [MIME-Lite](https://metacpan.org/dist/MIME-Lite) - Ricardo SIGNES (RJBS)
     * 2026.01.24
     * PR: [Add gitignore for some generated files](https://github.com/rjbs/MIME-Lite/pull/19) - Waiting 🕰️
     * PR: [setup GitHub Actions to run the tests on every push and PR](https://github.com/rjbs/MIME-Lite/pull/18) - Waiting 🕰️
-    * Test Coverage: `cover -test -ignore Symdump.pm  -ignore Coverage.pm -ignore CountParents.pm -ignore Pod.pm -ignore Decoder.pm -ignore Encoder.pm`
+    * Test Coverage: `cover -test`
+    * TODO: shall we remove the `fold` function?
     * TODO: Increase test-coverage
     * TODO: Split the packages to individual files.
+    * TODO: remove the `#!/usr/bin/perl` line from the tests
 
 
 * [App-TimeTracker-Command-Jira](https://metacpan.org/dist/App-TimeTracker-Command-Jira) - Michael Kröll (PEPL)
