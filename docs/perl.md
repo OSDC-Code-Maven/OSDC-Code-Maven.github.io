@@ -1,13 +1,20 @@
 # Perl
 
+* [Events](#events)
+* [Chat](#chat)
+* [How to select a Perl project to contribute to?](#how-to-select-a-perl-project-to-contribute-to)
+* [What and how to contribute to a Python project?](#what-and-how-to-contribute-to-a-perl-project)
+* [Project reports](#project-reports)
+
 ## Events
 
 This material is being used during the events organized in the [Perl-Maven](https://luma.com/perl-maven) group.
 
 ## Chat
 
-* [OSDC Zulip](https://osdc.zulipchat.com/)
-
+* [Zulip](https://osdc.zulipchat.com/)
+* [WhatsApp](https://chat.whatsapp.com/LRrkZsSRDvGLLwppyLnKHy)
+* [Telegram](https://t.me/PerlMaven)
 
 ## How to select a Perl project to contribute to?
 
@@ -94,7 +101,7 @@ docker run -it --rm -v$(pwd):/opt  perldocker/perl-tester:5.42 bash
 docker run -it --rm -v$(pwd):/opt --user ubuntu szabgab/perl bash
 ```
 
-## Projects
+## Project reports
 
 * TODO: Eugen Konkov asked for help with PRs to [DBIx::Class](https://metacpan.org/pod/DBIx::Class).
 * TODO: [mojoeye](https://github.com/GwynDavies/mojoeye)
