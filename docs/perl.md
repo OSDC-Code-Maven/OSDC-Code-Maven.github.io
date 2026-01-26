@@ -106,6 +106,14 @@ docker run -it --rm -v$(pwd):/opt --user ubuntu szabgab/perl bash
 * TODO: Eugen Konkov asked for help with PRs to [DBIx::Class](https://metacpan.org/pod/DBIx::Class).
 * TODO: [mojoeye](https://github.com/GwynDavies/mojoeye)
 
+* [Algorithm-SlidingWindow](https://metacpan.org/dist/Algorithm-SlidingWindow) - Joshua S. Day (HAX)
+    * 2026.01.26
+    * PR: [chore: Make sure the META.json gets the data during release](https://github.com/haxmeister/perl-algorithm-slidingwindow/pull/1) - Waiting 🕰️
+
+* [XML-Sig-OO](https://metacpan.org/dist/XML-Sig-OO) - Michael Shipper (AKALINUX)
+    * 2026.01.26
+    * PR: [chore: Make sure the META.json gets the data during release](https://github.com/akalinux/xml-sig-oo/pull/3) - Waiting 🕰️
+
 * [CtrlO-PDF](https://metacpan.org/dist/CtrlO-PDF) - Andrew Beverley (ABEVERLEY)
     * 2026.01.25
     * PR: [chore: add GitHub Actions to run the tests on every push](https://github.com/ctrlo/CtrlO-PDF/pull/11) - Merged ✅
