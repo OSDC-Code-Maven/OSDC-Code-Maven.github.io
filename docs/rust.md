@@ -116,6 +116,18 @@ More explanation: https://github.com/szabgab/rust-digger/issues/89
 
 ## Projects
 
+* [spyne](https://crates.io/crates/spyne) - Zaid Ahmed (ZA1815)
+    * 2026.01.26
+    * PR: [chore: Add repository URL to Cargo.toml](https://github.com/ZA1815/spyne/pull/1) - Waiting 🕰️
+    * Issue: [unresolved imports crate::serialization::serialize](https://github.com/ZA1815/spyne/issues/2) - Waiting 🕰️
+    * PR: [Fix the capitalization of some names in the test](https://github.com/ZA1815/spyne/pull/3) - Waiting 🕰️
+    * PR: [Add basic GitHub Actions to run the tests on every push and every pull-request](https://github.com/ZA1815/spyne/pull/4) - Waiting 🕰️
+
+* [kftray-helper](https://crates.io/crates/kftray-helper) - Henrique Cavarsan (hcavarsan)
+    * 2026.01.26
+    * PR: [Add repository field to Cargo.toml](https://github.com/hcavarsan/kftray/pull/560) by skht - Waiting 🕰️
+    * Learn: [llvm-cov](https://crates.io/crates/cargo-llvm-cov) for test coverage
+
 * [csv](https://crates.io/crates/csv)
     * 2026.01.18
     * Issue: [Remove Travis from the repository](https://github.com/BurntSushi/rust-csv/issues/418) - Waiting 🕰️
