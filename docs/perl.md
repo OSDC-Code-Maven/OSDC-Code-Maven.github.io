@@ -101,9 +101,10 @@ docker run -it --rm -v$(pwd):/opt --user ubuntu szabgab/perl bash
 
 * [CtrlO-PDF](https://metacpan.org/dist/CtrlO-PDF) - Andrew Beverley (ABEVERLEY)
     * 2026.01.25
-    * PR: [chore: add GitHub Actions to run the tests on every push](https://github.com/ctrlo/CtrlO-PDF/pull/11) - Waiting 🕰️
-    * PR: [Extend the test to compare the PDF to an earlier version of the generated file](https://github.com/ctrlo/CtrlO-PDF/pull/13) - Waiting 🕰️
+    * PR: [chore: add GitHub Actions to run the tests on every push](https://github.com/ctrlo/CtrlO-PDF/pull/11) - Merged ✅
+    * PR: [Extend the test to compare the PDF to an earlier version of the generated file](https://github.com/ctrlo/CtrlO-PDF/pull/13) - Merged ✅
     * Issue: [Can't use an undefined value as an ARRAY reference](https://github.com/ctrlo/CtrlO-PDF/issues/12) - Waiting 🕰️
+    * TODO: Add more tests!
 
 * [JSON-Lines](https://metacpan.org/dist/JSON-Lines)
     * 2026.01.24
@@ -124,11 +125,11 @@ docker run -it --rm -v$(pwd):/opt --user ubuntu szabgab/perl bash
     * TODO: Split the packages to individual files.
     * TODO: remove the `#!/usr/bin/perl` line from the tests
 
-
 * [App-TimeTracker-Command-Jira](https://metacpan.org/dist/App-TimeTracker-Command-Jira) - Michael Kröll (PEPL)
     * The link to the repository was incorrect. I sent and email to Michael Kröll, the author, who pointed me to the correct repository.
     * The project uses Dist::Zilla and will insert the correct address during the next releases. - Waiting 🕰️
     * PR: [Add GitHub Actions](https://github.com/Geizhals-Preisvergleich/App-TimeTracker-Jira/pull/5) - Merged ✅
+    * Issue: [Deprecated dzil plugins](https://github.com/Geizhals-Preisvergleich/App-TimeTracker-Jira/issues/6) - Fixed ✅
 
 * [CPAN dashboard](https://cpandashboard.com/) - Dave Cross (DAVECROSS)
     * 2026.01.20
