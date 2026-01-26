@@ -121,14 +121,14 @@ docker run -it --rm -v$(pwd):/opt --user ubuntu szabgab/perl bash
     * 2026.01.24
     * Issue: [Warning during tests](https://github.com/ehuelsmann/perl-protocol-sys-virt/issues/1) - Fixed ✅
     * PR: [Add CI workflow for Perl testing](https://github.com/ehuelsmann/perl-protocol-sys-virt/pull/2) by Peter Nilsson - Merged ✅
-    * [Video recordings](https://perlmaven.com/meta-data-and-github-actions-video)
+    * [Video recordings](https://perlmaven.com/meta-data-and-github-actions-video) 🎦
 
 * [MIME-Lite](https://metacpan.org/dist/MIME-Lite) - Ricardo SIGNES (RJBS)
     * 2026.01.24
     * PR: [setup GitHub Actions to run the tests on every push and PR](https://github.com/rjbs/MIME-Lite/pull/18) - Waiting 🕰️
     * PR: [Add gitignore for some generated files](https://github.com/rjbs/MIME-Lite/pull/19) - Waiting 🕰️
     * PR: [Add test case with long subject line](https://github.com/rjbs/MIME-Lite/pull/20) - Waiting 🕰️
-    * [Video recordings](https://perlmaven.com/testing-mime-lite-video)
+    * [Video recordings](https://perlmaven.com/testing-mime-lite-video) 🎦
     * Test Coverage: `cover -test`
     * TODO: shall we remove the `fold` function?
     * TODO: Increase test-coverage
