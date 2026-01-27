@@ -12,6 +12,7 @@ This material is being used during the events organized in the [Code-Mavens](htt
 ## Chat
 
 * [OSDC Zulip](https://osdc.zulipchat.com/)
+* [Telegram](https://t.me/RustMaven)
 
 
 ## How to select a Rust project to contribute to?
@@ -119,13 +120,14 @@ More explanation: https://github.com/szabgab/rust-digger/issues/89
 * [spyne](https://crates.io/crates/spyne) - Zaid Ahmed (ZA1815)
     * 2026.01.26
     * PR: [chore: Add repository URL to Cargo.toml](https://github.com/ZA1815/spyne/pull/1) - Waiting 🕰️
+    * [Video recordings](https://rust.code-maven.com/adding-repository-to-cargo-toml-video)
     * Issue: [unresolved imports crate::serialization::serialize](https://github.com/ZA1815/spyne/issues/2) - Waiting 🕰️
     * PR: [Fix the capitalization of some names in the test](https://github.com/ZA1815/spyne/pull/3) - Waiting 🕰️
     * PR: [Add basic GitHub Actions to run the tests on every push and every pull-request](https://github.com/ZA1815/spyne/pull/4) - Waiting 🕰️
 
 * [kftray-helper](https://crates.io/crates/kftray-helper) - Henrique Cavarsan (hcavarsan)
     * 2026.01.26
-    * PR: [Add repository field to Cargo.toml](https://github.com/hcavarsan/kftray/pull/560) by skht - Waiting 🕰️
+    * PR: [Add repository field to Cargo.toml](https://github.com/hcavarsan/kftray/pull/560) by Karol Skorek (skht) - Waiting 🕰️
     * Learn: [llvm-cov](https://crates.io/crates/cargo-llvm-cov) for test coverage
 
 * [csv](https://crates.io/crates/csv)
