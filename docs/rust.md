@@ -127,7 +127,8 @@ More explanation: https://github.com/szabgab/rust-digger/issues/89
 
 * [kftray-helper](https://crates.io/crates/kftray-helper) - Henrique Cavarsan (hcavarsan)
     * 2026.01.26
-    * PR: [Add repository field to Cargo.toml](https://github.com/hcavarsan/kftray/pull/560) by Karol Skorek (skht) - Waiting 🕰️
+    * PR: [Add repository field to Cargo.toml](https://github.com/hcavarsan/kftray/pull/560) by Karol Skorek (skht) - Merged ✅
+    * [Video recordings](https://rust.code-maven.com/adding-repository-to-cargo-toml-video)
     * Learn: [llvm-cov](https://crates.io/crates/cargo-llvm-cov) for test coverage
 
 * [csv](https://crates.io/crates/csv)
