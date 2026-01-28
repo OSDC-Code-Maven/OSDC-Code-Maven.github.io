@@ -1,4 +1,4 @@
-# Welcome to OSDC
+# OSDC
 
 The goal of our project is to help you get started working on Open Source projects.
 
