@@ -119,11 +119,11 @@ More explanation: https://github.com/szabgab/rust-digger/issues/89
 
 * [spyne](https://crates.io/crates/spyne) - Zaid Ahmed (ZA1815)
     * 2026.01.26
-    * PR: [chore: Add repository URL to Cargo.toml](https://github.com/ZA1815/spyne/pull/1) - Waiting 🕰️
+    * PR: [chore: Add repository URL to Cargo.toml](https://github.com/ZA1815/spyne/pull/1) - rejected ❌ - no comment
     * [Video recordings](https://rust.code-maven.com/adding-repository-to-cargo-toml-video)
-    * Issue: [unresolved imports crate::serialization::serialize](https://github.com/ZA1815/spyne/issues/2) - Waiting 🕰️
-    * PR: [Fix the capitalization of some names in the test](https://github.com/ZA1815/spyne/pull/3) - Waiting 🕰️
-    * PR: [Add basic GitHub Actions to run the tests on every push and every pull-request](https://github.com/ZA1815/spyne/pull/4) - Waiting 🕰️
+    * Issue: [unresolved imports crate::serialization::serialize](https://github.com/ZA1815/spyne/issues/2) - Fixed ✅
+    * PR: [Fix the capitalization of some names in the test](https://github.com/ZA1815/spyne/pull/3) - rejected ❌ - no comment
+    * PR: [Add basic GitHub Actions to run the tests on every push and every pull-request](https://github.com/ZA1815/spyne/pull/4) - rejected ❌ - no comment
 
 * [kftray-helper](https://crates.io/crates/kftray-helper) - Henrique Cavarsan (hcavarsan)
     * 2026.01.26
