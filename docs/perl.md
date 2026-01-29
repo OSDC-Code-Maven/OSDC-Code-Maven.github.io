@@ -4,6 +4,7 @@
 * [Chat](#chat)
 * [How to select a Perl project to contribute to?](#how-to-select-a-perl-project-to-contribute-to)
 * [What and how to contribute to a Python project?](#what-and-how-to-contribute-to-a-perl-project)
+* [TODO](#todo)
 * [Project reports](#project-reports)
 
 ## Events
@@ -101,12 +102,24 @@ docker run -it --rm -v$(pwd):/opt  perldocker/perl-tester:5.42 bash
 docker run -it --rm -v$(pwd):/opt --user ubuntu szabgab/perl bash
 ```
 
-## Project reports
+## TODO
 
-* TODO: Eugen Konkov asked for help with PRs to [DBIx::Class](https://metacpan.org/pod/DBIx::Class).
-* TODO: [mojoeye](https://github.com/GwynDavies/mojoeye)
-* TODO: [Michael R. Davis (MRDVT)](https://metacpan.org/author/MRDVT) mentioned his modules: [Geo::H3](https://metacpan.org/pod/Geo::H3) and [Geo::H3::FFI](https://metacpan.org/pod/Geo::H3::FFI)
-* TODO: MetaCPAN: [How to see the changes after updating the profile?](https://github.com/metacpan/metacpan-web/issues/3499)
+If a project we already worked on accepted our PRs we might want to do more.
+For some I even added the word TODO to make it easier to find them.
+
+In addition I asked around in various Perl-related groups and some people asked for help. I am collecting these here so we can decide what to work on.
+
+* Eugen Konkov asked for help with PRs to [DBIx::Class](https://metacpan.org/pod/DBIx::Class) and some other modules
+    * [DBIx::Class](https://github.com/Perl5/DBIx-Class/pulls/KES777)
+    * [SQL::Translator](https://github.com/dbsrgits/sql-translator/pulls/KES777)
+* Avi Shai "Veesh" Goldman suggested [DBIx-QuickORM](https://metacpan.org/dist/DBIx-QuickORM) as a potential alternative to DBIx::Class.
+* [mojoeye](https://github.com/GwynDavies/mojoeye)
+* [Michael R. Davis (MRDVT)](https://metacpan.org/author/MRDVT) mentioned his modules: [Geo::H3](https://metacpan.org/pod/Geo::H3) and [Geo::H3::FFI](https://metacpan.org/pod/Geo::H3::FFI)
+* MetaCPAN: [How to see the changes after updating the profile?](https://github.com/metacpan/metacpan-web/issues/3499)
+* Gabor Kiss suggested [Future](https://metacpan.org/pod/Future), [Future::AsyncAwait](https://metacpan.org/pod/Future::AsyncAwait), and companion.
+
+
+## Project reports
 
 * [Algorithm-SlidingWindow](https://metacpan.org/dist/Algorithm-SlidingWindow) - Joshua S. Day (HAX)
     * 2026.01.26
