@@ -117,7 +117,9 @@ In addition I asked around in various Perl-related groups and some people asked 
 * [Michael R. Davis (MRDVT)](https://metacpan.org/author/MRDVT) mentioned his modules: [Geo::H3](https://metacpan.org/pod/Geo::H3) and [Geo::H3::FFI](https://metacpan.org/pod/Geo::H3::FFI)
 * MetaCPAN: [How to see the changes after updating the profile?](https://github.com/metacpan/metacpan-web/issues/3499)
 * Gabor Kiss suggested [Future](https://metacpan.org/pod/Future), [Future::AsyncAwait](https://metacpan.org/pod/Future::AsyncAwait), and companion.
-* Jeannette Fulbright suggested[Tk::DynaTabFrame](https://metacpan.org/pod/Tk::DynaTabFrame) "The navigation between tabs by either tab key or arrow keys does not work correctly."
+* Jeannette Fulbright suggested [Tk::DynaTabFrame](https://metacpan.org/pod/Tk::DynaTabFrame) "The navigation between tabs by either tab key or arrow keys does not work correctly."
+* Lester Hightower suggested [ReadonlyX](https://metacpan.org/pod/ReadonlyX) "You may like digging into the internals of that module, and looking at how it calls Internals::SvREADONLY()." It has an incorrect link to its repo. The correct one seems to be [this repo](https://github.com/sanko/Readonly-XS) and it is archived.
+* Rangana Withanage suggested [Params::Validate](https://metacpan.org/pod/Params::Validate)
 
 
 ## Project reports
