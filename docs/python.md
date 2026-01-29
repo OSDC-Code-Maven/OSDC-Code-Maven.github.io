@@ -77,7 +77,6 @@ This material is being used during the online events organized in the [Code-Mave
     * 2026.01.20
     * Issue: [Readme has some slightly confusing info](https://github.com/kkollsga/factpages-py/issues/1) - Closed ✅
     * PR: [Add some tests based on the documentation](https://github.com/kkollsga/factpages-py/pull/2) - Merged ✅
-    * Add more tests - TODO 🎁
     * Learn: [build](https://pypi.org/project/build/) A simple, correct Python build frontend.
     * Learn: [twine](https://pypi.org/project/twine/) a utility for publishing Python packages on PyPI.
     * 2026.01.23
@@ -86,7 +85,8 @@ This material is being used during the online events organized in the [Code-Mave
     * `pytest --cov=factpages_py --cov-report html --cov-branch`
     * It is 24%
     * We tried to call the `field_summary` method in `analysis.py` without success.
-    * Issue: [How to call field_summary in analysis.py ?](https://github.com/kkollsga/factpages-py/issues/3)
+    * Issue: [How to call field_summary in analysis.py ?](https://github.com/kkollsga/factpages-py/issues/3) - Implemented ✅
+    * Add more tests - TODO 🎁
 
 * [scikit-learn](https://scikit-learn.org/)
     * 2026.01.11
@@ -127,6 +127,15 @@ This material is being used during the online events organized in the [Code-Mave
     * Learn: [stefanzweifel/git-auto-commit-action](https://github.com/stefanzweifel/git-auto-commit-action)
     * Learn: [softprops/action-gh-release](https://github.com/softprops/action-gh-release)
     * Learn: [pypa/gh-action-pypi-publish](https://github.com/pypa/gh-action-pypi-publish)
+
+* [conventional-pre-commit](https://github.com/compilerla/conventional-pre-commit)
+    * 2025.11.20
+    * [git/COMMIT_EDITMSG: error Subject should be capitalized but found chore:](https://github.com/compilerla/conventional-pre-commit/issues/142) - TODO 🎁
+
+* [Biopython](https://biopython.org/)
+    * 2025.10.24
+    * [Add type annotations](https://github.com/biopython/biopython/pull/5087) - TODO 🎁
+    * [chore: add type annotation to Bio/File.py](https://github.com/biopython/biopython/pull/5088) - TODO 🎁
 
 * [MoreBeautifulPython](https://github.com/sudongqi/MoreBeautifulPython)
     * 2022.12.01
@@ -222,9 +231,6 @@ This material is being used during the online events organized in the [Code-Mave
 * [plotly](https://plotly.com/python/)
 * [bokeh](https://bokeh.org/)
 
-## Semi specialized
-
-* [Biopython](https://biopython.org/)
 
 ## Specialized
 

@@ -117,6 +117,7 @@ In addition I asked around in various Perl-related groups and some people asked 
 * [Michael R. Davis (MRDVT)](https://metacpan.org/author/MRDVT) mentioned his modules: [Geo::H3](https://metacpan.org/pod/Geo::H3) and [Geo::H3::FFI](https://metacpan.org/pod/Geo::H3::FFI)
 * MetaCPAN: [How to see the changes after updating the profile?](https://github.com/metacpan/metacpan-web/issues/3499)
 * Gabor Kiss suggested [Future](https://metacpan.org/pod/Future), [Future::AsyncAwait](https://metacpan.org/pod/Future::AsyncAwait), and companion.
+* Jeannette Fulbright suggested[Tk::DynaTabFrame](https://metacpan.org/pod/Tk::DynaTabFrame) "The navigation between tabs by either tab key or arrow keys does not work correctly."
 
 
 ## Project reports
@@ -127,7 +128,7 @@ In addition I asked around in various Perl-related groups and some people asked 
 
 * [XML-Sig-OO](https://metacpan.org/dist/XML-Sig-OO) - Michael Shipper (AKALINUX)
     * 2026.01.26
-    * PR: [chore: Make sure the META.json gets the data during release](https://github.com/akalinux/xml-sig-oo/pull/3) - Waiting 🕰️
+    * PR: [chore: Make sure the META.json gets the data during release](https://github.com/akalinux/xml-sig-oo/pull/3) - Merged ✅
 
 * [CtrlO-PDF](https://metacpan.org/dist/CtrlO-PDF) - Andrew Beverley (ABEVERLEY)
     * 2026.01.25
@@ -188,11 +189,11 @@ In addition I asked around in various Perl-related groups and some people asked 
     * Issue: [Update text on Docker HUB](https://github.com/Perl/docker-perl-tester/issues/83) - Waiting 🕰️
     * Issue: [Add threaded perl](https://github.com/Perl/docker-perl-tester/issues/84) - Waiting 🕰️  - TODO 🎁
     * 2026.01.20
-    * Issue: [Adding more Dist::Zilla plugins](https://github.com/Perl/docker-perl-tester/issues/85) - Waiting 🕰️ - TODO 🎁
+    * Issue: [Adding more Dist::Zilla plugins](https://github.com/Perl/docker-perl-tester/issues/85) - Done ✅
     * PR: [add Dist::Zilla::Plugin::CopyReadmeFromBuild](https://github.com/Perl/docker-perl-tester/pull/86) - Merged ✅
     * PR: [add Dist::Zilla::Plugin::HasVersionTests](https://github.com/Perl/docker-perl-tester/pull/88) - Merged ✅
     * Issue: [buster supports only up to perl 5.40 afterward bookworm is needed](https://github.com/Perl/docker-perl-tester/issues/87) - Waiting 🕰️ - TODO 🎁
-    * PR: [Use slim-bookworm for perl 5.42 and later](https://github.com/Perl/docker-perl-tester/pull/89) - Waiting 🕰️
+    * PR: [Use slim-bookworm for perl 5.42 and later](https://github.com/Perl/docker-perl-tester/pull/89) - Merged ✅
 
 * [DBIx-Class-Async](http://metacpan.org/release/DBIx-Class-Async) - Mohammad Sajid Anwar  (MANWAR)
     * 2026.01.08

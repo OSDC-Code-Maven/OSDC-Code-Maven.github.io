@@ -114,6 +114,7 @@ To make it easier for potential contributors and automated tools to find the rep
 More explanation: https://github.com/szabgab/rust-digger/issues/89
 ```
 
+## TODO
 
 ## Projects
 
@@ -198,6 +199,22 @@ More explanation: https://github.com/szabgab/rust-digger/issues/89
     * PR: [run cargo fmt --check in the CI](https://github.com/ahmadbky/mkenv/pull/8) - Merged ✅
     * PR: [add dependabot to send PRs when new version of the actions or the crates are available](https://github.com/ahmadbky/mkenv/pull/9) - Merged ✅
     * PR: [run cargo clippy in the CI](https://github.com/ahmadbky/mkenv/pull/11) - Waiting 🕰️
+
+* [axum](https://crates.io/crates/axum)
+    * 2025.03.12
+    * [Help with the basics of deployment](https://github.com/tokio-rs/axum/discussions/3561) - TODO 🎁 Read this!
+    * [Add test to chat example](https://github.com/tokio-rs/axum/pull/3278) - TODO 🎁 - review
+    * [Improving the examples - adding tests](https://github.com/tokio-rs/axum/issues/3263) - TODO 🎁
+    * [[test] the static-file-server example](https://github.com/tokio-rs/axum/pull/3297) - TODO 🎁
+
+* [anndata](https://github.com/scverse/anndata)
+    * 2025.11.20
+    * [Add type-checking](https://github.com/scverse/anndata/pull/2174) - TODO 🎁
+    * [How to generate test coverage report?](https://github.com/scverse/anndata/issues/2233) - TODO 🎁
+
+* [mdbook](https://crates.io/crates/mdbook)
+    * [Remove index.html suffix](https://github.com/rust-lang/mdBook/issues/1251) - TODO 🎁
+    * [Include `*.ipynb` files and not only `*.md` files](https://github.com/rust-lang/mdBook/issues/2480) - TODO 🎁
 
 * Issue with lots of PRs:
     * [Send PRs to remove www from the github url of the repository in Cargo.toml](https://github.com/szabgab/rust-digger/issues/96)
