@@ -105,6 +105,7 @@ docker run -it --rm -v$(pwd):/opt --user ubuntu szabgab/perl bash
 
 * TODO: Eugen Konkov asked for help with PRs to [DBIx::Class](https://metacpan.org/pod/DBIx::Class).
 * TODO: [mojoeye](https://github.com/GwynDavies/mojoeye)
+* TODO: [Michael R. Davis (MRDVT)](https://metacpan.org/author/MRDVT) mentioned his modules: [Geo::H3](https://metacpan.org/pod/Geo::H3) and [Geo::H3::FFI](https://metacpan.org/pod/Geo::H3::FFI)
 
 * [Algorithm-SlidingWindow](https://metacpan.org/dist/Algorithm-SlidingWindow) - Joshua S. Day (HAX)
     * 2026.01.26
