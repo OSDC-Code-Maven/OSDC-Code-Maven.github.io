@@ -132,6 +132,12 @@ In addition I asked around in various Perl-related groups and some people asked 
 
 ## Project reports
 
+* [Crypt-OpenSSL-RSA](https://metacpan.org/dist/Crypt-OpenSSL-RSA) - Todd Rinaldo (TODDR)
+    * 2026.01.30
+    * PR: [Remove debian:buster from the CI](https://github.com/cpan-authors/Crypt-OpenSSL-RSA/pull/69) - Waiting 🕰️
+    * PR: [Add dependabot](https://github.com/cpan-authors/Crypt-OpenSSL-RSA/pull/70) - Waiting 🕰️
+    * PR: [Separate the apt-get and the yum steps in the CI](https://github.com/cpan-authors/Crypt-OpenSSL-RSA/pull/71) - Waiting 🕰️
+
 * [Algorithm-SlidingWindow](https://metacpan.org/dist/Algorithm-SlidingWindow) - Joshua S. Day (HAX)
     * 2026.01.26
     * PR: [chore: Make sure the META.json gets the data during release](https://github.com/haxmeister/perl-algorithm-slidingwindow/pull/1) - Waiting 🕰️
