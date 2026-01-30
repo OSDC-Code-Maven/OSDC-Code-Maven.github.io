@@ -151,6 +151,8 @@ In addition I asked around in various Perl-related groups and some people asked 
     * PR: [chore: add GitHub Actions to run the tests on every push](https://github.com/ctrlo/CtrlO-PDF/pull/11) - Merged ✅
     * PR: [Extend the test to compare the PDF to an earlier version of the generated file](https://github.com/ctrlo/CtrlO-PDF/pull/13) - Merged ✅
     * Issue: [Can't use an undefined value as an ARRAY reference](https://github.com/ctrlo/CtrlO-PDF/issues/12) - Waiting 🕰️
+    * 2026.01.30
+    * PR: [Add test that adds a logo](https://github.com/ctrlo/CtrlO-PDF/pull/14) - Waiting 🕰️
     * TODO: Add more tests!
 
 * [JSON-Lines](https://metacpan.org/dist/JSON-Lines)
