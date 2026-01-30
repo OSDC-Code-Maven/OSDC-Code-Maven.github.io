@@ -4,6 +4,7 @@
 * [Chat](#chat)
 * [How to select a Perl project to contribute to?](#how-to-select-a-perl-project-to-contribute-to)
 * [What and how to contribute to a Python project?](#what-and-how-to-contribute-to-a-perl-project)
+* [Tools](#tools)
 * [TODO](#todo)
 * [Project reports](#project-reports)
 
@@ -96,6 +97,12 @@ This material is being used during the events organized in the [Perl-Maven](http
 See also [this issue](https://github.com/OSDC-Code-Maven/OSDC-Code-Maven.github.io/issues/5) about the goals.
 
 ## Tools
+
+* GitHub Action: [perl-actions/install-with-cpm](https://github.com/perl-actions/install-with-cpm)
+* GitHub Action: [perl-actions/perl-versions](https://github.com/perl-actions/perl-versions)
+* GitHub Action: [shogo82148/actions-setup-perl](https://github.com/shogo82148/actions-setup-perl)
+* Docker: [perldocker/perl-tester](https://hub.docker.com/r/perldocker/perl-tester/) - [source](https://github.com/Perl/docker-perl-tester)
+* Docker: [szabgab/perl](https://hub.docker.com/r/szabgab/perl/) - [source](https://github.com/szabgab/perl-docker-on-ubuntu/)
 
 ```
 docker run -it --rm -v$(pwd):/opt  perldocker/perl-tester:5.42 bash
