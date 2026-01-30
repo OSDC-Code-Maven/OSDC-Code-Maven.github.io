@@ -120,6 +120,7 @@ In addition I asked around in various Perl-related groups and some people asked 
 * Jeannette Fulbright suggested [Tk::DynaTabFrame](https://metacpan.org/pod/Tk::DynaTabFrame) "The navigation between tabs by either tab key or arrow keys does not work correctly."
 * Lester Hightower suggested [ReadonlyX](https://metacpan.org/pod/ReadonlyX) "You may like digging into the internals of that module, and looking at how it calls Internals::SvREADONLY()." It has an incorrect link to its repo. The correct one seems to be [this repo](https://github.com/sanko/Readonly-XS) and it is archived.
 * Rangana Withanage suggested [Params::Validate](https://metacpan.org/pod/Params::Validate)
+* [Test::HTML::Tidy](https://metacpan.org/pod/Test::HTML::Tidy) needs [HTML::Tidy](https://metacpan.org/pod/HTML::Tidy) that needs [tidyp](https://github.com/petdance/tidyp). The repository of the latter 2 were archived. The first one does not even have a repo. Let's figure out what to do - if anything - with this.
 
 
 ## Project reports
