@@ -132,6 +132,10 @@ In addition I asked around in various Perl-related groups and some people asked 
 
 ## Project reports
 
+* [Term::ANSIEncode](https://metacpan.org/pod/Term::ANSIEncode) - Richard Kelsch (RKELSCH)
+    * 2026.02.01
+    * PR: [chore: Add META data](https://github.com/richcsst/ansi-encode/pull/1) - Waiting 🕰️
+
 * [Crypt-OpenSSL-RSA](https://metacpan.org/dist/Crypt-OpenSSL-RSA) - Todd Rinaldo (TODDR)
     * 2026.01.30
     * PR: [Remove debian:buster from the CI](https://github.com/cpan-authors/Crypt-OpenSSL-RSA/pull/69) - Waiting 🕰️
