@@ -142,9 +142,9 @@ In addition I asked around in various Perl-related groups and some people asked 
 
 * [Crypt-OpenSSL-RSA](https://metacpan.org/dist/Crypt-OpenSSL-RSA) - Todd Rinaldo (TODDR)
     * 2026.01.30
-    * PR: [Remove debian:buster from the CI](https://github.com/cpan-authors/Crypt-OpenSSL-RSA/pull/69) - Waiting 🕰️
-    * PR: [Add dependabot](https://github.com/cpan-authors/Crypt-OpenSSL-RSA/pull/70) - Waiting 🕰️
-    * PR: [Separate the apt-get and the yum steps in the CI](https://github.com/cpan-authors/Crypt-OpenSSL-RSA/pull/71) - Waiting 🕰️
+    * PR: [Remove debian:buster from the CI](https://github.com/cpan-authors/Crypt-OpenSSL-RSA/pull/69) - Merged ✅
+    * PR: [Add dependabot](https://github.com/cpan-authors/Crypt-OpenSSL-RSA/pull/70) - Merged ✅
+    * PR: [Separate the apt-get and the yum steps in the CI](https://github.com/cpan-authors/Crypt-OpenSSL-RSA/pull/71) - Merged ✅
 
 * [Algorithm-SlidingWindow](https://metacpan.org/dist/Algorithm-SlidingWindow) - Joshua S. Day (HAX)
     * 2026.01.26
@@ -160,7 +160,7 @@ In addition I asked around in various Perl-related groups and some people asked 
     * PR: [Extend the test to compare the PDF to an earlier version of the generated file](https://github.com/ctrlo/CtrlO-PDF/pull/13) - Merged ✅
     * Issue: [Can't use an undefined value as an ARRAY reference](https://github.com/ctrlo/CtrlO-PDF/issues/12) - Waiting 🕰️
     * 2026.01.30
-    * PR: [Add test that adds a logo](https://github.com/ctrlo/CtrlO-PDF/pull/14) - Waiting 🕰️
+    * PR: [Add test that adds a logo](https://github.com/ctrlo/CtrlO-PDF/pull/14) - Merged ✅
     * TODO: Add more tests!
 
 * [JSON-Lines](https://metacpan.org/dist/JSON-Lines)
