@@ -118,6 +118,10 @@ More explanation: https://github.com/szabgab/rust-digger/issues/89
 
 ## Projects
 
+* [short_uuid](https://crates.io/crates/short_uuid)
+    * 2026.02.02
+    * Issue: [What is flickrBase58?](https://github.com/radim10/short-uuid/issues/10) - Waiting 🕰️ TODO
+
 * [spyne](https://crates.io/crates/spyne) - Zaid Ahmed (ZA1815)
     * 2026.01.26
     * PR: [chore: Add repository URL to Cargo.toml](https://github.com/ZA1815/spyne/pull/1) - rejected ❌ - no comment
