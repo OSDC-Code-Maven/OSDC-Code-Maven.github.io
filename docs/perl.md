@@ -73,7 +73,7 @@ This material is being used during the events organized in the [Perl-Maven](http
     * GitHub Actions
     * GitLab pipelines
         * [examples](https://perlmaven.com/gitlab-ci)
-        * [video](https://perlmaven.com/gitlab-pipelines-and-ci-for-perl-developers)
+        * [video](https://perlmaven.com/gitlab-pipelines-and-ci-for-perl-developers) 🎦
 * Dependencies
     * Add [dependabot](https://docs.github.com/en/code-security/dependabot/) for GitHub Actions.
     * I think Dependabot does not support Perl.
@@ -254,6 +254,7 @@ In addition I asked around in various Perl-related groups and some people asked 
 
 * [Common-CodingTools](https://metacpan.org/dist/Common-CodingTools) - Richard Kelsch (RKELSCH)
     * 2025.12.26
+    * [video recordings](https://perlmaven.com/meta-data-and-github-actions-for-common-codingtools-video) 🎦
     * PR: [Add links to VCS](https://github.com/richcsst/Common-CodingTools/pull/1) - Waiting 🕰️
     * PR: [Add .gitignore](https://github.com/richcsst/Common-CodingTools/pull/2) - Waiting 🕰️
     * PR: [Add GitHub Actions](https://github.com/richcsst/Common-CodingTools/pull/3) - Waiting 🕰️
