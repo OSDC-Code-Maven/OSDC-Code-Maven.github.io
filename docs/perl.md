@@ -76,7 +76,7 @@ This material is being used during the events organized in the [Perl-Maven](http
         * [video](https://perlmaven.com/gitlab-pipelines-and-ci-for-perl-developers) 🎦
 * Dependencies
     * Add [dependabot](https://docs.github.com/en/code-security/dependabot/) for GitHub Actions.
-    * I think Dependabot does not support Perl.
+    * Unfortunately dependabot does not support Perl.
 * Code formatting
     * [Perl::Tidy](https://metacpan.org/pod/Perl::Tidy)
 * Linting
