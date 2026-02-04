@@ -14,6 +14,7 @@ This material is being used during the online events organized in the [Code-Mave
 ## Chat
 
 * [OSDC Zulip](https://osdc.zulipchat.com/)
+* [Telegram](https://t.me/PythonMaven)
 
 ## How to select a Python project to contribute to?
 
