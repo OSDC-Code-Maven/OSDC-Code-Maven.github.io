@@ -223,9 +223,11 @@ In addition I asked around in various Perl-related groups and some people asked 
 
 * [DBIx-Class-Async](http://metacpan.org/release/DBIx-Class-Async) - Mohammad Sajid Anwar  (MANWAR)
     * 2026.01.08
-    * [Make Meta:CPAN link to GitHub issues](https://github.com/manwar/DBIx-Class-Async/pull/1) - Merged ✅
-    * [gitignore some generated files](https://github.com/manwar/DBIx-Class-Async/pull/2) - Merged ✅
-    * [Add GitHub Workflow and add test dependencies](https://github.com/manwar/DBIx-Class-Async/pull/3) - Merged ✅
+    * PR: [Make Meta:CPAN link to GitHub issues](https://github.com/manwar/DBIx-Class-Async/pull/1) - Merged ✅
+    * PR: [gitignore some generated files](https://github.com/manwar/DBIx-Class-Async/pull/2) - Merged ✅
+    * PR: [Add GitHub Workflow and add test dependencies](https://github.com/manwar/DBIx-Class-Async/pull/3) - Merged ✅
+    * Issue: [JSON is used but not declared](https://github.com/manwar/DBIx-Class-Async/issues/7) - Waiting 🕰️
+    * PR: [Add more versions of perl to the CI](https://github.com/manwar/DBIx-Class-Async/pull/8) - Merged ✅
 
 * [JQ-Lite](https://metacpan.org/dist/JQ-Lite) - Kawamura Shingo (SHINGO)
     * 2026.01.08

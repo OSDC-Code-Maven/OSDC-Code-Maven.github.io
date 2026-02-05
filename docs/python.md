@@ -76,10 +76,12 @@ This material is being used during the online events organized in the [Code-Mave
 
 * [qrcode-pretty](https://pypi.org/project/qrcode-pretty/)
     * 2026.02.03
-    * PR: [added test for generated images](https://github.com/mrinfinidy/qrcode-pretty/pull/1) by nnguyen-cs (Ted) - Waiting 🕰️
+    * PR: [added test for generated images](https://github.com/mrinfinidy/qrcode-pretty/pull/1) by nnguyen-cs (Ted) - Merged ✅
     * [Video recordings](https://python.code-maven.com/adding-tests-to-qrcode-pretty-video) 🎦
-    * PR: [Add the GitHub Actions to run the test on every push](https://github.com/mrinfinidy/qrcode-pretty/pull/2) by nnguyen-cs (Ted) - Waiting 🕰️
+    * PR: [Add the GitHub Actions to run the test on every push](https://github.com/mrinfinidy/qrcode-pretty/pull/2) by nnguyen-cs (Ted) - Merged ✅
     * [Video recordings](https://python.code-maven.com/adding-github-action-to-qrcode-pretty-video) 🎦
+    * TODO: we could add further tests, parametrizing the current one, check if there are flags we can use, add more python versions to the CI.
+    * TODO: generated test coverage report.
 
 * [factpages-py](https://pypi.org/project/factpages-py/)
     * 2026.01.20
