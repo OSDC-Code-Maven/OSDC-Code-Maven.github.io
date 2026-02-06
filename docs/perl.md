@@ -134,7 +134,7 @@ In addition I asked around in various Perl-related groups and some people asked 
 
 * [CatalystX::CRUD::Model::RDBO](https://metacpan.org/pod/CatalystX::CRUD::Model::RDBO) - Peter Karman (KARMAN)
     * 2026.02.01
-    * PR: [Add META data](https://github.com/karpet/catalystx-crud-model-rdbo/pull/1) - Waiting 🕰️
+    * PR: [Add META data](https://github.com/karpet/catalystx-crud-model-rdbo/pull/1) - Merged ✅
 
 * [Term::ANSIEncode](https://metacpan.org/pod/Term::ANSIEncode) - Richard Kelsch (RKELSCH)
     * 2026.02.01
