@@ -10,7 +10,9 @@
 
 ## Events
 
-This material is being used during the events organized in the [Perl-Maven](https://luma.com/perl-maven) group.
+This material is being used during the events organized in the [Perl-Maven](https://luma.com/perl-maven) group. During these events
+we pick one or more (open source) CPAN modules and try to contribute something to them. Below you can find ideas how to select which project
+to work on, what to contribute and links to the contributions themselves along with video recordings of some of the events.
 
 ## Chat
 
