@@ -341,4 +341,7 @@ In addition I asked around in various Perl-related groups and some people asked 
 
 * In the Dist::Zilla world [Dist::Zilla::Plugin::GithubMeta](https://metacpan.org/pod/Dist::Zilla::Plugin::GithubMeta) adds the META information based on a github remote called 'github' or 'origin'.
 
+## Monthly reports
+
+* [2026 January](https://szabgab.com/osdc-perl-2026-01)
 
