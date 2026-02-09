@@ -134,6 +134,22 @@ In addition I asked around in various Perl-related groups and some people asked 
 
 ## Project reports
 
+* [Dancer-Template-Mason](https://metacpan.org/dist/Dancer-Template-Mason) - Yanick Champoux (YANICK)
+    * 2026.02.09
+    * Issue: [Adding Github Actions to run the tests on every push](https://github.com/yanick/Dancer-Template-Mason/issues/6) - Waiting 🕰️ TODO?
+
+* [Perl-Version-Bumper](https://metacpan.org/dist/Perl-Version-Bumper) - Philippe Bruhat (BOOK)
+    * 2026.02.09
+    * Issue: [Adding Github Actions to run the tests on every push](https://github.com/book/Perl-Version-Bumper/issues/1) - Waiting 🕰️ TODO?
+
+* [DPKG::Packages::Parser](https://metacpan.org/pod/DPKG::Packages::Parser) - Adriaan Dens (ADRI)
+    * 2026.02.09
+    * Issue: [Adding Github Actions to run the tests on every push](https://github.com/adriaandens/DPKG-Packages-Parser/issues/1) - Waiting 🕰️ TODO?
+
+* [libintl-perl](https://metacpan.org/dist/libintl-perl) - Guido Flohr (GUIDO)
+    * 2026.02.09
+    * Issue: [Adding Github Actions to run the tests on every push](https://github.com/gflohr/libintl-perl/issues/25) - Waiting 🕰️ TODO?
+
 * [CatalystX::CRUD::Model::RDBO](https://metacpan.org/pod/CatalystX::CRUD::Model::RDBO) - Peter Karman (KARMAN)
     * 2026.02.01
     * PR: [Add META data](https://github.com/karpet/catalystx-crud-model-rdbo/pull/1) - Merged ✅
