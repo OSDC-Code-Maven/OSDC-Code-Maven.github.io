@@ -134,9 +134,21 @@ In addition I asked around in various Perl-related groups and some people asked 
 
 ## Project reports
 
+* [Hash::Case](https://metacpan.org/dist/Hash-Case) - Mark Overmeer (MARKOV)
+    * 2026.02.10
+    * Issue: [Adding Github Actions to run the tests on every push](https://github.com/markov2/perl5-Hash-Case/issues/3) - Waiting 🕰️ TODO?
+
+* [Beam-Minion](https://metacpan.org/dist/Beam-Minion) - Doug Bell (PREACTION)
+    * 2026.02.10
+    * Issue: [Adding Github Actions to run the tests on every push](https://github.com/preaction/Beam-Minion/issues/5) - Waiting 🕰️ TODO?
+
+* [App::GitKtti](https://metacpan.org/dist/App-GitKtti) -  Gregoire B. (SAUMON)
+    * 2026.02.10
+    * Issue: [Adding Github Actions to run the tests on every push](https://github.com/saumon/gitktti/issues/1) - Waiting 🕰️ TODO?
+
 * [Dancer-Template-Mason](https://metacpan.org/dist/Dancer-Template-Mason) - Yanick Champoux (YANICK)
     * 2026.02.09
-    * Issue: [Adding Github Actions to run the tests on every push](https://github.com/yanick/Dancer-Template-Mason/issues/6) - Waiting 🕰️ TODO?
+    * Issue: [Adding Github Actions to run the tests on every push](https://github.com/yanick/Dancer-Template-Mason/issues/6) - Waiting 🕰️ TODO? yes, please
 
 * [Perl-Version-Bumper](https://metacpan.org/dist/Perl-Version-Bumper) - Philippe Bruhat (BOOK)
     * 2026.02.09
@@ -148,11 +160,12 @@ In addition I asked around in various Perl-related groups and some people asked 
 
 * [libintl-perl](https://metacpan.org/dist/libintl-perl) - Guido Flohr (GUIDO)
     * 2026.02.09
-    * Issue: [Adding Github Actions to run the tests on every push](https://github.com/gflohr/libintl-perl/issues/25) - Waiting 🕰️ TODO?
+    * Issue: [Adding Github Actions to run the tests on every push](https://github.com/gflohr/libintl-perl/issues/25) - Waiting 🕰️ TODO? Will copy from another project.
 
 * [CatalystX::CRUD::Model::RDBO](https://metacpan.org/pod/CatalystX::CRUD::Model::RDBO) - Peter Karman (KARMAN)
     * 2026.02.01
     * PR: [Add META data](https://github.com/karpet/catalystx-crud-model-rdbo/pull/1) - Merged ✅
+    * Issue: [Adding Github Actions to run the tests on every push](https://github.com/karpet/catalystx-crud-model-rdbo/issues/2) - Waiting 🕰️ TODO?
 
 * [Term::ANSIEncode](https://metacpan.org/pod/Term::ANSIEncode) - Richard Kelsch (RKELSCH)
     * 2026.02.01
