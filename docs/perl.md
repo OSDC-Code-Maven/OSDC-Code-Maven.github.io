@@ -55,6 +55,7 @@ to work on, what to contribute and links to the contributions themselves along w
 * CPAN Digger / MetaCPAN
     * It would be probably better to add these to MetaCPAN, but we can start by adding that to CPAN::Digger.
     * Create a web page with the "river" showing the most relied on distributions. (Contribute to this has the widest impact.)
+    * [Listing the most upstream distributions](https://github.com/metacpan/metacpan-web/issues/3511) - TODO
     * Create a page listing all the modules that have the special PAUSE ids listed above, along with their "river" status.
     * Create a page listing all the modules of authors who have passed away (from the InMemoriam module listed above), along with their river status.
     * Taking over and maintaining these is keeping their work live on.
@@ -137,6 +138,7 @@ In addition I asked around in various Perl-related groups and some people asked 
 * [Hash::Case](https://metacpan.org/dist/Hash-Case) - Mark Overmeer (MARKOV)
     * 2026.02.10
     * Issue: [Adding Github Actions to run the tests on every push](https://github.com/markov2/perl5-Hash-Case/issues/3) - Waiting 🕰️ TODO?
+    * PR: [use gmake on windows](https://github.com/markov2/perl5-Hash-Case/pull/4) - Merged ✅
 
 * [Beam-Minion](https://metacpan.org/dist/Beam-Minion) - Doug Bell (PREACTION)
     * 2026.02.10
