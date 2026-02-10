@@ -120,8 +120,19 @@ More explanation: https://github.com/szabgab/rust-digger/issues/89
 
 * [short_uuid](https://crates.io/crates/short_uuid)
     * 2026.02.02
-    * Issue: [What is flickrBase58?](https://github.com/radim10/short-uuid/issues/10) - Waiting 🕰️ TODO
-
+    * Issue: [What is flickrBase58?](https://github.com/radim10/short-uuid/issues/10) - Waiting 🕰️
+    * 2026.02.09
+    * Issue: [GitHub Action does not run](https://github.com/radim10/short-uuid/issues/11)
+    * PR: [GitHub workflow](https://github.com/radim10/short-uuid/pull/12) - Waiting 🕰️
+    * PR: [Improve test by comparing result to expected short](https://github.com/radim10/short-uuid/pull/13) - Waiting 🕰️
+    * We had trouble understanding if the test that fails should even work. Basically we did not know when is a string an "invalid short uuid"?
+        * For sure it is when it has characters outside the vocabulary.
+        * For sure if converting to uuid fails.
+        * But if converting to uuid requires padding. Is that invalid? It is unclear so we did not "fix" the test.
+        * We had some major trouble as VS code keept indicating compilation errors and we could not figure out what is the right way to write some code. It tooks some time till I tried to run `cargo build` on the terminal just to find out the code compiles. Restarting VS code then fixed that, but it was very unpleasant. Especially in-front of other people.
+    * [Sample GitHub Workflow](https://doc.rust-lang.org/cargo/guide/continuous-integration.html) in the Cargo Book.
+    * [cargo-dist](https://crates.io/crates/cargo-dist)
+    * [GitHub Workflow](https://github.com/MeirKriheli/rusmux/blob/master/.github/workflows/release.yml) of the [rusmux](https://crates.io/crates/rusmux) project by Meir Kriheli
 * [spyne](https://crates.io/crates/spyne) - Zaid Ahmed (ZA1815)
     * 2026.01.26
     * PR: [chore: Add repository URL to Cargo.toml](https://github.com/ZA1815/spyne/pull/1) - rejected ❌ - no comment
