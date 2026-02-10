@@ -123,8 +123,8 @@ More explanation: https://github.com/szabgab/rust-digger/issues/89
     * Issue: [What is flickrBase58?](https://github.com/radim10/short-uuid/issues/10) - Waiting 🕰️
     * 2026.02.09
     * Issue: [GitHub Action does not run](https://github.com/radim10/short-uuid/issues/11)
-    * PR: [GitHub workflow](https://github.com/radim10/short-uuid/pull/12) - Waiting 🕰️
-    * PR: [Improve test by comparing result to expected short](https://github.com/radim10/short-uuid/pull/13) - Waiting 🕰️
+    * PR: [GitHub workflow](https://github.com/radim10/short-uuid/pull/12) - Merged ✅
+    * PR: [Improve test by comparing result to expected short](https://github.com/radim10/short-uuid/pull/13) - Merged ✅
     * We had trouble understanding if the test that fails should even work. Basically we did not know when is a string an "invalid short uuid"?
         * For sure it is when it has characters outside the vocabulary.
         * For sure if converting to uuid fails.

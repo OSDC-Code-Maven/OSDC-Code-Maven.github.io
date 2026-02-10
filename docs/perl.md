@@ -137,7 +137,7 @@ In addition I asked around in various Perl-related groups and some people asked 
 
 * [Hash::Case](https://metacpan.org/dist/Hash-Case) - Mark Overmeer (MARKOV)
     * 2026.02.10
-    * Issue: [Adding Github Actions to run the tests on every push](https://github.com/markov2/perl5-Hash-Case/issues/3) - Waiting 🕰️ TODO?
+    * Issue: [Adding Github Actions to run the tests on every push](https://github.com/markov2/perl5-Hash-Case/issues/3) - Added ✅
     * PR: [use gmake on windows](https://github.com/markov2/perl5-Hash-Case/pull/4) - Merged ✅
 
 * [Beam-Minion](https://metacpan.org/dist/Beam-Minion) - Doug Bell (PREACTION)
