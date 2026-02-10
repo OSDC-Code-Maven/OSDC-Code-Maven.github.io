@@ -5,7 +5,7 @@
 * [How to select a Perl project to contribute to?](#how-to-select-a-perl-project-to-contribute-to)
 * [What and how to contribute to a Python project?](#what-and-how-to-contribute-to-a-perl-project)
 * [Tools](#tools)
-* [TODO](#todo)
+* [TODO](#todo) 🎁
 * [Project reports](#project-reports)
 
 ## Events
@@ -150,7 +150,7 @@ In addition I asked around in various Perl-related groups and some people asked 
 
 * [Dancer-Template-Mason](https://metacpan.org/dist/Dancer-Template-Mason) - Yanick Champoux (YANICK)
     * 2026.02.09
-    * Issue: [Adding Github Actions to run the tests on every push](https://github.com/yanick/Dancer-Template-Mason/issues/6) - Waiting 🕰️ TODO? yes, please
+    * Issue: [Adding Github Actions to run the tests on every push](https://github.com/yanick/Dancer-Template-Mason/issues/6) - Waiting 🕰️ TODO? yes, please 🎁
 
 * [Perl-Version-Bumper](https://metacpan.org/dist/Perl-Version-Bumper) - Philippe Bruhat (BOOK)
     * 2026.02.09
