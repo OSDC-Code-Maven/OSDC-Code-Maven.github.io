@@ -151,6 +151,18 @@ In addition I asked around in various Perl-related groups and some people asked 
 * [Dancer-Template-Mason](https://metacpan.org/dist/Dancer-Template-Mason) - Yanick Champoux (YANICK)
     * 2026.02.09
     * Issue: [Adding Github Actions to run the tests on every push](https://github.com/yanick/Dancer-Template-Mason/issues/6) - Waiting 🕰️ TODO? yes, please 🎁
+    * 2026.02.10
+    * PR: [Add GitHub Workflow](https://github.com/yanick/Dancer-Template-Mason/pull/8) - Waiting 🕰️
+    * Issue: [Missing dependencies?](https://github.com/yanick/Dancer-Template-Mason/issues/7) - Waiting 🕰️
+    * We talked about [Dist::Zilla](https://metacpan.org/dist/Dist-Zilla)
+    * The [Perl Weekly events calendar](https://perlweekly.com/events.html)
+    * The [perl-tester](https://hub.docker.com/r/perldocker/perl-tester/) docker image and its [source](https://github.com/Perl/docker-perl-tester)
+    * [Video recordings](https://perlmaven.com/github-action-with-dist-zilla-video)  🎦
+    * We discussed ways to handle the lack of maintainance of [Net-SSLeay](https://metacpan.org/dist/Net-SSLeay/).
+        * Talk to (well, email) the maintainer directly and ask how to help to move things forward.
+        * Ask others interested in the project to review the Pull-Request helping the maintainer decide if a PR can be accepted.
+        * Create relases and upload them to PAUSE. Even though they will be marked as "unauthorized", but can show progress and seriousness maintaining it.
+        * If all else fails, create a real fork - rename the module and talk to the downstream dependencies to switch to the new name.
 
 * [Perl-Version-Bumper](https://metacpan.org/dist/Perl-Version-Bumper) - Philippe Bruhat (BOOK)
     * 2026.02.09
@@ -208,13 +220,14 @@ In addition I asked around in various Perl-related groups and some people asked 
 
 * [MIME-Lite](https://metacpan.org/dist/MIME-Lite) - Ricardo SIGNES (RJBS)
     * 2026.01.24
-    * PR: [setup GitHub Actions to run the tests on every push and PR](https://github.com/rjbs/MIME-Lite/pull/18) - Waiting 🕰️
+    * PR: [setup GitHub Actions to run the tests on every push and PR](https://github.com/rjbs/MIME-Lite/pull/18) - closed ❌ but implemented ✅
     * PR: [Add gitignore for some generated files](https://github.com/rjbs/MIME-Lite/pull/19) - Waiting 🕰️
     * PR: [Add test case with long subject line](https://github.com/rjbs/MIME-Lite/pull/20) - Waiting 🕰️
     * [Video recordings](https://perlmaven.com/testing-mime-lite-video) 🎦
     * Test Coverage: `cover -test`
-    * TODO: shall we remove the `fold` function?
+    * TODO: [see comments here](https://github.com/rjbs/MIME-Lite/pull/18) - TODO 🎁
     * TODO: Increase test-coverage
+    * TODO: shall we remove the `fold` function? - TODO 🎁
     * TODO: Split the packages to individual files.
     * TODO: remove the `#!/usr/bin/perl` line from the tests
 
@@ -226,7 +239,7 @@ In addition I asked around in various Perl-related groups and some people asked 
 
 * [CPAN dashboard](https://cpandashboard.com/) - Dave Cross (DAVECROSS)
     * 2026.01.20
-    * [Remove Travis CI](https://github.com/PerlToolsTeam/dashboard/issues/105) - TODO 🎁
+    * [Remove Travis CI](https://github.com/PerlToolsTeam/dashboard/issues/105) - done ✅
 
 * [Business-Westpac](https://metacpan.org/dist/Business-Westpac) - Lee Johnson (LEEJO)
     * 2026.01.20
