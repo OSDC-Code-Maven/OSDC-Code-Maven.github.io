@@ -133,7 +133,22 @@ In addition I asked around in various Perl-related groups and some people asked 
 * [Test::HTML::Tidy](https://metacpan.org/pod/Test::HTML::Tidy) needs [HTML::Tidy](https://metacpan.org/pod/HTML::Tidy) that needs [tidyp](https://github.com/petdance/tidyp). The repository of the latter 2 were archived. The first one does not even have a repo. Let's figure out what to do - if anything - with this.
 
 
+
 ## Project reports
+
+* [Concierge::Auth](https://metacpan.org/dist/Concierge-Auth) - Bruce Van Allen (BVA)
+    * 2026.02.14
+    * Issue: [Adding Github Actions to run the tests on every push](https://github.com/bwva/Concierge-Auth/issues/1) - Waiting 🕰️ TODO?
+
+* [DateTime::Format::Flexible](https://metacpan.org/dist/DateTime-Format-Flexible) - Tom Heady (THINC)
+    * 2026.02.14
+    * The tests report `Possible precedence problem between ! and string eq at t/strings.t line 109.`.
+    * I could not find the reposiory.
+    * I sent a connect request to Tom Heady via LinkedIn.
+
+* [Hash-Util-Merge](https://metacpan.org/dist/Hash-Util-Merge) - Robert Rothenberg (RRWO)
+    * 2026.02.14
+    * Issue: [Adding Github Actions to run the tests on every push](https://github.com/robrwo/Hash-Util-Merge/issues/3) - Waiting 🕰️ TODO?
 
 * [Hash::Case](https://metacpan.org/dist/Hash-Case) - Mark Overmeer (MARKOV)
     * 2026.02.10
