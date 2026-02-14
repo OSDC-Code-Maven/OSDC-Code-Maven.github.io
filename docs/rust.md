@@ -118,6 +118,11 @@ More explanation: https://github.com/szabgab/rust-digger/issues/89
 
 ## Projects
 
+* [zed](https://zed.dev/)
+    * 2026.02.14
+    * Issue: [panic while running inside Docker](https://github.com/zed-industries/zed/issues/49131) - Waiting 🕰️
+    * Discussion: [Allow the user to provide an alternative path to devcontainer.json](https://github.com/zed-industries/zed/discussions/49182) - Waiting 🕰️
+
 * [short_uuid](https://crates.io/crates/short_uuid)
     * 2026.02.02
     * Issue: [What is flickrBase58?](https://github.com/radim10/short-uuid/issues/10) - Waiting 🕰️
