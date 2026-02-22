@@ -157,7 +157,7 @@ In addition I asked around in various Perl-related groups and some people asked 
 
 * [Beam-Minion](https://metacpan.org/dist/Beam-Minion) - Doug Bell (PREACTION)
     * 2026.02.10
-    * Issue: [Adding Github Actions to run the tests on every push](https://github.com/preaction/Beam-Minion/issues/5) - Waiting 🕰️ TODO?
+    * Issue: [Adding Github Actions to run the tests on every push](https://github.com/preaction/Beam-Minion/issues/5) - Waiting 🕰️ TODO? Sound good
 
 * [App::GitKtti](https://metacpan.org/dist/App-GitKtti) -  Gregoire B. (SAUMON)
     * 2026.02.10
