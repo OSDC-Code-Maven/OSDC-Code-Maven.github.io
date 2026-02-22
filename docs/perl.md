@@ -194,7 +194,7 @@ In addition I asked around in various Perl-related groups and some people asked 
 * [CatalystX::CRUD::Model::RDBO](https://metacpan.org/pod/CatalystX::CRUD::Model::RDBO) - Peter Karman (KARMAN)
     * 2026.02.01
     * PR: [Add META data](https://github.com/karpet/catalystx-crud-model-rdbo/pull/1) - Merged ✅
-    * Issue: [Adding Github Actions to run the tests on every push](https://github.com/karpet/catalystx-crud-model-rdbo/issues/2) - Waiting 🕰️ TODO?
+    * Issue: [Adding Github Actions to run the tests on every push](https://github.com/karpet/catalystx-crud-model-rdbo/issues/2) - Waiting 🕰️ TODO? yes, please
 
 * [Term::ANSIEncode](https://metacpan.org/pod/Term::ANSIEncode) - Richard Kelsch (RKELSCH)
     * 2026.02.01
