@@ -161,7 +161,7 @@ In addition I asked around in various Perl-related groups and some people asked 
 
 * [App::GitKtti](https://metacpan.org/dist/App-GitKtti) -  Gregoire B. (SAUMON)
     * 2026.02.10
-    * Issue: [Adding Github Actions to run the tests on every push](https://github.com/saumon/gitktti/issues/1) - Waiting 🕰️ TODO?
+    * Issue: [Adding Github Actions to run the tests on every push](https://github.com/saumon/gitktti/issues/1) - Waiting 🕰️ TODO? - why not?
 
 * [Dancer-Template-Mason](https://metacpan.org/dist/Dancer-Template-Mason) - Yanick Champoux (YANICK)
     * 2026.02.09
@@ -328,7 +328,7 @@ In addition I asked around in various Perl-related groups and some people asked 
     * [Showcase: Localised JSON Schema validation in Perl](https://www.reddit.com/r/perl/comments/1p80dne/showcase_localised_json_schema_validation_in_perl/)
     * PR: [add .gitignore file](https://gitlab.com/jackdeguest/json-schema-validate/-/merge_requests/1) - Waiting 🕰️
     * PR: [Setup CI - GitLab pipeline](https://gitlab.com/jackdeguest/json-schema-validate/-/merge_requests/2) - Waiting 🕰️
-    * [Open issue](https://gitlab.com/jackdeguest/json-schema-validate/-/issues/4)
+    * Issue: [Wide character in die](https://gitlab.com/jackdeguest/json-schema-validate/-/issues/4) - Closed ❌
     * Also check out the GitLab pipeline of the [Wanted module](https://gitlab.com/jackdeguest/Wanted/)
 
 * [SVG](https://metacpan.org/dist/SVG) - Mohammad Sajid Anwar (MANWAR) + Gabor Szabo (SZABGAB)

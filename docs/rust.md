@@ -233,6 +233,16 @@ More explanation: https://github.com/szabgab/rust-digger/issues/89
     * [Add type-checking](https://github.com/scverse/anndata/pull/2174) - TODO 🎁
     * [How to generate test coverage report?](https://github.com/scverse/anndata/issues/2233) - TODO 🎁
 
+* [thousands](https://crates.io/crates/thousands)
+    * 2024.12.17
+    * Video reading the code
+    * 2024.07.22
+    * Issue: [GitHub Actions instead of Travis-CI](https://github.com/tov/thousands-rs/issues/5) - TODO 🎁
+    * 2026.02.28
+    * Issue: [cargo clippy complains](https://github.com/tov/thousands-rs/issues/6) - TODO 🎁
+    * Issue: [memory pre-allocation is not correct for multi-byte separators](https://github.com/tov/thousands-rs/issues/7) - TODO 🎁
+    * PR: [Fix memory pre-allocation for multibyte separators](https://github.com/tov/thousands-rs/pull/8) - Waiting 🕰️
+
 * [mdbook](https://crates.io/crates/mdbook)
     * [Remove index.html suffix](https://github.com/rust-lang/mdBook/issues/1251) - TODO 🎁
     * [Include `*.ipynb` files and not only `*.md` files](https://github.com/rust-lang/mdBook/issues/2480) - TODO 🎁
