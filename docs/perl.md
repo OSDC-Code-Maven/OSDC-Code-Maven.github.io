@@ -236,8 +236,8 @@ In addition I asked around in various Perl-related groups and some people asked 
 * [MIME-Lite](https://metacpan.org/dist/MIME-Lite) - Ricardo SIGNES (RJBS)
     * 2026.01.24
     * PR: [setup GitHub Actions to run the tests on every push and PR](https://github.com/rjbs/MIME-Lite/pull/18) - closed ❌ but implemented ✅
-    * PR: [Add gitignore for some generated files](https://github.com/rjbs/MIME-Lite/pull/19) - Waiting 🕰️
-    * PR: [Add test case with long subject line](https://github.com/rjbs/MIME-Lite/pull/20) - Waiting 🕰️
+    * PR: [Add gitignore for some generated files](https://github.com/rjbs/MIME-Lite/pull/19) - Obsolete ❌ ✅
+    * PR: [Add test case with long subject line](https://github.com/rjbs/MIME-Lite/pull/20) - Accepted ✅
     * [Video recordings](https://perlmaven.com/testing-mime-lite-video) 🎦
     * Test Coverage: `cover -test`
     * TODO: [see comments here](https://github.com/rjbs/MIME-Lite/pull/18) - TODO 🎁
