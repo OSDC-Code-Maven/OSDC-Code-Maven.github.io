@@ -74,6 +74,12 @@ This material is being used during the online events organized in the [Code-Mave
 
 ## Project reports
 
+* [genomebundle](https://pypi.org/project/genomebundle/)
+    * 2026.03.09
+    * It does not have a CI (and its repository is not listed on the pydigger web site)
+    * It does not have tests
+    * After some 20 minutes as I see the usage takes a long time, I gave up trying to write a test.
+
 * [qrcode-pretty](https://pypi.org/project/qrcode-pretty/)
     * 2026.02.03
     * PR: [added test for generated images](https://github.com/mrinfinidy/qrcode-pretty/pull/1) by nnguyen-cs (Ted) - Merged ✅
@@ -97,7 +103,16 @@ This material is being used during the online events organized in the [Code-Mave
     * We tried to call the `field_summary` method in `analysis.py` without success.
     * Issue: [How to call field_summary in analysis.py ?](https://github.com/kkollsga/factpages-py/issues/3) - Implemented ✅
     * Add more tests - TODO 🎁
-
+    * 2026.03.09
+    * I the docker container
+    * `virtualenv venv`
+    * `source venv/bin/activate`
+    * `pip install pytest-cov`
+    * Coverage is 44%
+    * Issue: [Allow ci to run on other branches or manually](https://github.com/kkollsga/factpages-py/issues/6)
+    * PR: [Add dependabot configuration](https://github.com/kkollsga/factpages-py/pull/5)
+    * PR: [add tests exporting data to temporary folder](https://github.com/kkollsga/factpages-py/pull/7)
+    * TODO: add tests importing data from json and other file format
 * [scikit-learn](https://scikit-learn.org/)
     * 2026.01.11
     * Setting up the development environment is [explained well](https://scikit-learn.org/dev/developers/development_setup.html) but still takes time.
