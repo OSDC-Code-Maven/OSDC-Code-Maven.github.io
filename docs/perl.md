@@ -136,9 +136,20 @@ In addition I asked around in various Perl-related groups and some people asked 
 
 ## Project reports
 
+* [Dancer2-Plugin-RPC](https://metacpan.org/dist/Dancer2-Plugin-RPC) Abe Timmerman (ABELTJE)
+    * 2026.03.10
+    * Abe passed away in 2024 [see](https://metacpan.org/pod/Acme::CPANAuthors::InMemoriam)
+    * Preparations to adopt this module.
+    * [forked the repository](https://github.com/szabgab/Dancer2-Plugin-RPC/)
+    * Worked on adding GitHub Actions
+    * Removed the MANIFEST file
+    * TODO: Ask the PAUSE Admins to adopt the distribution
+    * TODO: Add more tests
+    * TODO: Upload new version to PAUSE with the link to the new repository
+
 * [Concierge::Auth](https://metacpan.org/dist/Concierge-Auth) - Bruce Van Allen (BVA)
     * 2026.02.14
-    * Issue: [Adding Github Actions to run the tests on every push](https://github.com/bwva/Concierge-Auth/issues/1) - Waiting 🕰️ TODO?
+    * Issue: [Adding Github Actions to run the tests on every push](https://github.com/bwva/Concierge-Auth/issues/1) - Done ✅
 
 * [DateTime::Format::Flexible](https://metacpan.org/dist/DateTime-Format-Flexible) - Tom Heady (THINC)
     * 2026.02.14
@@ -158,6 +169,9 @@ In addition I asked around in various Perl-related groups and some people asked 
 * [Beam-Minion](https://metacpan.org/dist/Beam-Minion) - Doug Bell (PREACTION)
     * 2026.02.10
     * Issue: [Adding Github Actions to run the tests on every push](https://github.com/preaction/Beam-Minion/issues/5) - Waiting 🕰️ TODO? Sound good
+    * 2026.03.10
+    * Issue: [Remove Makefile.PL from repository](https://github.com/preaction/Beam-Minion/issues/6)  - Waiting 🕰️
+    * PR: [chore: Add GitHub Actions to run all the tests on every push](https://github.com/preaction/Beam-Minion/pull/7) - Waiting 🕰️
 
 * [App::GitKtti](https://metacpan.org/dist/App-GitKtti) -  Gregoire B. (SAUMON)
     * 2026.02.10
