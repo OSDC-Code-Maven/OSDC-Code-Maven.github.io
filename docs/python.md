@@ -80,7 +80,14 @@ This material is being used during the online events organized in the [Code-Mave
     * It does not have tests
     * After some 20 minutes as I see the usage takes a long time, I gave up trying to write a test.
 
+<!--
+    * PR: []() - Waiting 🕰️
+-->
+
 * [qrcode-pretty](https://pypi.org/project/qrcode-pretty/)
+    * 2026.04.13
+    * PR: [Make pytest dev-time dependency](https://github.com/mrinfinidy/qrcode-pretty/pull/6) - Waiting 🕰️
+    * PR: [Copy test to be run in the test process](https://github.com/mrinfinidy/qrcode-pretty/pull/7) - Waiting 🕰️
     * 2026.02.03
     * PR: [added test for generated images](https://github.com/mrinfinidy/qrcode-pretty/pull/1) by nnguyen-cs (Ted) - Merged ✅
     * [Video recordings](https://python.code-maven.com/adding-tests-to-qrcode-pretty-video) 🎦
@@ -109,9 +116,9 @@ This material is being used during the online events organized in the [Code-Mave
     * `source venv/bin/activate`
     * `pip install pytest-cov`
     * Coverage is 44%
-    * Issue: [Allow ci to run on other branches or manually](https://github.com/kkollsga/factpages-py/issues/6)
-    * PR: [Add dependabot configuration](https://github.com/kkollsga/factpages-py/pull/5)
-    * PR: [add tests exporting data to temporary folder](https://github.com/kkollsga/factpages-py/pull/7)
+    * Issue: [Allow ci to run on other branches or manually](https://github.com/kkollsga/factpages-py/issues/6) - Waiting 🕰️
+    * PR: [Add dependabot configuration](https://github.com/kkollsga/factpages-py/pull/5) - Waiting 🕰️
+    * PR: [add tests exporting data to temporary folder](https://github.com/kkollsga/factpages-py/pull/7) - Waiting 🕰️
     * TODO: add tests importing data from json and other file format
 * [scikit-learn](https://scikit-learn.org/)
     * 2026.01.11
@@ -140,6 +147,8 @@ This material is being used during the online events organized in the [Code-Mave
     * PR: [Add Dependabot configuration for version updates](https://github.com/allen0099/FastAPI-CacheX/pull/3) - Merged ✅
 
 * [vcsp-guard](https://pypi.org/project/vcsp-guard/)
+    * 2026.04.13
+    * PR: [chore: convert test helper function to fixture](https://github.com/Giordano10/VCSP/pull/26) - Waiting 🕰️
     * 2025.12.27
     * PR: [add link to github](https://github.com/Giordano10/VCSP/pull/1) - Merged ✅
     * PR: [add dependabot](https://github.com/Giordano10/VCSP/pull/2) - Closed but implemented 🤔
