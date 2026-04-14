@@ -86,8 +86,8 @@ This material is being used during the online events organized in the [Code-Mave
 
 * [qrcode-pretty](https://pypi.org/project/qrcode-pretty/)
     * 2026.04.13
-    * PR: [Make pytest dev-time dependency](https://github.com/mrinfinidy/qrcode-pretty/pull/6) - Waiting 🕰️
-    * PR: [Copy test to be run in the test process](https://github.com/mrinfinidy/qrcode-pretty/pull/7) - Waiting 🕰️
+    * PR: [Make pytest dev-time dependency](https://github.com/mrinfinidy/qrcode-pretty/pull/6) - Merged ✅
+    * PR: [Copy test to be run in the test process](https://github.com/mrinfinidy/qrcode-pretty/pull/7) - Merged ✅
     * 2026.02.03
     * PR: [added test for generated images](https://github.com/mrinfinidy/qrcode-pretty/pull/1) by nnguyen-cs (Ted) - Merged ✅
     * [Video recordings](https://python.code-maven.com/adding-tests-to-qrcode-pretty-video) 🎦
