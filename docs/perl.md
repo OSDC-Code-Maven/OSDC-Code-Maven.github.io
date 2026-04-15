@@ -174,8 +174,10 @@ In addition I asked around in various Perl-related groups and some people asked 
     * PR: [chore: Add GitHub Actions to run all the tests on every push](https://github.com/preaction/Beam-Minion/pull/7) - Waiting 🕰️
 
 * [App::GitKtti](https://metacpan.org/dist/App-GitKtti) -  Gregoire B. (SAUMON)
+    * 2026.04.15
+    * PR: [Add GitHub Action to run the tests on every push](https://github.com/saumon/gitktti/pull/2) - Waiting 🕰️
     * 2026.02.10
-    * Issue: [Adding Github Actions to run the tests on every push](https://github.com/saumon/gitktti/issues/1) - Waiting 🕰️ TODO? - why not?
+    * Issue: [Adding Github Actions to run the tests on every push](https://github.com/saumon/gitktti/issues/1) - Waiting 🕰️
 
 * [Dancer-Template-Mason](https://metacpan.org/dist/Dancer-Template-Mason) - Yanick Champoux (YANICK)
     * 2026.02.09
