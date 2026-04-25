@@ -50,6 +50,68 @@ to work on, what to contribute and links to the contributions themselves along w
     * ... where you can run generate test coverage report and add tests to improve the safety net of the project.
 
 
+## Code reading
+
+Check the reverse dependencies of the following modules to see how they are used and maybe to contribute to those modules.
+
+Mocking:
+
+* [DBD::Mock](https://metacpan.org/pod/DBD::Mock)
+* [Mock::Quick](https://metacpan.org/pod/Mock::Quick)
+* [Mock::Sub](https://metacpan.org/pod/Mock::Sub)
+* [Test::MockTime](https://metacpan.org/pod/Test::MockTime)
+* [Test::Mock::Simple](https://metacpan.org/pod/Test::Mock::Simple)
+* [Test::MockObject](https://metacpan.org/pod/Test::MockObject)
+
+Testing:
+
+* [Test::Builder](https://metacpan.org/pod/Test::Builder)
+* [Test::Class](https://metacpan.org/pod/Test::Class)
+* [Test::Class::Moose](https://metacpan.org/pod/Test::Class::Moose)
+* [Test::Compile](https://metacpan.org/pod/Test::Compile)
+* [Test::Deep](https://metacpan.org/pod/Test::Deep)
+* [Test::DatabaseRow](https://metacpan.org/pod/Test::DatabaseRow)
+* [Test::Differences](https://metacpan.org/pod/Test::Differences)
+* [Test::Distribution](https://metacpan.org/pod/Test::Distribution)
+* [Test::Exception](https://metacpan.org/pod/Test::Exception)
+* [Test::Expect](https://metacpan.org/pod/Test::Expect)
+* [Test::FailWarnings](https://metacpan.org/pod/Test::FailWarnings)
+* [Test::Fatal](https://metacpan.org/pod/Test::Fatal)
+* [Test::File](https://metacpan.org/pod/Test::File)
+* [Test::HTML::Lint](https://metacpan.org/pod/Test::HTML::Lint)
+* [Test::HTML::Tidy](https://metacpan.org/pod/Test::HTML::Tidy)
+* [Test::Inline](https://metacpan.org/pod/Test::Inline)
+* [Test::Kwalitee](https://metacpan.org/pod/Test::Kwalitee)
+* [Test::LongString](https://metacpan.org/pod/Test::LongString)
+* [Test::Memory::Cycle](https://metacpan.org/pod/Test::Memory::Cycle)
+* [Test::NoWarnings](https://metacpan.org/pod/Test::NoWarnings)
+* [Test::Output](https://metacpan.org/pod/Test::Output)
+* [Test::Script](https://metacpan.org/pod/Test::Script)
+* [Test::Snapshots](https://metacpan.org/pod/Test::Snapshots)
+* [Test::Spelling](https://metacpan.org/pod/Test::Spelling)
+* [Test::Strict](https://metacpan.org/pod/Test::Strict)
+* [Test::Taint](https://metacpan.org/pod/Test::Taint)
+* [Test::Trap](https://metacpan.org/pod/Test::Trap)
+* [Test::Warn](https://metacpan.org/pod/Test::Warn)
+* [Test::WWW::Mechanize](https://metacpan.org/pod/Test::WWW::Mechanize)
+* [Test::WWW::Mechanize::PSGI](https://metacpan.org/pod/Test::WWW::Mechanize::PSGI)
+* [Test::XPath](https://metacpan.org/pod/Test::XPath)
+
+Other testing:
+
+* [Test::Code::TidyAll](https://metacpan.org/pod/Test::Code::TidyAll) - check the configurations!
+    * [Code::TidyAll](https://metacpan.org/pod/Code::TidyAll)
+    * [Perl::Tidy](https://metacpan.org/pod/Perl::Tidy)
+* [Test::Perl::Critic](https://metacpan.org/pod/Test::Perl::Critic) - also check the configurations!
+* [Test::Pod](https://metacpan.org/pod/Test::Pod)
+* [Test::Pod::Coverage](https://metacpan.org/pod/Test::Pod::Coverage)
+
+Other:
+
+* [Capture::Tiny](https://metacpan.org/pod/Capture::Tiny)
+* [Devel::Cover](https://metacpan.org/pod/Devel::Cover)
+
+
 ## What and how to contribute to a Perl project?
 
 * CPAN Digger / MetaCPAN
