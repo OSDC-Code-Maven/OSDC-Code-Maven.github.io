@@ -391,7 +391,7 @@ In addition I asked around in various Perl-related groups and some people asked 
 
 * [Geo-IP2Proxy](https://metacpan.org/dist/Geo-IP2Proxy) - IP2Location (LOCATION)
     * 2026.01.05
-    * PR: [add meta-data to allow MetaCPAN to link to the repository](https://github.com/ip2location/ip2proxy-perl/pull/1) - Waiting 🕰️
+    * PR: [add meta-data to allow MetaCPAN to link to the repository](https://github.com/ip2location/ip2proxy-perl/pull/1) - Merged ✅
 
 * [Common-CodingTools](https://metacpan.org/dist/Common-CodingTools) - Richard Kelsch (RKELSCH)
     * 2025.12.26
