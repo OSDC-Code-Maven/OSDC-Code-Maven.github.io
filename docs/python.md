@@ -58,6 +58,8 @@ This material is being used during the online events organized in the [Code-Mave
     * [pytype](https://google.github.io/pytype/)
     * [Python types](https://python.code-maven.com/python-types/)
     * [Python types at PyWeb 2025.05](https://python.code-maven.com/python-types-at-pyweb-2025-05/)
+* Property-based testing
+    * [Hypothesis](https://hypothesis.readthedocs.io/)
 * Fuzz testing
     * [atheris](https://github.com/google/atheris)
 * Mutation testing
