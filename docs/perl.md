@@ -129,6 +129,9 @@ Other:
     * [Testing book](https://perlmaven.com/perl-testing/)
     * Test::More
     * Generate test coverage report  [Devel::Cover](https://metacpan.org/pod/Devel::Cover)
+    * Make tests (also?) run in parallel. `prove -j4`
+    * Shuffle the tests.  `prove --shuffle`
+    * This might help surface problems in the tests.
 * CI
     * If there are tests, check if there is a CI?
     * [Perl and CI](https://perlmaven.com/ci)
