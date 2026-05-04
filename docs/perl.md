@@ -3,6 +3,7 @@
 * [Events](#events)
 * [Chat](#chat)
 * [How to select a Perl project to contribute to?](#how-to-select-a-perl-project-to-contribute-to)
+* [Code reading](#code-reading)
 * [What and how to contribute to a Python project?](#what-and-how-to-contribute-to-a-perl-project)
 * [Tools](#tools)
 * [TODO](#todo) 🎁
