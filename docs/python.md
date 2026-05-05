@@ -150,7 +150,7 @@ This material is being used during the online events organized in the [Code-Mave
 
 * [vcsp-guard](https://pypi.org/project/vcsp-guard/)
     * 2026.04.13
-    * PR: [chore: convert test helper function to fixture](https://github.com/Giordano10/VCSP/pull/26) - Waiting 🕰️
+    * PR: [chore: convert test helper function to fixture](https://github.com/Giordano10/VCSP/pull/26) - Merged ✅
     * 2025.12.27
     * PR: [add link to github](https://github.com/Giordano10/VCSP/pull/1) - Merged ✅
     * PR: [add dependabot](https://github.com/Giordano10/VCSP/pull/2) - Closed but implemented 🤔
