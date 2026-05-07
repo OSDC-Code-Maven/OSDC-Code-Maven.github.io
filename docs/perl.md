@@ -63,6 +63,9 @@ Mocking:
 * [Test::MockTime](https://metacpan.org/pod/Test::MockTime)
 * [Test::Mock::Simple](https://metacpan.org/pod/Test::Mock::Simple)
 * [Test::MockObject](https://metacpan.org/pod/Test::MockObject)
+* [Test::Mock::Time](https://metacpan.org/pod/Test::Mock::Time)
+* [Test::MockModule](https://metacpan.org/pod/Test::MockModule)
+
 
 Testing:
 
