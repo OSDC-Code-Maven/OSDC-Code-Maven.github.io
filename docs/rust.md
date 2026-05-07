@@ -118,6 +118,11 @@ More explanation: https://github.com/szabgab/rust-digger/issues/89
 
 ## Projects
 
+* [delay_timer](https://crates.io/crates/delay_timer)
+    * 2026.05.05
+    * Found as using he `mockall` crate, but does it, really?
+    * Issue: [Compilation error in git clone](https://github.com/BinChengZhao/delay-timer/issues/56) - Waiting 🕰️
+
 * [zed](https://zed.dev/)
     * 2026.02.14
     * Issue: [panic while running inside Docker](https://github.com/zed-industries/zed/issues/49131) - Waiting 🕰️
