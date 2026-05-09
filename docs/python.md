@@ -3,6 +3,7 @@
 * [Events](#events)
 * [Chat](#chat)
 * [How to select a Python project to contribute to?](#how-to-select-a-python-project-to-contribute-to)
+* [Code reading](#code-reading)
 * [What and how to contribute to a Python project?](#what-and-how-to-contribute-to-a-python-project)
 * [Project reports](#project-reports)
 
@@ -21,11 +22,16 @@ This material is being used during the online events organized in the [Code-Mave
 * Pick a Python-based project you use.
 * Pick a Python module that your code directly depends on. They are listed in `requirements.txt` or `pyproject.toml`.
 * Pick a Python module that your code indirectly depends on. They are listed in `constraints.txt`, `uv.lock`.
-* Search on GitHub: [A semi-popular, recently updated Python project](https://github.com/search?q=stars%3A100..1000+pushed%3A%3E2025-10-01+language%3APython+&type=repositories&ref=advsearch) `stars:100..1000 pushed:>2025-10-01 language:Python`
+* Search on GitHub: [A semi-popular, recently updated Python project](https://github.com/search?q=stars%3A100..1000+pushed%3A%3E2026-05-01+language%3APython+&type=repositories&ref=advsearch) `stars:100..1000 pushed:>2026-05-01 language:Python`
 * For now I'll pick some of the scientific libraries. e.g. [Biology-related](https://python.code-maven.com/python-science/biology) libraries.
 * Ask ChatGPT to suggest other science-related libraries.
 * Pick a popular project and work on stale PRs. That is PRs where there is already good work, but the original author (of the PR) has vanished.
 * [PyDigger](https://pydigger.code-maven.com/) - once it is fixed.
+
+## Code reading
+
+* How various packages (projecst) are being tested.
+* How [monkeypatch of pytest](https://docs.pytest.org/en/stable/how-to/monkeypatch.html) is being used. Try [this search](https://github.com/search?q=monkeypatch.setattr+language%3APython&type=code&ref=advsearch)
 
 ## What and how to contribute to a Python project?
 
