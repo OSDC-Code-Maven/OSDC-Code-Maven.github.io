@@ -109,6 +109,7 @@ Other testing:
 * [Test::Perl::Critic](https://metacpan.org/pod/Test::Perl::Critic) - also check the configurations!
 * [Test::Pod](https://metacpan.org/pod/Test::Pod)
 * [Test::Pod::Coverage](https://metacpan.org/pod/Test::Pod::Coverage)
+* [App::Test::Generator](https://metacpan.org/pod/App::Test::Generator) - fuzzing.
 
 Other:
 
@@ -204,6 +205,16 @@ In addition I asked around in various Perl-related groups and some people asked 
 
 
 ## Project reports
+
+* 2026.05.07
+    * [Exploring Perl Modules](https://luma.com/perl-maven) session on via Luma.
+    * [Video recordings - part 1](https://academy.code-maven.com/l/os-perl-2026-05-07-part-1)  🎦 (registration is needed)
+    * [Video recordings - part 2](https://academy.code-maven.com/l/os-perl-2026-05-07-part-2)  🎦 (registration is needed)
+    * [Test::MockTime](https://metacpan.org/pod/Test::MockTime)
+    * [Data::Validate::Sanctions](https://metacpan.org/pod/Data::Validate::Sanctions)
+    * [Test::MockModule](https://metacpan.org/pod/Test::MockModule)
+    * [Weather-Meteo](https://metacpan.org/dist/Weather-Meteo)
+    * We noticed the [Koan-Bot](https://github.com/Koan-Bot) of [Nicolas R](https://github.com/atoomic)
 
 * [Dancer2-Plugin-RPC](https://metacpan.org/dist/Dancer2-Plugin-RPC) Abe Timmerman (ABELTJE)
     * 2026.03.10
