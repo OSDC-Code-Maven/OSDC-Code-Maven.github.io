@@ -58,13 +58,14 @@ Check the reverse dependencies of the following modules to see how they are used
 Mocking:
 
 * [DBD::Mock](https://metacpan.org/pod/DBD::Mock)
+* [Mock::Config](https://metacpan.org/pod/Mock::Config)
 * [Mock::Quick](https://metacpan.org/pod/Mock::Quick)
 * [Mock::Sub](https://metacpan.org/pod/Mock::Sub)
-* [Test::MockTime](https://metacpan.org/pod/Test::MockTime)
-* [Test::Mock::Simple](https://metacpan.org/pod/Test::Mock::Simple)
-* [Test::MockObject](https://metacpan.org/pod/Test::MockObject)
-* [Test::Mock::Time](https://metacpan.org/pod/Test::Mock::Time)
 * [Test::MockModule](https://metacpan.org/pod/Test::MockModule)
+* [Test::MockObject](https://metacpan.org/pod/Test::MockObject)
+* [Test::MockTime](https://metacpan.org/pod/Test::MockTime)
+* [Test::Mock::Time](https://metacpan.org/pod/Test::Mock::Time)
+* [Test::Mock::Simple](https://metacpan.org/pod/Test::Mock::Simple)
 
 
 Testing:
