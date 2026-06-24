@@ -46,6 +46,7 @@ This material is being used during the events organized in the [Code-Mavens](htt
     * [fuzzing](https://rustprojectprimer.com/testing/fuzzing.html)
 * Mutation testing with [cargo-mutants](https://mutants.rs/)
     * See article on [Mutation testing librsvg](https://viruta.org/mutation-testing-librsvg.html)
+    * [Test coverage and mutation testing of xmlem](https://rust.code-maven.com/mutant-testing-xmlem)
 * Code complexity analyzis
     * [complexity](https://docs.rs/complexity/latest/complexity/)
 * Refactoring
