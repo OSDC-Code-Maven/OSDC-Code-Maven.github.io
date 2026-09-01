@@ -175,6 +175,9 @@ More explanation: https://github.com/szabgab/rust-digger/issues/89
     * PR: [chore: add cargo fmt to the CI to ensure it is always checked](https://github.com/kornelski/xml-rs/pull/66) - rejected ❌ - some strong (and negative) opinion on `rustfmt`.
     * Issue: [Fix cargo clippy issues and add cargo clippy to the ci](https://github.com/kornelski/xml-rs/issues/67) - Waiting 🕰️  - TODO 🎁
     * Issue: [Remove the master branch](github.com/kornelski/xml-rs/issues/64) - done  ✅
+    * 2026.08.31
+    * PR: [add a test to check the Config.indent method](https://github.com/xmlem/xmlem/pull/20) - Waiting 🕰️
+    * 📺 [Video recordings](https://rust.code-maven.com/add-tests-to-an-open-source-rust-project-xmlem)
 
 * [rama](https://crates.io/crates/rama)
     * 2026.01.18
